@@ -1,0 +1,54 @@
+{
+  "method": "按正文关键词匹配，剔除含明确广告提示的段落，再按正文精确去重；仅供候选发现，不表示语义审核或全部蒸馏。",
+  "topics": {
+    "health": {
+      "availableFiles": 366,
+      "distinctBodies": 365,
+      "exactDuplicateGroups": [
+        [
+          "1000625861478",
+          "1000625815897"
+        ]
+      ],
+      "scannedBlocks": 63176,
+      "adPatternExcludedBlocks": 13,
+      "candidateEpisodeCounts": {
+        "找GP与连续照护": 44,
+        "药师与用药": 175,
+        "费用与ACC": 58,
+        "筛查与预防": 74,
+        "儿童与牙科": 218,
+        "预约与转介": 106,
+        "女性与盆底健康": 69,
+        "营养与补充剂": 166,
+        "运动与骨健康": 121,
+        "听力与耳鼻喉": 96,
+        "心理支持": 128,
+        "睡眠": 36
+      }
+    },
+    "wealth": {
+      "availableFiles": 351,
+      "distinctBodies": 351,
+      "exactDuplicateGroups": [],
+      "scannedBlocks": 48862,
+      "adPatternExcludedBlocks": 44,
+      "candidateEpisodeCounts": {
+        "债务": 221,
+        "房贷": 228,
+        "KiwiSaver": 207,
+        "退休与提款": 219,
+        "投资风险与分散": 141,
+        "税务": 24,
+        "防骗与存款保障": 36,
+        "伴侣与关系财产": 336,
+        "财务顾问": 164,
+        "保险": 163,
+        "工作与收入": 57,
+        "预算与现金流": 164,
+        "信托与法律文件": 17,
+        "基金与费用": 38
+      }
+    }
+  }
+}

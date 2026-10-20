@@ -1,0 +1,15 @@
+dist/
+private-reference/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.ttml
+*.m4a
+*.mp3
+*.wav
+transcripts/
+cache/
+.env
+.env.*
+__pycache__/
+.DS_Store

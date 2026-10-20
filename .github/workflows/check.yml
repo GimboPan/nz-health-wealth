@@ -1,0 +1,27 @@
+name: Check public guide
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: python3 scripts/validate_public.py
+      - run: python3 scripts/handbooks.py && python3 scripts/report.py
+      - run: git diff --exit-code -- docs/HEALTH.md docs/WEALTH.md docs/EPISODES.md docs/DISTILLATION.md docs/SOURCE-CHECKS.md content/source-checks.json
+      - run: python3 scripts/build.py
+      - run: node --check src/app.js
+      - uses: actions/upload-artifact@v4
+        with:
+          name: nz-health-wealth-offline
+          path: dist/index.html

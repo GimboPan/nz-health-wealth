@@ -1,0 +1,32 @@
+{
+  "health": {
+    "找GP与连续照护": ["general practi", "enrol", "same gp", "continuity"],
+    "预约与转介": ["referral", "refer you", "triage", "appointment"],
+    "药师与用药": ["pharmacist", "prescription", "medication"],
+    "费用与ACC": ["acc claim", "funded", "subsid", "co-payment"],
+    "筛查与预防": ["screening", "mammogram", "bowel test", "vaccin"],
+    "儿童与牙科": ["dental", "children", "school nurse"],
+    "听力与耳鼻喉": ["hearing", "cochlear", "audiolog"],
+    "睡眠": ["sleep ap", "cpap", "insomnia", "snoring"],
+    "心理支持": ["counsell", "mental health", "psychotherap", "access and choice"],
+    "女性与盆底健康": ["menopaus", "pelvic", "incontinence"],
+    "运动与骨健康": ["osteopor", "bone density", "resistance training", "physio"],
+    "营养与补充剂": ["supplement", "nutrition", "dietitian"]
+  },
+  "wealth": {
+    "预算与现金流": ["budget", "cash flow", "cash buffer", "emergency fund"],
+    "债务": ["credit card", "high interest", "hire purchase", "debt"],
+    "房贷": ["mortgage", "refinanc", "revolving credit", "break fee"],
+    "保险": ["insurance", "excess", "premium"],
+    "KiwiSaver": ["kiwisaver", "kiwi saver", "savings suspension"],
+    "退休与提款": ["retire", "drawdown", "superannuation"],
+    "基金与费用": ["index fund", "fund fee", "management fee", "basis point"],
+    "投资风险与分散": ["diversif", "volatility", "risk profile", "asset class"],
+    "税务": ["pir rate", "prescribed investor", "tax return", "fair dividend", "foreign investment fund"],
+    "防骗与存款保障": ["scam", "fraud", "deposit guarantee", "depositor compensation"],
+    "财务顾问": ["financial advis", "trail commission", "fee-based"],
+    "信托与法律文件": ["trustee", "trust deed", "enduring power", "will and"],
+    "伴侣与关系财产": ["relationship property", "prenup", "partner", "couple"],
+    "工作与收入": ["redundancy", "employment agreement", "employment contract", "dismiss"]
+  }
+}

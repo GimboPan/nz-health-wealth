@@ -1,0 +1,75 @@
+{
+  "name": "NZ Health & Wealth",
+  "chineseName": "在新西兰，好好生活",
+  "version": "1.0.0",
+  "edition": "首个公开内容版",
+  "observedDate": "2026-10-20",
+  "corpus": [
+    {
+      "name": "The Health Hub",
+      "showId": "1444362063",
+      "episodes": 370,
+      "available": 366,
+      "words": 2698744,
+      "hours": 242.0,
+      "latest": "2026-10-11",
+      "missing": [
+        {
+          "date": "2026-10-18",
+          "eid": "1000796877542",
+          "title": "Dr Alex Bartle: There are many distractions stopping you from getting the best sleep"
+        },
+        {
+          "date": "2024-02-04",
+          "eid": "1000644132213",
+          "title": "Kyle MacDonald: Mental health and the impact on behaviour"
+        },
+        {
+          "date": "2019-05-12",
+          "eid": "1000438769470",
+          "title": "Dr Roderick Mulgan: Kids should be playing contact sport!"
+        },
+        {
+          "date": "2018-11-05",
+          "eid": "1000424392242",
+          "title": "Nikki Hart: What's wrong with artificial sweeteners?"
+        }
+      ]
+    },
+    {
+      "name": "Smart Money",
+      "showId": "1445636358",
+      "episodes": 355,
+      "available": 351,
+      "words": 2477399,
+      "hours": 230.4,
+      "latest": "2026-10-11",
+      "missing": [
+        {
+          "date": "2026-10-18",
+          "eid": "1000796883869",
+          "title": "Chris Wilson: Concerns for investing in AI are valid as new technology can attract too much capital, too quickly"
+        },
+        {
+          "date": "2024-02-04",
+          "eid": "1000644130769",
+          "title": "Max Whitehead: What to make of the modest increase to the minimum wage"
+        },
+        {
+          "date": "2019-03-24",
+          "eid": "1000433110558",
+          "title": "Scott Pape: Why you should be investing in shares"
+        },
+        {
+          "date": "2018-11-06",
+          "eid": "1000425150952",
+          "title": "Carissa Fairbrother: What would you change about superannuation?"
+        }
+      ]
+    }
+  ],
+  "repository": "https://github.com/GimboPan/nz-health-wealth",
+  "website": "https://gimbo.co.nz/ideas/nz-health-wealth",
+  "guide": "https://gimbo.co.nz/ideas/nz-health-wealth-guide.html",
+  "scope": "86 条高频场景指南；84 条节目片段引用；2 条官方补充。未逐期完整蒸馏全库。"
+}

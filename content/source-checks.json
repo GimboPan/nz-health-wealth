@@ -1,0 +1,1158 @@
+[
+  {
+    "url": "https://www.healthnz.govt.nz/hospitals-services/which-health-service-should-i-use",
+    "label": "Health NZ · Which health service should I use?",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "emergency",
+        "title": "情况危急时，先拨 111",
+        "claim": "官方把危及生命的紧急情况列为 111 / 急诊入口。"
+      },
+      {
+        "id": "same-day",
+        "title": "约不上 GP，先把情况告诉诊所",
+        "claim": "官方列有当天就医、健康咨询等入口；Online GP Care 无需预先 enrol，是否适合须按病情判断。"
+      },
+      {
+        "id": "pharmacist",
+        "title": "进药房时，明确找 pharmacist",
+        "claim": "官方把药房列为部分常见健康问题、药物咨询和取药的入口。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/online-phone-healthcare/healthline",
+    "label": "Health NZ · Healthline",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "healthline",
+        "title": "拿不准去哪看，先问 Healthline",
+        "claim": "Healthline 可提供健康与用药建议，并帮助判断下一步；有口译服务。"
+      },
+      {
+        "id": "interpreter",
+        "title": "预约时，就把语言需要说出来",
+        "claim": "Healthline 官方说明可在通话中安排口译。面诊的具体安排需向接诊机构确认。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/online-phone-healthcare/online-gp-care",
+    "label": "Health NZ · Online GP Care",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "same-day",
+        "title": "约不上 GP，先把情况告诉诊所",
+        "claim": "官方列有当天就医、健康咨询等入口；Online GP Care 无需预先 enrol，是否适合须按病情判断。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/general-practices",
+    "label": "Health NZ · General practices",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "enrol",
+        "title": "Enrol：先把自己注册进一家诊所",
+        "claim": "符合公费医疗条件者可办理 enrol；诊所可能要求护照等证明及注册表。"
+      },
+      {
+        "id": "closed-books",
+        "title": "听到 closed books，继续问可选路径",
+        "claim": "相关官网提供诊所查找和注册信息；具体名额需向诊所确认。"
+      },
+      {
+        "id": "continuity",
+        "title": "慢性或复杂问题，尽量连续看同一位医生",
+        "claim": "官方将长期健康问题管理列为全科团队的职责之一。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/hospitals-services/eligibility-subsidies/publicly-funded-healthcare",
+    "label": "Health NZ · Publicly funded healthcare",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "funding",
+        "title": "先核对公费资格，再问项目费用",
+        "claim": "现行资格按身份和文件条件判断；官方页面同时预告了 12 月规则变更。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/health-topics/tests-and-treatments/medicines/prescriptions",
+    "label": "Health NZ · Prescriptions",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "prescription-cost",
+        "title": "取药前，问清处方费和额外费用",
+        "claim": "官方区分一般处方、私人开方、豁免与补贴；药房可就额外服务收费。"
+      },
+      {
+        "id": "repeat",
+        "title": "长期药快用完，提前联系开方团队",
+        "claim": "官方说明部分稳定长期病情可使用最长 12 个月处方；不表示一次领取一年药量，一般每次供药仍最多三个月，口服避孕药另有规则。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.acc.co.nz/im-injured/what-to-do",
+    "label": "ACC · What to do if you are injured",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "acc",
+        "title": "意外受伤，问医疗提供者能否申请 ACC",
+        "claim": "ACC 说明治疗提供者可递交申请，承保由 ACC 决定；工作相关渐进性伤害有专门评估路径。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.acc.co.nz/im-injured/how-we-manage-your-claim/cover-decisions",
+    "label": "ACC · Cover decisions",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "acc",
+        "title": "意外受伤，问医疗提供者能否申请 ACC",
+        "claim": "ACC 说明治疗提供者可递交申请，承保由 ACC 决定；工作相关渐进性伤害有专门评估路径。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/online-phone-healthcare/online-gp-care/frequently-asked-questions-faqs-for-the-online-gp-booking-service",
+    "label": "Health NZ · Online GP Care FAQs",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "medicine-list",
+        "title": "把全部用药带给药师一起核对",
+        "claim": "官方线上就诊准备建议包含用药清单；此处把清单动作整理为药师沟通工具。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/planned-care",
+    "label": "Health NZ · Planned care",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "referral",
+        "title": "需要专科时，先问评估和转介路径",
+        "claim": "官方 planned care 流程由医疗提供者评估是否需要转介。"
+      },
+      {
+        "id": "waiting",
+        "title": "转介后，把回信和复评节点记下来",
+        "claim": "官方说明转介后应获知下一步；情况恶化应回医疗提供者复评。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/health-topics/mental-health/where-to-get-help/wellbeing-support/wellbeing-support-in-general-practice-gp",
+    "label": "Health NZ · Wellbeing support in general practice",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "hip",
+        "title": "想找心理支持，先问诊所有没有 HIP",
+        "claim": "已在参与提供者注册的患者可获得项目支持，无正式转介门槛；具体安排向诊所询问。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/about-us/what-we-do/programmes-and-initiatives/national-bowel-screening-programme",
+    "label": "Health NZ · National Bowel Screening Programme",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "bowel",
+        "title": "肠癌筛查：56 岁门槛有地区差异",
+        "claim": "八个地区为 Waitematā、Auckland、Counties Manukau、Waikato、Tairāwhiti、Wairarapa、West Coast、South Canterbury；项目筛查至 74 岁，每两年一次。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/health-topics/keeping-healthy/cancer-screening/breast-screening/breast-screening-information-for-women-aged-70-and-over",
+    "label": "Health NZ · Breast screening age extension",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "breast",
+        "title": "乳腺筛查：年龄扩展要查出生日期和地区",
+        "claim": "45–69 岁的常规项目之外，70 岁以上扩展取决于出生日期和地区，全面扩展到 74 岁计划于 2029 年底完成。"
+      }
+    ]
+  },
+  {
+    "url": "https://sorted.org.nz/blog/where-should-you-keep-your-emergency-fund-why-a-separate-account-wins/",
+    "label": "Sorted · Where to keep an emergency fund",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "cash-buffer",
+        "title": "应急的钱，先留在方便取用的地方",
+        "claim": "Sorted 建议将应急资金与日常开支分开，重点是需要时能取用。"
+      }
+    ]
+  },
+  {
+    "url": "https://sorted.org.nz/guides/saving-and-investing/about-investing/",
+    "label": "Sorted · How to start investing",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "money-goals",
+        "title": "买产品前，先写下用钱的时间",
+        "claim": "Sorted 将期限、收益、流动性与风险列为投资规划的重要因素。"
+      },
+      {
+        "id": "diversification",
+        "title": "多个产品，不一定代表真正分散",
+        "claim": "Sorted 将分散与期限、风险一起考虑；不是保本承诺。"
+      },
+      {
+        "id": "regular-investing",
+        "title": "定期投入是一种安排，不是稳赚或抄底保证",
+        "claim": "Sorted 解释定期投入与 dollar-cost averaging，并提示投资期限、分散和费用；它不是收益保证。"
+      }
+    ]
+  },
+  {
+    "url": "https://sorted.org.nz/guides/saving-and-investing/investor-profile/",
+    "label": "Sorted · Your investor profile",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "money-goals",
+        "title": "买产品前，先写下用钱的时间",
+        "claim": "Sorted 将期限、收益、流动性与风险列为投资规划的重要因素。"
+      }
+    ]
+  },
+  {
+    "url": "https://assets.sorted.org.nz/public/2022-booklets/Sorted_Goals_Booklet.pdf",
+    "label": "Sorted · Goals booklet",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "debt-list",
+        "title": "先把每笔债的总成本列清楚",
+        "claim": "Sorted 的目标规划材料将高息债列为优先处理事项。"
+      }
+    ]
+  },
+  {
+    "url": "https://sorted.org.nz/guides/life-events/relationships/",
+    "label": "Sorted · Relationships and money",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "couples",
+        "title": "和伴侣谈钱，先把事实摆上桌",
+        "claim": "Sorted 建议伴侣尽早沟通并共同规划财务。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ird.govt.nz/kiwisaver/kiwisaver-individuals/employee-contributions",
+    "label": "IRD · Employee contributions",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "kiwi-rate",
+        "title": "KiwiSaver：先核对工资单上的比例",
+        "claim": "IRD 现行员工比例列为 3.5%、4%、6%、8%、10%；默认 3.5%。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ird.govt.nz/kiwisaver/kiwisaver-individuals/kiwisaver-benefits",
+    "label": "IRD · KiwiSaver benefits",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "kiwi-government",
+        "title": "政府 KiwiSaver 补贴，按当年资格核对",
+        "claim": "IRD 现行上限为 $260.72，按合资格个人缴费的 25% 计算，另有资格条件。"
+      },
+      {
+        "id": "kiwi-home",
+        "title": "首次买房提款，签约前先问 provider",
+        "claim": "IRD 说明首次购房提款通常要求至少三年会员期，并须保留 $1,000。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ird.govt.nz/kiwisaver/kiwisaver-individuals/joining-kiwisaver/choosing-a-kiwisaver-provider",
+    "label": "IRD · Choosing a KiwiSaver fund",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "kiwi-fund",
+        "title": "查自己在哪个基金，再比较是否合适",
+        "claim": "IRD 说明 provider 可提供多种风险和回报特征不同的基金，并提供 Sorted 比较入口。"
+      },
+      {
+        "id": "fund-fees",
+        "title": "比较基金，把费用看成长期的一部分",
+        "claim": "IRD 的基金披露说明包括费用、规则与投资方式，比较时应读具体产品文件。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.fma.govt.nz/scams/scam-basics",
+    "label": "FMA · Scam basics",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "investment-scam",
+        "title": "投资前，独立查证对方身份和付款信息",
+        "claim": "FMA 提醒检查许可、理解投资机制并识别异常付款和追回资金骗局。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.fma.govt.nz/library/articles/staying-safe-with-online-money-advice/",
+    "label": "FMA · Staying safe with online money advice",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "ai-money",
+        "title": "让 AI 帮你列问题，结论回到原始来源",
+        "claim": "FMA 提醒谨慎对待线上金钱建议；有疑问时寻求适当持牌财务建议。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/dentists/dental-care-for-rangatahi",
+    "label": "Health NZ · Dental care for teens",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "child-dental",
+        "title": "孩子的牙科，要单独确认是否已注册",
+        "claim": "Health NZ 说明儿童牙科需注册；青少年应由参加资助项目的提供者接诊。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/hospitals-services/hospitals/wellington-hutt-and-kapiti/bee-healthy-regional-dental-service/dental-care-for-children",
+    "label": "Health NZ · Dental care for children",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "child-dental",
+        "title": "孩子的牙科，要单独确认是否已注册",
+        "claim": "Health NZ 说明儿童牙科需注册；青少年应由参加资助项目的提供者接诊。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/health-topics/immunisations/vaccines-aotearoa/shingles-vaccine",
+    "label": "Health NZ · Shingles vaccine",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "shingles-funding",
+        "title": "带状疱疹疫苗：65 岁窗口之外，还有特定条件",
+        "claim": "官方列明年龄窗口、特定免疫条件，以及首剂在 65 岁时第二剂可延后至 66 岁后的规则。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.enable.co.nz/access-support/vision-and-hearing/hearing-support",
+    "label": "Enable NZ · Hearing support",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "hearing-funding",
+        "title": "助听器补贴：让听力师分清你走哪套资助",
+        "claim": "Enable 列明资助方案及身份、临床等要求；应由其认可的听力师核对。"
+      },
+      {
+        "id": "hearing-assessment",
+        "title": "耳鸣或听力影响生活，先把问题评估清楚",
+        "claim": "Enable NZ 的 hearing support 入口区分资助方案，并要求结合听力和相关条件核对；不能把商业初筛当成资助已获批。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/ear-nose-throat/obstructive-sleep-apnoea",
+    "label": "Health NZ · Obstructive sleep apnoea",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "cpap-support",
+        "title": "CPAP 用不惯，回到开机与治疗团队排查",
+        "claim": "Health NZ 将合适的面罩与 CPAP 使用列为睡眠呼吸暂停治疗的一部分。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/health-topics/keeping-healthy/sleep",
+    "label": "Health NZ · Sleep",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "sleep-routine",
+        "title": "睡不好，先记录规律与白天影响",
+        "claim": "Health NZ 建议规律睡醒，并在持续睡眠问题时寻求适当帮助。"
+      },
+      {
+        "id": "alcohol-sleep",
+        "title": "不要把酒当作助眠办法",
+        "claim": "Health NZ 明确不建议用酒助眠；酒精可能破坏睡眠并加重打鼾或睡眠呼吸暂停。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/getting-help-with-alcohol-or-drug-addiction",
+    "label": "Health NZ · Alcohol treatment support",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "alcohol-sleep",
+        "title": "不要把酒当作助眠办法",
+        "claim": "Health NZ 明确不建议用酒助眠；酒精可能破坏睡眠并加重打鼾或睡眠呼吸暂停。"
+      },
+      {
+        "id": "alcohol-support",
+        "title": "想减少饮酒，先评估是否需要医疗支持",
+        "claim": "Health NZ 说明重度依赖者减量或停用可能出现戒断，通常需要健康专业人员帮助；治疗渠道包括不同强度的专业服务。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/womens-health/ageing-well",
+    "label": "Health NZ · Ageing well",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "menopause-appointment",
+        "title": "更年期相关困扰，把症状和问题带去谈",
+        "claim": "Health NZ 的女性健康资料建议就诊前记录症状、问题和用药，也可带支持者。"
+      }
+    ]
+  },
+  {
+    "url": "https://physioboard.org.nz/education/education-by-subject/newly-registered-physiotherapists/welcome-to-practice-in-aotearoa-new-zealand",
+    "label": "Physiotherapy Board · NZ practice guidance",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "physio-access",
+        "title": "想看物理治疗，先问能否直接预约",
+        "claim": "Physiotherapy Board 说明私立物理治疗通常可 self-refer；具体服务仍按其接收规则。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/bones-and-joints/osteoporosis",
+    "label": "Health NZ · Osteoporosis",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "bone-exercise",
+        "title": "骨密度下降，先评估再选力量训练",
+        "claim": "Health NZ 把适当负重和肌力活动纳入骨健康管理，并说明医疗提供者可评估风险。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/health-topics/keeping-healthy/cancer-screening/bowel-screening/check-if-youre-eligible",
+    "label": "Health NZ · Bowel screening eligibility",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "screening-vs-symptoms",
+        "title": "有症状时，不要等到免费筛查年龄",
+        "claim": "官方肠癌筛查资料明确：出现担忧症状时应找医疗提供者，不等筛查包。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.medsafe.govt.nz/regulatory/DietarySupplements/Regulation.asp",
+    "label": "Medsafe · Regulation of dietary supplements",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "supplement-label",
+        "title": "“专业渠道”标签，不等于疗效获官方认证",
+        "claim": "Medsafe 说明膳食补充剂没有上市前预批准流程；合规售卖不等于监管方逐一认证安全或疗效。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.acc.co.nz/im-injured/resolve-an-issue/request-an-independent-review",
+    "label": "ACC · Independent review",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "acc-review",
+        "title": "不同意 ACC 决定，先看决定信和复核期限",
+        "claim": "ACC 的复核页面说明申请路径，ACC33 页面列出三个月期限；逾期需解释并另行评估。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.acc.co.nz/im-injured/resolve-an-issue/apply-for-a-review-acc33",
+    "label": "ACC · Review application ACC33",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "acc-review",
+        "title": "不同意 ACC 决定，先看决定信和复核期限",
+        "claim": "ACC 的复核页面说明申请路径，ACC33 页面列出三个月期限；逾期需解释并另行评估。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/hospitals-services/hospitals/auckland/north-west/pelvic-floor-and-continence-physiotherapy-auckland-north-west",
+    "label": "Health NZ · Pelvic floor and continence service",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "pelvic-health",
+        "title": "漏尿或盆底困扰，可以直接开口求助",
+        "claim": "Health NZ Auckland North/West 的项目接受自我及专业转介，并列有排除条件；其他地区需分别查。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mcnz.org.nz/registration/maintain-or-renew-registration/practising-certificates/applying-for-a-practising-certificate/",
+    "label": "Medical Council · Practising certificates",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "doctor-register",
+        "title": "找医生时，核对登记与当前执业状态",
+        "claim": "Medical Council 说明在新西兰执业须有登记及有效 practising certificate。"
+      }
+    ]
+  },
+  {
+    "url": "https://sorted.org.nz/guides/home-buying/mortgage-types/",
+    "label": "Sorted · Mortgage types",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "mortgage-fixed-floating",
+        "title": "固定还是浮动，先比较预算与合同限制",
+        "claim": "Sorted 说明固定利率的预算确定性与灵活性限制；具体成本按合同确认。"
+      },
+      {
+        "id": "mortgage-split",
+        "title": "房贷分段到期，是一个需要讨论的风险安排",
+        "claim": "Sorted 列有 split mortgage 结构；是否适合取决于现金流、合同和个人情况。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.consumerprotection.govt.nz/help-product-service/borrowing-money/mortgages-and-home-loans",
+    "label": "Consumer Protection · Mortgages",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "mortgage-break-cost",
+        "title": "转贷或提前重签，先要一份完整费用表",
+        "claim": "Consumer Protection 说明固定房贷可能按合同收提前还款费用；比较应看总成本。"
+      },
+      {
+        "id": "revolving-credit",
+        "title": "循环房贷的灵活性，也可能让本金一直降不下去",
+        "claim": "Consumer Protection 要求借款人把支出习惯、预算和未来变化纳入结构选择。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.consumerprotection.govt.nz/help-product-service/managing-money/insurance",
+    "label": "Consumer Protection · Insurance",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "insurance-excess",
+        "title": "保费上涨，先一起看 excess 和应急金",
+        "claim": "官方消费者资料要求理解承保范围、条款及除外责任，不能只比较价格。"
+      },
+      {
+        "id": "insurance-disclosure",
+        "title": "投保、续保或情况改变，重新确认披露内容",
+        "claim": "Consumer Protection 要求申请、续保、理赔及情况改变时提供完整相关信息。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ird.govt.nz/pir",
+    "label": "IRD · Find your PIR",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "pir-review",
+        "title": "收入变化后，重算 PIR 再通知基金",
+        "claim": "IRD 的 PIR 工具按税务身份及前两个税年收入判断，算出后应告知 PIE。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ird.govt.nz/income-tax/income-tax-for-individuals/types-of-individual-income/share-investments",
+    "label": "IRD · Share investments",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "overseas-share-tax",
+        "title": "海外股票，先核对 FIF 与适用例外",
+        "claim": "IRD 的股份投资指引把海外股份购买成本与 FIF 判断连接起来，并提供澳洲上市股例外工具。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxtechnical.ird.govt.nz/-/media/project/ir/tt/pdfs/fact-sheets/2024/is-24-10-fs-2.pdf",
+    "label": "IRD · Taxable share sales fact sheet",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "share-sale-tax",
+        "title": "卖股票获利，不只“职业交易员”才可能缴税",
+        "claim": "IRD 说明即使未经营股票交易业务，若购入时主要目的为出售，出售收入也可能应税。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.rbnz.govt.nz/dcs/how-much-money-does-dcs-protect",
+    "label": "RBNZ · How much does DCS protect?",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "deposit-protection",
+        "title": "存款保障，按每人每家机构合并核对",
+        "claim": "RBNZ 明确上限按每位存款人及每家 deposit taker 计算，机构也须公布其受保障产品。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.rbnz.govt.nz/dcs/what-the-dcs-covers",
+    "label": "RBNZ · What the DCS covers",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "deposit-protection",
+        "title": "存款保障，按每人每家机构合并核对",
+        "claim": "RBNZ 明确上限按每位存款人及每家 deposit taker 计算，机构也须公布其受保障产品。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.rbnz.govt.nz/regulation-and-supervision/cross-sector-oversight/registers-of-entities-we-regulate/deposit-takers-that-offer-dcs-protected-deposits",
+    "label": "RBNZ · DCS deposit takers",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "deposit-protection",
+        "title": "存款保障，按每人每家机构合并核对",
+        "claim": "RBNZ 明确上限按每位存款人及每家 deposit taker 计算，机构也须公布其受保障产品。"
+      }
+    ]
+  },
+  {
+    "url": "https://sorted.org.nz/guides/retirement/manage-your-money-in-retirement/",
+    "label": "Sorted · Money in retirement",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "retirement-budget",
+        "title": "退休需要多少钱，先写自己的预算",
+        "claim": "Sorted 提供退休预算和储蓄管理框架，支持按自身生活需要计算。"
+      }
+    ]
+  },
+  {
+    "url": "https://sorted.org.nz/how-these-calculators-work/how-the-retirement-navigator-works/",
+    "label": "Sorted · Retirement navigator methodology",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "retirement-income",
+        "title": "把退休储蓄转换成收入，先做情景比较",
+        "claim": "Sorted 的 retirement navigator 展示不同经验规则与假设，供情景分析而非回报保证。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ird.govt.nz/kiwisaver/kiwisaver-individuals/getting-my-kiwisaver-when-i-retire",
+    "label": "IRD · KiwiSaver at retirement",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "kiwi-after-65",
+        "title": "到 65 岁，不代表必须一次取走 KiwiSaver",
+        "claim": "IRD 说明现行一般提款年龄为 65 岁，并允许继续缴费；具体提款联系 provider。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ird.govt.nz/about-us/tax-statistics/kiwisaver/contributions/savings-suspensions",
+    "label": "IRD · Savings suspension rules and statistics",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "kiwi-suspension",
+        "title": "现金流吃紧，先查 savings suspension 的条件与代价",
+        "claim": "IRD 区分普通与困难暂停，并列明普通会员期及三个月至一年的时限。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.fma.govt.nz/consumer/getting-advice/",
+    "label": "FMA · Getting advice",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "adviser-pay",
+        "title": "找财务顾问，先问他如何收费与受谁委托",
+        "claim": "FMA 说明顾问必须告知报酬方式；零售受规管建议须持有或在 FAP 许可下提供。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.fma.govt.nz/business/services/financial-advice-provider/financial-advice-provider-licensing/",
+    "label": "FMA · FAP licensing",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "adviser-pay",
+        "title": "找财务顾问，先问他如何收费与受谁委托",
+        "claim": "FMA 说明顾问必须告知报酬方式；零售受规管建议须持有或在 FAP 许可下提供。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.justice.govt.nz/justice-sector-policy/key-initiatives/key-initiatives-archive/trust-law-reform/",
+    "label": "Ministry of Justice · Trust law duties",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "trustee-duties",
+        "title": "答应做 trustee 前，先了解持续责任",
+        "claim": "司法部说明 Trusts Act 的 mandatory duties，包括了解条款、诚信履职及为受益人/许可目的行使权力。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.legislation.govt.nz/act/public/2019/38/en/latest/sections/DLM7382815/",
+    "label": "NZ Legislation · Trusts Act 2019",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "trustee-duties",
+        "title": "答应做 trustee 前，先了解持续责任",
+        "claim": "司法部说明 Trusts Act 的 mandatory duties，包括了解条款、诚信履职及为受益人/许可目的行使权力。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.justice.govt.nz/family/powers-to-make-decisions/the-court-and-enduring-power-of-attorney-epa/",
+    "label": "Ministry of Justice · Enduring power of attorney",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "epa-planning",
+        "title": "趁能作决定时，了解 EPA 的安排",
+        "claim": "司法部列有 property 和 personal care/welfare 两类 EPA 文件，可通过律师或 trustee corporation 设置。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.justice.govt.nz/family/separation-divorce/divide-relationship-property/",
+    "label": "Ministry of Justice · Divide relationship property",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "relationship-agreement",
+        "title": "关系财产协议，不只要写下来",
+        "claim": "司法部说明可执行的关系财产分配协议需书面并有双方独立法律意见。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.employment.govt.nz/fair-work-practices/restructuring-and-workplace-change/workplace-change-process",
+    "label": "Employment NZ · Workplace change process",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "redundancy-process",
+        "title": "收到裁员提议，先分清提议、反馈与最终决定",
+        "claim": "Employment NZ 的变更流程包括提供提议、听取并考虑反馈、决定及重部署选项，并应核对合同。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/heart-health/high-blood-pressure-hypertension",
+    "label": "Health NZ · High blood pressure",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "home-blood-pressure",
+        "title": "诊所和家中血压不同，把记录带回去讨论",
+        "claim": "Health NZ 说明临床团队可能建议居家或 24 小时监测；如何解读和是否治疗须结合个人评估。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/cancer/melanoma",
+    "label": "Health NZ · Melanoma",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "skin-change",
+        "title": "皮肤出现新变化，预约时就说明变化",
+        "claim": "Health NZ 的 melanoma 资料提供早期变化识别与皮肤检查信息；有担忧时应寻求医疗评估。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.heartfoundation.org.nz/wellbeing/healthy-eating",
+    "label": "Heart Foundation NZ · Heart-healthy eating",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "nutrition-evidence",
+        "title": "营养建议互相打架，回到整体饮食与可靠资料",
+        "claim": "Heart Foundation NZ 按整体饮食模式提供心脏健康教育，并建议结合个人情况使用；它是公共健康教育来源，不是本项目的临床审核。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/health-topics/tests-and-treatments/surgery/hernia-repair-surgery",
+    "label": "Health NZ · Hernia repair surgery",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "post-surgery-activity",
+        "title": "术后回工作和运动，先拿到个人恢复安排",
+        "claim": "Health NZ 的疝气修补资料按手术及工作类型区分恢复安排，并提醒避免造成牵拉或疼痛的活动；应以自己的手术团队计划为准。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.acc.co.nz/preventing-injury/trips-falls/preventing-falls-for-over-65s",
+    "label": "ACC · Preventing falls for over 65s",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "falls-prevention",
+        "title": "担心跌倒，查本地力量与平衡支持",
+        "claim": "ACC 提供面向老年人的防跌倒资料、社区力量与平衡课程入口及家庭安全信息。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hdc.org.nz/your-rights/about-the-code/code-of-health-and-disability-services-consumers-rights/",
+    "label": "HDC · Code of Rights",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "second-opinion",
+        "title": "对方案仍有疑问，可以询问第二意见的路径",
+        "claim": "HDC Code Right 6 包括就如何取得另一提供者意见获得诚实准确回答，以及按要求获得书面信息摘要的权利。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mpi.govt.nz/food-business/labelling-composition-food-drinks/labelling-food-for-retail-sale",
+    "label": "MPI · Labelling food for retail sale",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "food-labels",
+        "title": "比较包装食品，先看同一种计量单位",
+        "claim": "MPI 说明营养信息表通常列每份与每 100g/100ml 的营养含量；存在产品例外，不能说所有商品一律必须有完整营养表。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.heartfoundation.org.nz/wellbeing/healthy-eating/how-to-read-food-labels",
+    "label": "Heart Foundation NZ · Food labels",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "food-labels",
+        "title": "比较包装食品，先看同一种计量单位",
+        "claim": "MPI 说明营养信息表通常列每份与每 100g/100ml 的营养含量；存在产品例外，不能说所有商品一律必须有完整营养表。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-addiction",
+    "label": "Health NZ · Alcohol addiction",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "alcohol-support",
+        "title": "想减少饮酒，先评估是否需要医疗支持",
+        "claim": "Health NZ 说明重度依赖者减量或停用可能出现戒断，通常需要健康专业人员帮助；治疗渠道包括不同强度的专业服务。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/online-phone-healthcare/online-hospital-appointments-telehealth",
+    "label": "Health NZ · Online hospital appointments",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "telehealth-plan",
+        "title": "选远程问诊时，把记录与后续衔接问清",
+        "claim": "Health NZ 的医院远程预约资料建议先问临床适合性，准备药单和问题，并说明需要检查时须面诊；私人线上服务条件另查。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.consumerprotection.govt.nz/help-product-service/borrowing-money/payment-problems",
+    "label": "Consumer Protection · Payment problems",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "free-budget-help",
+        "title": "财务压力大，可以先找免费保密的预算支持",
+        "claim": "Consumer Protection 建议尽早获取免费 financial mentor 支持，可协助预算、与放款人沟通和寻找其他帮助。"
+      },
+      {
+        "id": "debt-hardship",
+        "title": "预计还不上贷款，尽早书面联系放款人",
+        "claim": "Consumer Protection 列出书面申请、证据及处理规则；免费 financial mentor 可协助与放款人沟通。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.moneytalks.co.nz/",
+    "label": "MoneyTalks · 服务入口",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "free-budget-help",
+        "title": "财务压力大，可以先找免费保密的预算支持",
+        "claim": "Consumer Protection 建议尽早获取免费 financial mentor 支持，可协助预算、与放款人沟通和寻找其他帮助。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.consumerprotection.govt.nz/help-product-service/borrowing-money/credit-checks-scores-and-history",
+    "label": "Consumer Protection · Credit checks, scores and history",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "credit-report",
+        "title": "查信用记录时，先确认事实与错误",
+        "claim": "Consumer Protection 说明免费取报告、更正错误与身份盗用处理路径；付款不等于历史违约立即消失。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.consumerprotection.govt.nz/general-help/ways-to-buy-and-pay/buy-now-pay-later",
+    "label": "Consumer Protection · Buy Now Pay Later",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "bnpl-calendar",
+        "title": "先买后付，也要放进同一张还款日历",
+        "claim": "Consumer Protection 将 BNPL 明确列为债务，说明可能的逾期费用、信用影响及困难处理路径。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ird.govt.nz/kiwisaver/kiwisaver-for-individuals/getting-my-kiwisaver-funds-early/getting-my-kiwisaver-funds-for-significant-financial-hardship",
+    "label": "IRD · Significant financial hardship",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "kiwi-hardship",
+        "title": "严重财务困难提款，先向 provider 确认材料",
+        "claim": "IRD 列出严重财务困难的情形、证据和申请入口，并区分早期成员；可提范围受规则约束。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.justice.govt.nz/courts/high-court/probate-information-and-guidance/",
+    "label": "Ministry of Justice · Probate",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "will-preparation",
+        "title": "准备遗嘱，先把意愿、执行人和复杂情况理清",
+        "claim": "司法部说明 probate 是法院确认遗嘱并授权 executor 管理遗产的过程；具体起草与有效性应取得合适法律意见。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.publictrust.co.nz/about-us/terms-of-engagement/fee-schedule/",
+    "label": "Public Trust · Fee schedule",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "executor-cost",
+        "title": "“免费立遗嘱”，还要问谁执行、以后如何收费",
+        "claim": "Public Trust 公开说明，其担任 executor 等角色的后续工作适用相应费用及工时收费；具体范围须按其聘用条款核对。"
+      }
+    ]
+  },
+  {
+    "url": "https://sorted.org.nz/guides/protecting-wealth/insurance-types/",
+    "label": "Sorted · Different insurance types",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "income-protection",
+        "title": "收入中断时，先找家庭预算的缺口",
+        "claim": "Sorted 区分收入保障、寿险等不同功能，强调家庭依赖与个人情况；它是教育资料，最终保障由保单决定。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.tenancy.govt.nz/starting-a-tenancy/new-to-tenancy/information-for-new-tenants/",
+    "label": "Tenancy Services · Information for new tenants",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "renter-contents",
+        "title": "租房时，别把房东保险当作自己的物品保障",
+        "claim": "Tenancy Services 建议新租户考虑包含 personal liability 的 contents insurance；是否承保仍按个人保单与居住安排。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ird.govt.nz/employing-staff/deductions-from-income/employer-superannuation-contribution-tax",
+    "label": "IRD · Employer superannuation contribution tax",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "employer-esct",
+        "title": "雇主缴款少于工资单比例，先查 ESCT",
+        "claim": "IRD 说明雇主 KiwiSaver 缴款通常扣 ESCT，并列出可按协议采用 PAYE 的安排；税率依收入等情况确定。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.fma.govt.nz/scams/report-a-scam/",
+    "label": "FMA · Report a scam",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "scam-response",
+        "title": "已经转钱或泄露资料，立即联系自己的银行",
+        "claim": "FMA 建议立即联系银行或转账服务，停止与骗子联系并报告投资骗局；也专门提醒 recovery scams。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.fma.govt.nz/library/articles/recovery-scams",
+    "label": "FMA · Recovery scams",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "scam-response",
+        "title": "已经转钱或泄露资料，立即联系自己的银行",
+        "claim": "FMA 建议立即联系银行或转账服务，停止与骗子联系并报告投资骗局；也专门提醒 recovery scams。"
+      }
+    ]
+  },
+  {
+    "url": "https://www.workandincome.govt.nz/eligibility/seniors/superannuation/who-can-get-it/index.html",
+    "label": "Work and Income · Who can get NZ Super",
+    "checked": "2026-10-20",
+    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "entries": [
+      {
+        "id": "nz-super-check",
+        "title": "NZ Super 与 KiwiSaver 分开核对资格",
+        "claim": "Work and Income 列出 NZ Super 的年龄、身份及居住条件；居住年限须按出生日期等条件逐项核对。"
+      }
+    ]
+  }
+]
