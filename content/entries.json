@@ -5088,5 +5088,1516 @@
     "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
     "correction": "选举主张、未来设想和已实施规则要分开；不能把“67 岁”当作截至核对日的统一现行年龄。",
     "entryType": "podcast-distillation"
+  },
+  {
+    "id": "annual-flu-vaccine",
+    "topic": "health",
+    "category": "筛查与预防",
+    "title": "流感针每年重新核对，先问资助资格",
+    "summary": "接种针对当季预期流行株，不能保证挡住所有变种。",
+    "steps": [
+      "向诊所或药房询问当年的流感疫苗及个人适用安排。",
+      "说明年龄、怀孕情况和相关健康条件，请提供者核对资助。",
+      "不符合免费条件时先问接种总价；身体不适时另问是否适合当天接种。"
+    ],
+    "cost": "Health NZ 页面列非资助接种常见约 NZ$25–45；这不是统一定价，以提供者报价为准。",
+    "limit": "2026-09-01 起，满 6 个月至未满 5 岁儿童纳入资助；其他人群按当前具体条件核对，不能把所有哮喘或所有年龄都写成免费。",
+    "english": "Am I eligible for a funded flu vaccination this year, and what would the total charge be otherwise?",
+    "official": "Health NZ 建议每年接种；2026 年资助包括 65 岁以上、孕妇、特定健康条件及新增幼儿年龄组等。资格清单会变化，预约时应按当年条件核对。",
+    "sources": [
+      {
+        "label": "Health NZ · Flu vaccine",
+        "url": "https://www.healthnz.govt.nz/health-topics/immunisations/vaccines-aotearoa/flu-vaccine",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000789258195",
+      "date": "2026-09-13",
+      "dateType": "节目 feed 日期",
+      "who": "Dr John Cameron",
+      "role": "节目介绍为 GP",
+      "show": "The Health Hub",
+      "showId": "1444362063",
+      "episodeTitle": "Dr. John Cameron: What can you do to dodge the flu?",
+      "url": "https://podcasts.apple.com/nz/podcast/id1444362063?i=1000789258195",
+      "timestamp": "22:06–22:19",
+      "startSeconds": 1326,
+      "endSeconds": 1339,
+      "speaker": "Speaker 3",
+      "summary": "Cameron 解释疫苗依据预期流行的病毒株更新，并非覆盖所有变种。资助及价格由当前官方页面另补。",
+      "conflict": "",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000789258195-1326-aa70ba525c",
+      "segmentHash": "aa70ba525c7cd45d6380caa8de884e7a01386a2f1c1828d8148f68f00b29441a",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "流感",
+      "疫苗",
+      "flu",
+      "儿童疫苗"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "correction": "官网页面中的旧视频文字与 2026 年正文资助清单存在差别；本条采用当年正文，不沿用旧年龄概括。",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "ai-health-preparation",
+    "topic": "health",
+    "category": "支持与沟通",
+    "title": "用 AI 整理问诊问题，结果仍要核实",
+    "summary": "可以帮忙表达症状，不能替自己判断该不该就医。",
+    "steps": [
+      "把症状起点、变化、用药和希望问的问题整理成简短清单。",
+      "核对 AI 给出的资料来源，把不确定之处带给医疗团队。",
+      "输入前删去不必要的身份资料；先看工具如何保存和使用健康信息。"
+    ],
+    "cost": "付费、医疗字样或专业版，不代表输出一定准确；不必为准备问诊先购买订阅。",
+    "limit": "不能凭 AI 自诊、停药或延迟求助；严重不适应直接联系医疗服务。",
+    "english": "I used an AI tool to organise these questions. Could you help check which information is reliable?",
+    "official": "隐私专员办公室提醒生成式 AI 涉及个人信息处理及错误输出风险。本条把 AI 用于准备问题，临床判断仍交由合适的医疗服务。",
+    "sources": [
+      {
+        "label": "Privacy Commissioner · Generative AI",
+        "url": "https://www.privacy.org.nz/resources-and-learning/a-z-topics/ai/generative-artificial-intelligence/",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000757994005",
+      "date": "2026-03-29",
+      "dateType": "节目 feed 日期",
+      "who": "Dr Bryan Betty",
+      "role": "节目介绍为 GP",
+      "show": "The Health Hub",
+      "showId": "1444362063",
+      "episodeTitle": "Dr Bryan Betty: Should patients be using Chat GPT?",
+      "url": "https://podcasts.apple.com/nz/podcast/id1444362063?i=1000757994005",
+      "timestamp": "05:00–05:52",
+      "startSeconds": 300,
+      "endSeconds": 352,
+      "speaker": "Speaker 1",
+      "summary": "Betty 认为 AI 可能提高健康理解，同时可能带来误诊、延误和焦虑。本条只保留准备与核查用途。",
+      "conflict": "",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000757994005-300-8102b984a7",
+      "segmentHash": "8102b984a7df53372c328609b44421d711754d5668d6bc991502ff1f100f1365",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "AI问诊",
+      "隐私",
+      "症状清单",
+      "人工智能"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "correction": "不采用节目其他段落中未经核实的网络错误比例，也不将专用或付费 AI 写成无错误保证。",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "noise-protection",
+    "topic": "health",
+    "category": "睡眠与日常健康",
+    "title": "噪音防护先减少暴露，再选合适护具",
+    "summary": "戴着耳机工作，不等于已经保护听力。",
+    "steps": [
+      "工作中噪音大时，与负责人讨论能否减少源头噪音、隔离或缩短暴露。",
+      "请雇主说明适用护具的防护等级、贴合和使用培训。",
+      "娱乐听音也留意音量与时间；有听力变化时安排评估。"
+    ],
+    "cost": "工作安全安排与个人听力治疗的收费、资助是不同问题；不先按节目推荐购买某个品牌。",
+    "limit": "耳罩、耳塞和普通降噪耳机用途不同；“60% 音量听 60 分钟”不能保证所有设备和环境都安全。",
+    "english": "Can we reduce the noise exposure and check the correct hearing protection and fit for this task?",
+    "official": "WorkSafe 要求按源头、传播路径及接收者管理噪音风险；护具是控制措施的一部分，需要正确选择、贴合和培训。",
+    "sources": [
+      {
+        "label": "WorkSafe · Managing noise risks",
+        "url": "https://www.worksafe.govt.nz/topic-and-industry/noise/managing-noise-risks/managing-noise-risks/",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000727698046",
+      "date": "2025-09-21",
+      "dateType": "节目 feed 日期",
+      "who": "Dr Michel Neeff",
+      "role": "节目介绍为耳鼻喉科医生",
+      "show": "The Health Hub",
+      "showId": "1444362063",
+      "episodeTitle": "Dr Michel Neeff: We're too casual about our hearing",
+      "url": "https://podcasts.apple.com/nz/podcast/id1444362063?i=1000727698046",
+      "timestamp": "07:53–09:32",
+      "startSeconds": 473,
+      "endSeconds": 572,
+      "speaker": "Speaker 2",
+      "summary": "Neeff 谈职业噪音暴露和耳部防护，提醒在噪音中继续加大耳机音量的问题。本条将工作控制顺序按 WorkSafe 补充。",
+      "conflict": "嘉宾提供耳鼻喉科服务及相关评估。",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000727698046-473-5e94852bbe",
+      "segmentHash": "5e94852bbe31886f8b33092aac624cd8f27c8328bce7a2b706a58eeeeb5db3af",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "噪音",
+      "耳塞",
+      "耳罩",
+      "hearing protection",
+      "工作安全"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "correction": "节目给的设备音量百分比口诀不能取代实际噪音风险评估。",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "cervical-screening-cost",
+    "topic": "health",
+    "category": "筛查与预防",
+    "title": "宫颈筛查先核对适用方式，再问是否免费",
+    "summary": "自取样是一种选择，收费仍有具体条件。",
+    "steps": [
+      "向护士、GP 或 hauora 服务询问自己是否到了筛查时间。",
+      "问适合 HPV 自取样、协助取样还是临床取样；说明症状和既往异常结果。",
+      "预约前分别确认首次筛查与必要后续检查的资助及自费部分。"
+    ],
+    "cost": "计划并非对所有人全额免费。部分族群、持 Community Services Card、未筛查或特定超期人群符合资助；具体年龄及上次检测类型均可能影响条件。",
+    "limit": "宫颈异常出血等症状需要就医，不能等例行筛查；有 HPV 疫苗接种史也应询问筛查安排。",
+    "english": "Which cervical screening test is suitable for me, and am I eligible for free screening and follow-up?",
+    "official": "HealthEd 介绍通常面向 25–69 岁有宫颈人群的筛查与自取样选择；Health NZ 分别列收费资助及随访条件。超期条件会区分上次是细胞学还是 HPV 检测，不可统一写成五年。",
+    "sources": [
+      {
+        "label": "Health NZ · Cervical screening eligibility",
+        "url": "https://www.healthnz.govt.nz/health-topics/keeping-healthy/cancer-screening/cervical-screening/eligibility-for-cervical-screening",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      },
+      {
+        "label": "HealthEd · Cervical screening: what you need to know",
+        "url": "https://healthed.govt.nz/collections/all/products/cervical-screening-what-you-need-to-know-he1161",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000699338528",
+      "date": "2025-03-16",
+      "dateType": "节目 feed 日期",
+      "who": "Dr John Cameron",
+      "role": "节目介绍为 GP",
+      "show": "The Health Hub",
+      "showId": "1444362063",
+      "episodeTitle": "Dr John Cameron: \"We don't know how paracetamol works\"",
+      "url": "https://podcasts.apple.com/nz/podcast/id1444362063?i=1000699338528",
+      "timestamp": "12:21–12:55",
+      "startSeconds": 741,
+      "endSeconds": 775,
+      "speaker": "Speaker 2",
+      "summary": "Cameron 在预防性健康讨论中提及宫颈等筛查。本段没有解释 HPV 自取样或现行费用，本条这部分来自公共资料。",
+      "conflict": "",
+      "sourceRole": "节目背景",
+      "evidenceId": "1000699338528-741-1142facf13",
+      "segmentHash": "1142facf13fd17f9d13a61d60fa78b7dd157aa52d5a75c56b96956e6c7eb7cb7",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "宫颈筛查",
+      "HPV自取样",
+      "cervical",
+      "自采样"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "correction": "不把“国家筛查项目”理解为人人免费，也不把节目建议的健康回顾频率当成统一筛查间隔。",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "hpv-vaccine",
+    "topic": "health",
+    "category": "筛查与预防",
+    "title": "HPV 疫苗也关乎男性，别只想到宫颈",
+    "summary": "接种与筛查解决不同问题，不能互相替代。",
+    "steps": [
+      "查看接种记录，向学校接种团队、GP 或药房询问是否需要补种。",
+      "说明年龄和已接种剂次，让提供者安排适合的后续计划。",
+      "有宫颈的人继续按适用安排参加筛查，不以接种代替。"
+    ],
+    "cost": "Health NZ 当前列 HPV 疫苗对 9–26 岁人群免费；超龄或其他安排先确认报价及适用条件。",
+    "limit": "HPV 有不同类型；不把所有感染都说成一定致癌，也不把已经接种写成完全没有癌症风险。",
+    "english": "Could you check my HPV vaccination record, funded eligibility and any doses I still need?",
+    "official": "Health NZ 说明 HPV 可与多种癌症有关，疫苗适用于不同性别；免费年龄为 9–26 岁。具体剂次和特殊情况由接种人员核对。",
+    "sources": [
+      {
+        "label": "Health NZ · HPV vaccine",
+        "url": "https://www.healthnz.govt.nz/health-topics/immunisations/vaccines-aotearoa/hpv-human-papillomavirus-vaccine",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000645795581",
+      "date": "2024-02-18",
+      "dateType": "节目 feed 日期",
+      "who": "Dr John Cameron",
+      "role": "节目介绍为 GP",
+      "show": "The Health Hub",
+      "showId": "1444362063",
+      "episodeTitle": "Dr John Cameron: Why self examination is important for health",
+      "url": "https://podcasts.apple.com/nz/podcast/id1444362063?i=1000645795581",
+      "timestamp": "11:43–12:25",
+      "startSeconds": 703,
+      "endSeconds": 745,
+      "speaker": "Speaker 5",
+      "summary": "Cameron 在头颈癌讨论中谈到 HPV，提供了不限于宫颈的问题背景。本条接种资格另据当前官方资料。",
+      "conflict": "",
+      "sourceRole": "节目背景",
+      "evidenceId": "1000645795581-703-b345f8d28c",
+      "segmentHash": "b345f8d28cb69ae79ce48ef13426ac4a37bba9cd38dd9f85231670187fc50889",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "HPV",
+      "男性疫苗",
+      "宫颈癌",
+      "头颈癌"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "therapist-credentials",
+    "topic": "health",
+    "category": "支持与沟通",
+    "title": "找心理治疗时，同时问资质、方式和是否合适",
+    "summary": "职称、注册和彼此的工作关系，都值得确认。",
+    "steps": [
+      "请对方说明使用的专业职称、训练、工作范围和督导安排。",
+      "如对方以 psychologist 或 psychotherapist 执业，查对应监管机构注册及当前执业证状态。",
+      "先讨论目标、费用和回顾进展的方法；不合适或有担忧时询问其他选择。"
+    ],
+    "cost": "首次会谈、取消预约和转介后的收费都提前问；注册本身不等于服务免费或必然适合自己。",
+    "limit": "不同心理支持人员的资格体系不同；不要把所有 counsellor 都当作同一法定注册职业，也不凭节目确认某人今天的执业状态。",
+    "english": "What are your qualifications, current registration and approach, and how will we review whether this is helping?",
+    "official": "Psychologists Board 提供公开注册查询；Psychotherapists Board 说明执业需注册并持当前 APC。本条不评价具体个人，也不把会员标识当作同一种注册。",
+    "sources": [
+      {
+        "label": "Psychologists Board · Search register",
+        "url": "https://psychologistsboard.org.nz/search-register/",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      },
+      {
+        "label": "Psychotherapists Board · Annual practising certificates",
+        "url": "https://pbanz.org.nz/Public/About%20psychotherapists/APC/Public/3.-About-psychotherapits-/9.-Annual-Practising-Certificate.aspx?hkey=ad801357-9c36-4e05-8ddb-a7f7fbba0a02",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000531361930",
+      "date": "2021-08-08",
+      "dateType": "节目 feed 日期",
+      "who": "Kyle MacDonald",
+      "role": "该集介绍为 psychotherapist；未核验其当前个人注册状态",
+      "show": "The Health Hub",
+      "showId": "1444362063",
+      "episodeTitle": "Kyle MacDonald: Do happy people still need therapy?",
+      "url": "https://podcasts.apple.com/nz/podcast/id1444362063?i=1000531361930",
+      "timestamp": "16:43–18:11",
+      "startSeconds": 1003,
+      "endSeconds": 1091,
+      "speaker": "Speaker 3",
+      "summary": "MacDonald 建议注意训练、注册、督导与治疗关系，不合适时可以寻求其他意见。",
+      "conflict": "",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000531361930-1003-68a6757a07",
+      "segmentHash": "68a6757a07f3ec355520d30ca4eecbf835fb73f3f14a57e8581941e253994526",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "心理治疗",
+      "therapist",
+      "psychologist",
+      "psychotherapist",
+      "资质"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "coeliac-testing",
+    "topic": "health",
+    "category": "营养与日常选择",
+    "title": "怀疑乳糜泻，先问检测再自行戒麸质",
+    "summary": "已经改变饮食，也要告诉负责检测的医生。",
+    "steps": [
+      "持续消化不适时联系 GP，说明症状、家族史和已做的饮食调整。",
+      "检查前询问饮食会怎样影响结果，不自行套用网上的戒食方案。",
+      "已无麸质饮食或曾有严重食物反应时，先与医生商量检测计划。"
+    ],
+    "cost": "检查、就诊和营养支持的资助与费用分开问；不先购买商业食物不耐受套餐。",
+    "limit": "乳糜泻是自身免疫疾病，不能只凭饮食反应确诊；本条不提供自行恢复大量麸质的操作方案。",
+    "english": "Could coeliac disease be relevant, and how should my current diet be managed before testing?",
+    "official": "Health NZ 说明乳糜泻检测受麸质摄入影响；检查前自行无麸质饮食可能影响诊断，应与医生制定检测安排。",
+    "sources": [
+      {
+        "label": "Health NZ · Coeliac disease",
+        "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/stomach-and-bowel/coeliac-disease",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000763634255",
+      "date": "2026-04-26",
+      "dateType": "节目 feed 日期",
+      "who": "Claire Turnbull",
+      "role": "节目介绍为 nutritionist",
+      "show": "The Health Hub",
+      "showId": "1444362063",
+      "episodeTitle": "Claire Turnbull: Why your GP won't give you nutrition advice",
+      "url": "https://podcasts.apple.com/nz/podcast/id1444362063?i=1000763634255",
+      "timestamp": "04:10–05:21",
+      "startSeconds": 250,
+      "endSeconds": 321,
+      "speaker": "Speaker 4",
+      "summary": "Turnbull 提醒不要在缺乏评估时随意排除麸质或乳制品。本条乳糜泻检测条件另据 Health NZ。",
+      "conflict": "嘉宾提供 Mission Nutrition 服务并推广营养相关内容。",
+      "sourceRole": "节目背景",
+      "evidenceId": "1000763634255-250-b1b86e326d",
+      "segmentHash": "b1b86e326d17da7460f31abb5be21047dbe757259163d319c29d607e63ce8445",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "乳糜泻",
+      "无麸质",
+      "gluten",
+      "coeliac"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "correction": "不采用同集其他段落中把疾病与单一祖籍联系的概括，也不把一般营养讨论当成诊断。",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "under14-gp-fees",
+    "topic": "health",
+    "category": "找 GP",
+    "title": "孩子未满 14 岁，仍要问清哪些项目免费",
+    "summary": "参与计划的标准问诊，与额外服务分开计算。",
+    "steps": [
+      "先核对孩子的公费医疗资格，以及注册诊所是否参与零费用计划。",
+      "预约时问是否属于标准日间问诊，长问诊、证明或小手术是否另收费。",
+      "夜间或周末需要看病时，问诊所当地指定的零费用服务入口。"
+    ],
+    "cost": "符合条件的未满 14 岁儿童在参与计划的诊所可获标准问诊零费用；其他诊所、额外服务和非指定服务可能收费。",
+    "limit": "年龄本身不等于所有医疗均免费；急迫程度应先由医疗服务判断，不因找免费入口延误急症。",
+    "english": "Is my child eligible for a zero-fee standard consultation here, and are any additional services charged?",
+    "official": "Health NZ 的 zero-fees-for-under-14s 说明公费资格、参与诊所、标准日间问诊及指定非工作时间服务，同时列出可能的额外费用。",
+    "sources": [
+      {
+        "label": "Health NZ · Zero fees for under-14s",
+        "url": "https://www.healthnz.govt.nz/hospitals-services/eligibility-subsidies/zero-fees-for-under-14s",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000721351245",
+      "date": "2025-08-10",
+      "dateType": "节目 feed 日期",
+      "who": "Sir Ashley Bloomfield",
+      "role": "该集以 Barnardos 大使身份参与",
+      "show": "The Health Hub",
+      "showId": "1444362063",
+      "episodeTitle": "Sir Ashley Bloomfield: Children face many barriers in healthcare",
+      "url": "https://podcasts.apple.com/nz/podcast/id1444362063?i=1000721351245",
+      "timestamp": "16:22–17:13",
+      "startSeconds": 982,
+      "endSeconds": 1033,
+      "speaker": "Speaker 4",
+      "summary": "Bloomfield 讨论儿童健康与生活困难、支持服务的联系。本段没有发布 GP 免费规则，资格及收费另据 Health NZ。",
+      "conflict": "嘉宾为节目中讨论的儿童慈善机构倡议服务。",
+      "sourceRole": "节目背景",
+      "evidenceId": "1000721351245-982-56f645e204",
+      "segmentHash": "56f645e204cafa7e2c2c8bc82ab3c345f1ac819764372efa3eb6e11685df86a5",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "儿童看病",
+      "under14",
+      "免费GP",
+      "孩子"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "new-floaters-flashes",
+    "topic": "health",
+    "category": "急迫时先做什么",
+    "title": "突然新增飞蚊或闪光，当天寻求眼部评估",
+    "summary": "别仅凭“飞蚊通常常见”就等到下次例行检查。",
+    "steps": [
+      "描述何时开始、是否突然增多、闪光及视力变化。",
+      "新出现或明显增加时，当天联系验光师或医疗服务安排紧急评估。",
+      "视野像有帘幕、阴影或突然视力下降时，立即说明这些变化并求助。"
+    ],
+    "cost": "评估收费及后续转介依服务而异；先说明急迫变化，再核对费用，不为比价延误。",
+    "limit": "本条不是在家区分良性飞蚊和视网膜问题的方法；旧症状出现新变化也应重新求助。",
+    "english": "I have new floaters or flashes and a change in vision. Where can I get an urgent eye assessment today?",
+    "official": "Health NZ 把新发或增加的飞蚊、闪光及帘幕样阴影、突然视力变化列为需要当天紧急评估的表现。",
+    "sources": [
+      {
+        "label": "Health NZ · Floaters and flashes",
+        "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/eyes/floaters-and-flashes",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000589517708",
+      "date": "2022-11-13",
+      "dateType": "节目 feed 日期",
+      "who": "Philip Walsh",
+      "role": "节目介绍为 optometrist",
+      "show": "The Health Hub",
+      "showId": "1444362063",
+      "episodeTitle": "Philip Walsh: Taking care of our kids eye health",
+      "url": "https://podcasts.apple.com/nz/podcast/id1444362063?i=1000589517708",
+      "timestamp": "09:03–09:56",
+      "startSeconds": 543,
+      "endSeconds": 596,
+      "speaker": "Speaker 4",
+      "summary": "Walsh 区分长期常见飞蚊与突然新增、伴闪光的问题，提醒及时检查。",
+      "conflict": "嘉宾代表 Specsavers，提供眼部检查及配镜相关商业服务。",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000589517708-543-d07bdc642e",
+      "segmentHash": "d07bdc642e391a1a704dd03e56a38ffe237e3f95571cac8149b7a21d291b93ad",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "飞蚊",
+      "闪光",
+      "视网膜",
+      "眼睛",
+      "floaters"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "travel-constipation",
+    "topic": "health",
+    "category": "睡眠与日常健康",
+    "title": "旅行打乱排便习惯，先恢复适合自己的节奏",
+    "summary": "别把机上补水口诀当成每个人的处方。",
+    "steps": [
+      "留意旅行后饮食、活动和如厕时机的变化，尽量恢复规律。",
+      "按自己的需要保持饮食、液体摄入和适量活动，有便意时别一再拖延。",
+      "持续变化、便血或明显不适时联系医疗服务，必要时向药师询问适合的短期帮助。"
+    ],
+    "cost": "不必先买排毒或肠道清洁产品；药品及咨询费用另问提供者。",
+    "limit": "有液体限制或其他疾病时按个人医疗计划；腹部明显肿痛、数日无法排便排气等情况应及时求助。",
+    "english": "My bowel habits changed during travel. What is appropriate for me, and which symptoms need medical assessment?",
+    "official": "Health NZ 建议结合饮食、饮水、活动和如厕习惯处理便秘；已充足摄入者一味增加水或纤维未必有帮助，并列出需就医的症状。",
+    "sources": [
+      {
+        "label": "Health NZ · Constipation in adults",
+        "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/stomach-and-bowel/constipation-in-adults",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000715951612",
+      "date": "2025-07-06",
+      "dateType": "节目 feed 日期",
+      "who": "Claire Turnbull",
+      "role": "节目介绍为 nutritionist",
+      "show": "The Health Hub",
+      "showId": "1444362063",
+      "episodeTitle": "Claire Turnbull: Fibre and sleep are keys to a strong diet",
+      "url": "https://podcasts.apple.com/nz/podcast/id1444362063?i=1000715951612",
+      "timestamp": "24:55–25:53",
+      "startSeconds": 1495,
+      "endSeconds": 1553,
+      "speaker": "Speaker 4",
+      "summary": "Turnbull 提醒旅行与作息变化可能影响排便。本条不采用其按每小时飞行固定增加两杯水的说法。",
+      "conflict": "该集推广其营养书籍与生活规划内容。",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000715951612-1495-412a216f0c",
+      "segmentHash": "412a216f0c4c650e2c4dc9153ce56aec716d29beb1c84e1fa6bc60257e176a48",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "旅行便秘",
+      "排便",
+      "constipation",
+      "肠道"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "correction": "不把固定补水量或无限增加纤维推广为普遍处方。",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "medicine-driving",
+    "topic": "health",
+    "category": "药与费用",
+    "title": "吃药后昏沉，开车前先核对影响",
+    "summary": "助眠之外的药，也可能影响第二天反应。",
+    "steps": [
+      "拿完整药单向药师或开方者问是否会影响驾驶，以及影响可能持续多久。",
+      "包括非处方、传统或草药产品，并说明酒精和其他用药。",
+      "感到困倦、反应慢或视力受影响时不要驾驶；已在路上则先安全停车求助。"
+    ],
+    "cost": "先利用药师或开方团队的用药解释；不要为恢复开车自行减药或停药。",
+    "limit": "节目来电者没有说明具体药物，不能据此推断其病情、药名或个人安全等待时间。",
+    "english": "Could this medicine or combination affect driving the next day, and what should I do if I feel drowsy?",
+    "official": "NZTA 提醒处方、非处方及传统药物均可能影响驾驶；多种药及酒精可增加影响。出现困倦等表现时应停止驾驶并询问医疗专业人员。",
+    "sources": [
+      {
+        "label": "NZTA · How medication affects driving",
+        "url": "https://www.nzta.govt.nz/driving-skills/safe-driving-habits/how-medication-affects-driving",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000760898781",
+      "date": "2026-04-12",
+      "dateType": "节目 feed 日期",
+      "who": "Dr Alex Bartle",
+      "role": "该集介绍为 SleepWell Clinic 负责人",
+      "show": "The Health Hub",
+      "showId": "1444362063",
+      "episodeTitle": "Dr Alex Bartle: Most people are ruining their own sleep",
+      "url": "https://podcasts.apple.com/nz/podcast/id1444362063?i=1000760898781",
+      "timestamp": "20:19–20:26",
+      "startSeconds": 1219,
+      "endSeconds": 1226,
+      "speaker": "Speaker 4",
+      "summary": "Bartle 说明有些帮助入睡的药可能令第二天昏沉。来电者随即澄清所服并非助眠药，未公布药名；本条扩展到 NZTA 的一般驾驶提醒。",
+      "conflict": "嘉宾提供睡眠相关医疗服务。",
+      "sourceRole": "节目背景",
+      "evidenceId": "1000760898781-1219-d014223e2b",
+      "segmentHash": "d014223e2ba39e3d9cdf44dd8ba012ea12927df3f4155c7d5814bee0cac0386b",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "嗜睡",
+      "开车",
+      "药物驾驶",
+      "drowsy",
+      "助眠药"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "earwax-assessment",
+    "topic": "health",
+    "category": "支持与沟通",
+    "title": "耳堵或听力变化，先确认是否真是耳垢",
+    "summary": "不把电台里的家庭配方当成自己的处理方案。",
+    "steps": [
+      "向诊所或合适的耳部服务说明耳堵、疼痛、分泌物和听力变化。",
+      "询问是否需要检查及适合的清理方式，并告知耳部手术或耳膜问题史。",
+      "不要把棉签等物伸入耳道，也不要使用耳烛。"
+    ],
+    "cost": "耳部检查、清理及商业耳护理服务的费用和资助需直接确认；不是所有耳堵都需要购买清理服务。",
+    "limit": "本条不确认耳垢就是症状原因，也不提供自配溶液、冲洗或滴耳步骤；突然听力变化应及时联系医疗服务。",
+    "english": "Could you assess the cause of this blocked ear and explain whether any wax removal is safe and needed?",
+    "official": "Healthify 的临床公众教育说明耳垢有保护作用，无问题时通常不用清除；棉签与耳烛可能造成伤害，有症状应由合适服务评估。它不是政府收费或资助规则。",
+    "sources": [
+      {
+        "label": "Healthify · Earwax build-up and removal",
+        "url": "https://healthify.nz/health-a-z/e/earwax-build-up-and-removal",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000673715924",
+      "date": "2024-10-20",
+      "dateType": "节目 feed 日期",
+      "who": "Dr John Cameron",
+      "role": "节目介绍为 GP",
+      "show": "The Health Hub",
+      "showId": "1444362063",
+      "episodeTitle": "Dr John Cameron: Training yourself out of an allergy",
+      "url": "https://podcasts.apple.com/nz/podcast/id1444362063?i=1000673715924",
+      "timestamp": "40:12–40:33",
+      "startSeconds": 2412,
+      "endSeconds": 2433,
+      "speaker": "Speaker 5",
+      "summary": "节目针对耳堵信息推测耳垢并提出家庭配方。本条把它作为问题背景，未采用配方、成功率或未经检查的原因判断。",
+      "conflict": "",
+      "sourceRole": "节目背景",
+      "evidenceId": "1000673715924-2412-7e6fe8b0f5",
+      "segmentHash": "7e6fe8b0f551bbc64369a30def9f4b04f0bd926b97c96c79a99c0bbe26b20d13",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "耳垢",
+      "耳堵",
+      "earwax",
+      "棉签"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "correction": "舍弃节目里的自配滴耳液与“十次有九次有效”说法，改为先评估原因和个人禁忌。",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "employment-agreement-advice",
+    "topic": "wealth",
+    "category": "工作与收入",
+    "title": "签工作合同前，带走阅读并提出问题",
+    "summary": "拿到 offer 后，可以留时间理解和寻求独立意见。",
+    "steps": [
+      "索取完整书面协议及引用的政策，标出工资、工时、职责、试用和离职条款。",
+      "向雇主询问不明白的地方，必要时请工会、律师或合适的人协助。",
+      "将谈妥的变更写入最终协议，保留草稿和沟通记录。"
+    ],
+    "cost": "工会支持、独立法律咨询和商业 HR 服务的范围及收费不同，先确认。",
+    "limit": "雇主不必接受每项加码要求，但最低法定权利不能靠合同取消；具体条款效力应按个案咨询。",
+    "english": "May I take the agreement away for independent advice and discuss these clauses before accepting?",
+    "official": "Employment NZ 说明雇主应提供书面协议，员工可阅读、提问和寻求建议，也可接受、拒绝或请求修改；保留谈判记录有助处理争议。",
+    "sources": [
+      {
+        "label": "Employment NZ · Negotiating and accepting as an employee",
+        "url": "https://www.employment.govt.nz/starting-employment/employment-agreements/negotiating-and-accepting-as-an-employee",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000775500235",
+      "date": "2026-07-05",
+      "dateType": "节目 feed 日期",
+      "who": "Sylvie Thrush Marsh",
+      "role": "MyHR 的 HR 专业人员；不是本段确认的律师",
+      "show": "Smart Money",
+      "showId": "1445636358",
+      "episodeTitle": "Sylvie Thrush-Marsh: What should you keep an eye out for in your employment contract?",
+      "url": "https://podcasts.apple.com/nz/podcast/id1445636358?i=1000775500235",
+      "timestamp": "08:48–09:35",
+      "startSeconds": 528,
+      "endSeconds": 575,
+      "speaker": "Speaker 3",
+      "summary": "嘉宾建议给自己时间读合同，向工会、律师等寻求独立意见并提出不明白的地方。",
+      "conflict": "嘉宾任职提供雇主 HR 服务的商业机构。",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000775500235-528-89d8279527",
+      "segmentHash": "89d82795277556239d1d1a9be586ff6802fee91347c136b7bb6c4e015301ddb3",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "雇佣合同",
+      "offer",
+      "独立建议",
+      "employment agreement"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "no-written-agreement",
+    "topic": "wealth",
+    "category": "工作与收入",
+    "title": "没有拿到书面合同，也不要直接放弃员工权利",
+    "summary": "先保存实际工作与报酬记录，再确认关系和处理路径。",
+    "steps": [
+      "保存排班、报酬、工作指示及相关通信，书面索取雇佣协议。",
+      "如果双方对 employee 或 contractor 身份有争议，向合适专业服务咨询。",
+      "有欠薪、歧视或解雇问题时尽早联系 Employment NZ、工会或律师，确认适用时限。"
+    ],
+    "cost": "先查询公开信息与可用支持；代理或法律服务的收费另问，不把寻求帮助理解为必然要打官司。",
+    "limit": "没有书面文件不等于没有雇佣关系，也不表示所有接单或承包者都自动成为员工。",
+    "english": "Could you provide my written employment agreement and explain how I can raise this employment concern?",
+    "official": "Employment NZ 说明每位员工应有书面协议，最低权利即使未写在协议中仍适用；具体争议理由、身份及期限另行核对。",
+    "sources": [
+      {
+        "label": "Employment NZ · Negotiating and accepting as an employee",
+        "url": "https://www.employment.govt.nz/starting-employment/employment-agreements/negotiating-and-accepting-as-an-employee",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      },
+      {
+        "label": "Employment NZ · Personal grievances",
+        "url": "https://www.employment.govt.nz/resolving-problems/how-to-resolve-problems/personal-grievances",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000790752666",
+      "date": "2026-09-20",
+      "dateType": "节目 feed 日期",
+      "who": "Sylvie Thrush Marsh",
+      "role": "MyHR 的 HR 与雇佣关系专业人员",
+      "show": "Smart Money",
+      "showId": "1445636358",
+      "episodeTitle": "Sylvie Thrush Marsh: There are many avenues to take employment disputes",
+      "url": "https://podcasts.apple.com/nz/podcast/id1445636358?i=1000790752666",
+      "timestamp": "14:50–15:36",
+      "startSeconds": 890,
+      "endSeconds": 936,
+      "speaker": "Speaker 3",
+      "summary": "嘉宾说明没收到书面合同并不自动消除雇佣关系和法定责任。本条不据此替具体承包者确定身份。",
+      "conflict": "嘉宾为商业 HR 服务机构的销售与公共活动提供专业解释。",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000790752666-890-f732ee506d",
+      "segmentHash": "f732ee506df644654810cb3a566954513a27cf870967bb897ced61d7c6135834",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "没合同",
+      "欠薪",
+      "员工权利",
+      "工作争议"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "high-income-dismissal",
+    "topic": "wealth",
+    "category": "工作与收入",
+    "title": "年报酬达到 20 万，解雇保护要单独核对",
+    "summary": "部分申诉理由受限，其他权利仍有不同规则。",
+    "steps": [
+      "请专业顾问按官方定义核对年度报酬，别只看 offer 上的基本工资或随意相加所有福利。",
+      "确认原工作是否在 2026-02-21 前已存在，以及过渡安排是否适用。",
+      "签约时可讨论双方书面选择恢复解雇保护；有争议尽早取得个案建议。"
+    ],
+    "cost": "这是权利和合同条件，不是税率门槛；法律咨询费用与可用工会支持分别询问。",
+    "limit": "截至查核日门槛为每年 NZ$200,000 或以上。特定原工作有至 2027-02-21 的过渡安排，并非所有人在生效当天都失去同样保护。",
+    "english": "Does the remuneration threshold apply to me, and can we agree in writing to opt back into dismissal protections?",
+    "official": "Employment NZ 说明新规则自 2026-02-21 起限制达到门槛者的不合理解雇及与解雇有关的不合理不利待遇申诉，其他申诉理由仍可适用。报酬按官方 PAYE 范围及计算法确定，通常不含雇主退休金缴款和受 FBT 处理的福利；可按规定书面 opt back in。",
+    "sources": [
+      {
+        "label": "Employment NZ · Dismissal rules for high income earners",
+        "url": "https://www.employment.govt.nz/ending-employment/dismissal/dismissal-rules-for-high-income-earners",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000790752666",
+      "date": "2026-09-20",
+      "dateType": "节目 feed 日期",
+      "who": "Sylvie Thrush Marsh",
+      "role": "MyHR 的 HR 与雇佣关系专业人员",
+      "show": "Smart Money",
+      "showId": "1445636358",
+      "episodeTitle": "Sylvie Thrush Marsh: There are many avenues to take employment disputes",
+      "url": "https://podcasts.apple.com/nz/podcast/id1445636358?i=1000790752666",
+      "timestamp": "06:28–07:21",
+      "startSeconds": 388,
+      "endSeconds": 441,
+      "speaker": "Speaker 3",
+      "summary": "嘉宾讨论高收入解雇新规则和谈判恢复保护的可能。本段将所有 PG 与所有福利概括在内，后文对其他 PG 又作澄清；本条按当前 Employment NZ 纠正。",
+      "conflict": "嘉宾任职雇主 HR 服务机构。",
+      "sourceRole": "节目背景",
+      "evidenceId": "1000790752666-388-8307805b74",
+      "segmentHash": "8307805b7446daa6dd7bfb2829e309449f564b7aece9a8fa6596180b66ebe876",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "高收入",
+      "解雇",
+      "personal grievance",
+      "20万",
+      "opt back in"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "correction": "门槛是 200,000 或以上；不是所有 PG 均排除，也不是公司车、雇主 KiwiSaver 等所有福利一律计入。过渡及书面恢复保护另有条件。",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "retirement-village-contract",
+    "topic": "wealth",
+    "category": "退休与提款",
+    "title": "看退休村，先算入住、居住和退出三笔账",
+    "summary": "房屋外观相似，取得的权利与退出条件可能很不同。",
+    "steps": [
+      "索取 occupation right agreement、披露文件及完整费用表。",
+      "请独立律师解释权利、周费调整、退出扣款和退款时间，并用自己的预算比较。",
+      "另问需要更高照护时是否有位置、另签什么合同及费用怎样变化。"
+    ],
+    "cost": "政府入口说明退休村可各自定费，通常包括入场款、周费与退出成本；不存在全国统一的年费或退款保证。",
+    "limit": "退休村与经评估的长期照护补助不是一回事；不要把节目来电者的养老金或费用个案当作自己的资格和预算。",
+    "english": "Could my independent lawyer explain the full costs, exit deductions and repayment timing under this occupation right agreement?",
+    "official": "Govt.nz 说明入住与买普通住宅不同，签约前需要独立法律意见，并提示入场、日常及退出成本。Sorted 的退休村资料提供披露文件和现金流比较问题。",
+    "sources": [
+      {
+        "label": "Govt.nz · Retirement villages",
+        "url": "https://www.govt.nz/browse/work-and-tax/retiring-from-work/retirement-villages/",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      },
+      {
+        "label": "Sorted · Living in a retirement village",
+        "url": "https://sorted.org.nz/guides/retirement/living-in-a-retirement-village/",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000767023163",
+      "date": "2026-05-10",
+      "dateType": "节目 feed 日期",
+      "who": "节目来电者",
+      "role": "节目来电者",
+      "show": "Smart Money",
+      "showId": "1445636358",
+      "episodeTitle": "Martin Hawes: Should the govt fund your retirement?",
+      "url": "https://podcasts.apple.com/nz/podcast/id1445636358?i=1000767023163",
+      "timestamp": "25:13–26:17",
+      "startSeconds": 1513,
+      "endSeconds": 1577,
+      "speaker": "Speaker 7",
+      "summary": "来电者提出退休村开支与养老金是否够用的问题。本段不是主嘉宾 Martin Hawes 的收费规则说明，也未核实来电者金额。",
+      "conflict": "",
+      "sourceRole": "节目背景",
+      "evidenceId": "1000767023163-1513-f3de10b2be",
+      "segmentHash": "f3de10b2be1c09747e35d847ff5ea15e303d8eacc7ba4918b70a5923136e6505",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "退休村",
+      "ORA",
+      "occupation right agreement",
+      "退出费"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "correction": "该时段是来电者；其金额、跨境居住与养老金个案不能改写成一般规则。",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "residential-care-subsidy",
+    "topic": "wealth",
+    "category": "退休与提款",
+    "title": "申请长期照护补助，先分清需求评估与财务评估",
+    "summary": "有信托或曾经赠与资产，也应如实申报。",
+    "steps": [
+      "先联系当地 needs assessment 服务，核对长期照护需求及申请路径。",
+      "向 Work and Income 确认与年龄、伴侣和家庭情况相关的财务评估资料。",
+      "完整提供资产、收入、信托、家庭借款及赠与记录，需要时寻求独立建议。"
+    ],
+    "cost": "补助并非养老费用全包；个人收入、资产及其他收费仍需按当前规则与照护合同核对。",
+    "limit": "把资产转给亲人或放入信托，不等于自动排除在评估外；不据节目旧数字执行赠与或资产转移。",
+    "english": "What needs assessment and financial information are required for a Residential Care Subsidy in my situation?",
+    "official": "Work and Income 将照护需要评估与财务条件分开，并说明资产、收入和赠与等因素会被考虑。信托与低价转让可能涉及 deprivation 审查，不能当作保证获批的工具。",
+    "sources": [
+      {
+        "label": "Work and Income · Residential Care Subsidy",
+        "url": "https://www.workandincome.govt.nz/products/a-z-benefits/residential-care-subsidy.html",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      },
+      {
+        "label": "Work and Income · Reviewing Residential Care Subsidy",
+        "url": "https://www.workandincome.govt.nz/products/payment-errors/review-residential-care-subsidy.html",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000748728504",
+      "date": "2026-02-08",
+      "dateType": "节目 feed 日期",
+      "who": "Janet Xuccoa",
+      "role": "节目介绍的税务与信托议题嘉宾",
+      "show": "Smart Money",
+      "showId": "1445636358",
+      "episodeTitle": "Janet Xuccoa: Where do trusts fit in to aged care funding?",
+      "url": "https://podcasts.apple.com/nz/podcast/id1445636358?i=1000748728504",
+      "timestamp": "06:20–08:11",
+      "startSeconds": 380,
+      "endSeconds": 491,
+      "speaker": "Speaker 4",
+      "summary": "嘉宾说明照护需求、资产、收入、赠与及信托会影响评估。本条入口与条件另据当前 Work and Income。",
+      "conflict": "嘉宾提供信托相关商业专业服务。",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000748728504-380-bea92c7414",
+      "segmentHash": "bea92c741476f9ff77c74a51c630763d525e823c6129c9d01699da8b141a93f7",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "养老照护",
+      "长期照护",
+      "Residential Care Subsidy",
+      "信托",
+      "NASC"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "guarantee-liability",
+    "topic": "wealth",
+    "category": "债务与支出",
+    "title": "替家人担保前，问清最坏可能承担多少",
+    "summary": "担保签字不是一份只表达支持的文件。",
+    "steps": [
+      "向贷款方索取担保文件，问涵盖哪笔债、利息、费用及未来债务。",
+      "用自己的资产和收入评估最坏情形，另请独立律师解释。",
+      "若拟限制金额或退出条件，确认限制已明确写入文件且被接受。"
+    ],
+    "cost": "可能承担本金、利息和费用，资产也可能受影响；不要只按借款人说的月供估算。",
+    "limit": "担保不等于赠与，也不自动在房价上涨或对方付了一阵后解除；全债务担保可能涉及不止一笔债。",
+    "english": "What debts and maximum liability does this guarantee cover, and how can I be released from it?",
+    "official": "Consumer Protection 说明担保可能覆盖一笔或全部相关债务，借款人无法履行时会带来实质财务风险，建议签前取得独立法律意见。",
+    "sources": [
+      {
+        "label": "Consumer Protection · Guarantors",
+        "url": "https://www.consumerprotection.govt.nz/help-product-service/borrowing-money/guarantors",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000771520201",
+      "date": "2026-06-07",
+      "dateType": "节目 feed 日期",
+      "who": "Janet Xuccoa",
+      "role": "税务与信托议题嘉宾",
+      "show": "Smart Money",
+      "showId": "1445636358",
+      "episodeTitle": "Janet Xuccoa: Your list of trustees has to be tight and reputable",
+      "url": "https://podcasts.apple.com/nz/podcast/id1445636358?i=1000771520201",
+      "timestamp": "38:32–39:10",
+      "startSeconds": 2312,
+      "endSeconds": 2350,
+      "speaker": "Speaker 3",
+      "summary": "嘉宾提醒帮助子女买房时担保可能波及父母资产，并提到限制担保的考虑。本条不保证任何一份担保已经有上限。",
+      "conflict": "嘉宾提供相关商业专业服务。",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000771520201-2312-c3c2387508",
+      "segmentHash": "c3c238750841d5c6efecd482cd29fbd296e2ca498a0738b7832d3a0b15ae3108",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "担保",
+      "guarantor",
+      "父母买房",
+      "all obligations"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "mortgage-cashback-terms",
+    "topic": "wealth",
+    "category": "房贷与住房",
+    "title": "房贷 cashback，先读返还条件再比较优惠",
+    "summary": "一次到账的现金，要和换贷总成本一起算。",
+    "steps": [
+      "索取现金奖励的书面条件，确认期限、触发返还的行为和计算方法。",
+      "比较新旧贷款的利息、break fee、律师、估价及其他实际费用。",
+      "计划卖房、提前还款或再换银行时，先索取适用的书面结算说明。"
+    ],
+    "cost": "返还可能涉及部分或全部奖励，不能假定各银行一律三年、一律按比例，或任何提前还款都必然返还。",
+    "limit": "2020 年节目提到的活动不是今天仍可领取的报价；银行网页仅作条款示例，不代表本项目推荐。",
+    "english": "What triggers repayment of the cash contribution, how is it calculated, and what are the total switching costs?",
+    "official": "Kiwibank 的现金奖励条款示例说明，银行关系发生重大改变时可能要求返还部分或全部奖励。具体义务由自己签署的适用条款决定，应连同换贷费用比较。",
+    "sources": [
+      {
+        "label": "Kiwibank · Cash contribution terms",
+        "url": "https://www.kiwibank.co.nz/personal-banking/home-loans/getting-a-home-loan/cash-contribution/",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000486343273",
+      "date": "2020-07-26",
+      "dateType": "节目 feed 日期",
+      "who": "Carissa Fairbrother",
+      "role": "该集介绍为财务顾问；历史职称不代表当前许可状态",
+      "show": "Smart Money",
+      "showId": "1445636358",
+      "episodeTitle": "Carissa Fairbrother: Banks getting involved in moral issues",
+      "url": "https://podcasts.apple.com/nz/podcast/id1445636358?i=1000486343273",
+      "timestamp": "21:28–22:10",
+      "startSeconds": 1288,
+      "endSeconds": 1330,
+      "speaker": "Speaker 4",
+      "summary": "嘉宾在 2020 年语境谈到银行用现金奖励吸引换贷。本条不保留当年的促销金额，返还问题按当前贷款方第一手条款示例补充。",
+      "conflict": "嘉宾来自 Rival Wealth，提供商业财务服务。",
+      "sourceRole": "节目背景",
+      "evidenceId": "1000486343273-1288-ca21c17c64",
+      "segmentHash": "ca21c17c64af703af574c4762099f645c9c8d005e1463371beab9370470de9db",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "房贷返现",
+      "cashback",
+      "clawback",
+      "换银行"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "correction": "旧促销不是现行报价，返还期和算法也不能从某家银行推广到全部银行。",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "interest-only-plan",
+    "topic": "wealth",
+    "category": "房贷与住房",
+    "title": "只还息可以缓解眼前月供，本金仍然在",
+    "summary": "先看恢复本息还款时的数字，再决定是否申请。",
+    "steps": [
+      "向贷款方说明现金流问题，问可用选项及各自条件。",
+      "要求列出只还息期间、恢复本息后的还款与总成本比较。",
+      "同时确认剩余期限、费用及审核要求，留一份书面计划。"
+    ],
+    "cost": "短期还款可能较低，但本金未减少，后续还款和长期总利息可能增加；按自己的贷款方案计算。",
+    "limit": "不是银行保证批准的权利；节目里的延期或暂停还款也不等于利息被免除。",
+    "english": "Could you show the repayments after the interest-only period and the total cost compared with my current loan?",
+    "official": "Sorted 解释 interest-only 期间支付利息而非本金，期满后通常恢复本息还款，且审批条件严格。本条不沿用 2023 年的市场预测。",
+    "sources": [
+      {
+        "label": "Sorted · Mortgage types",
+        "url": "https://sorted.org.nz/guides/home-buying/mortgage-types/",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000619067115",
+      "date": "2023-07-02",
+      "dateType": "节目 feed 日期",
+      "who": "Antonia Watson",
+      "role": "该集以 ANZ NZ CEO 身份发言",
+      "show": "Smart Money",
+      "showId": "1445636358",
+      "episodeTitle": "Antonia Watson: More kiwis are falling prey to scams",
+      "url": "https://podcasts.apple.com/nz/podcast/id1445636358?i=1000619067115",
+      "timestamp": "07:10–08:24",
+      "startSeconds": 430,
+      "endSeconds": 504,
+      "speaker": "Speaker 4",
+      "summary": "嘉宾讨论只还息、延长年限等短期缓冲工具。本条以当前公开教育资料补充本金和长期成本问题。",
+      "conflict": "嘉宾代表放款银行，讨论本行业提供的安排。",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000619067115-430-cceef12b39",
+      "segmentHash": "cceef12b39a765896e970f541ee4089a6d24087030a49725377d9af6efea448b",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "只还息",
+      "interest only",
+      "月供",
+      "贷款期限"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "kids-money-practice",
+    "topic": "wealth",
+    "category": "预算与现金流",
+    "title": "让孩子练习花、存和等待，规则先谈好",
+    "summary": "小额真实选择，比抽象讲道理更容易开始。",
+    "steps": [
+      "按孩子年龄和家庭预算，约定零花钱或额外家务报酬的规则。",
+      "把想买的东西列出来，试着分配现在花、存起来或分享的金额。",
+      "定期聊选择结果，允许在可承受的小金额里犯错并调整。"
+    ],
+    "cost": "不需要购买儿童投资产品或付费课程；金额和方式由家庭自行决定。",
+    "limit": "家务是否与报酬挂钩没有本条要求的统一答案；本条不推荐嘉宾的 KiwiSaver 产品。",
+    "english": "Can we agree on what this money is for and how much to spend, save or share?",
+    "official": "Sorted 提供与孩子谈钱、零花钱和分罐练习的教育例子；它们是可选练习，并非家庭必须执行的金融规则。",
+    "sources": [
+      {
+        "label": "Sorted · Five easy ways to talk money with kids",
+        "url": "https://sorted.org.nz/blog/five-easy-ways-to-talk-money-with-kids/",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000718129557",
+      "date": "2025-07-20",
+      "dateType": "节目 feed 日期",
+      "who": "Rupert Carlyon",
+      "role": "该集介绍为 Koura Wealth 创办人及负责人",
+      "show": "Smart Money",
+      "showId": "1445636358",
+      "episodeTitle": "Rupert Carlyon: We need to teach our kids about money",
+      "url": "https://podcasts.apple.com/nz/podcast/id1445636358?i=1000718129557",
+      "timestamp": "11:32–12:04",
+      "startSeconds": 692,
+      "endSeconds": 724,
+      "speaker": "Speaker 2",
+      "summary": "Carlyon 以自己家庭的零花钱与额外任务举例。本条保留实践与选择的思路，不要求每个家庭复制其安排。",
+      "conflict": "嘉宾经营 KiwiSaver 相关商业服务。",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000718129557-692-ac92ce159b",
+      "segmentHash": "ac92ce159b0093d76bad9f14b0716be2191c9a1b5547cc0ea005bcd7e312b429",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "儿童财商",
+      "零花钱",
+      "pocket money",
+      "孩子理财"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "windfall-plan",
+    "topic": "wealth",
+    "category": "预算与现金流",
+    "title": "突然收到一笔钱，先给自己留决定空间",
+    "summary": "先处理期限、债务和生活目标，再听产品推介。",
+    "steps": [
+      "确认款项性质、相关手续及是否有税务或法律问题需要另外核对。",
+      "先列近期必要支出、债务和希望实现的目标，避免急着辞职或作长期承诺。",
+      "要寻求专业建议时，先问服务范围、收费和利益关系，再讨论具体产品。"
+    ],
+    "cost": "不采用固定分配比例、等待天数或收益目标；咨询、投资及退出费用要分别比较。",
+    "limit": "继承、出售资产和奖金的法律税务条件不同；一般理财教育不能替代个人评估。",
+    "english": "Could we make a plan for this lump sum before choosing products or making long-term commitments?",
+    "official": "Sorted 的 windfall 教育文章建议把一次性收入放进整体规划、债务与目标考虑；该文是一般教育，不能确定某笔收入的税务处理。",
+    "sources": [
+      {
+        "label": "Sorted · What to do with a windfall",
+        "url": "https://sorted.org.nz/blog/what-to-do-with-a-windfall/",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000753843137",
+      "date": "2026-03-08",
+      "dateType": "节目 feed 日期",
+      "who": "Nick Crawford",
+      "role": "该集介绍为 Private Office 负责人及作者",
+      "show": "Smart Money",
+      "showId": "1445636358",
+      "episodeTitle": "Nick Crawford: The mistakes people make with a windfall",
+      "url": "https://podcasts.apple.com/nz/podcast/id1445636358?i=1000753843137",
+      "timestamp": "11:21–11:42",
+      "startSeconds": 681,
+      "endSeconds": 702,
+      "speaker": "Speaker 2",
+      "summary": "Crawford 提醒先弄清自己怎样生活，再决定突然得来的钱该怎样使用。本条的清单为编辑整理。",
+      "conflict": "嘉宾提供私人财务相关商业服务并推广书籍。",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000753843137-681-ed9adea02c",
+      "segmentHash": "ed9adea02ccc13b045b1942870b32fbdb19718ba0c69da1172410318fdb4cee9",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "意外收入",
+      "继承",
+      "windfall",
+      "奖金"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "ethical-fund-claims",
+    "topic": "wealth",
+    "category": "投资与防骗",
+    "title": "看到 ethical 或 ESG，继续查它具体怎样投资",
+    "summary": "标签背后的筛选、持仓和取舍，可能不一样。",
+    "steps": [
+      "先写出自己关心的价值问题，再看基金明确承诺什么。",
+      "比较 PDS、SIPO、公开持仓和营销页面，问排除标准与例外。",
+      "同时看分散、风险及费用，不只按绿色标签选择。"
+    ],
+    "cost": "仍需比较管理费及其他适用费用；可持续标签不代表费用更低或回报更高。",
+    "limit": "ESG、排除特定行业和影响力投资并非同义词；本条不为任何基金作道德认证或收益保证。",
+    "english": "What does this fund mean by ethical or sustainable, and how do its holdings and exclusions match that claim?",
+    "official": "FMA 说明可持续相关投资用语有主观性，没有由它统一定义的单一伦理标准；披露应公平、准确、清楚，不能凭模糊标签判断。",
+    "sources": [
+      {
+        "label": "FMA · Sustainability-related investing",
+        "url": "https://www.fma.govt.nz/business/focus-areas/sustainability-related-investing/",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000752252957",
+      "date": "2026-03-01",
+      "dateType": "节目 feed 日期",
+      "who": "Martin Hawes",
+      "role": "财务作者及节目嘉宾",
+      "show": "Smart Money",
+      "showId": "1445636358",
+      "episodeTitle": "Martin Hawes: Are you losing money on ethical investing?",
+      "url": "https://podcasts.apple.com/nz/podcast/id1445636358?i=1000752252957",
+      "timestamp": "03:00–04:50",
+      "startSeconds": 180,
+      "endSeconds": 290,
+      "speaker": "Speaker 3",
+      "summary": "Hawes 区分 ESG 分析与排除式伦理投资，并谈及价值选择。本条不采用同集对特定行业的个人立场作推荐。",
+      "conflict": "",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000752252957-180-4fb4525fe2",
+      "segmentHash": "4fb4525fe25285cd575bd4f2e76781be0e5b4f2cf506725e175825f1c176c7d3",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "ESG",
+      "伦理投资",
+      "可持续",
+      "绿色漂洗",
+      "ethical"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "separate-account-property",
+    "topic": "wealth",
+    "category": "家庭与安排",
+    "title": "账户各自持有，不等于分开时一定各归各",
+    "summary": "关系时间、资产来源和使用方式都需要一起看。",
+    "steps": [
+      "保留关系与财产取得时间、来源、赠与及共同使用等记录。",
+      "准备建立伴侣财务安排或分开时，请独立律师解释适用规则。",
+      "如考虑 contracting out agreement，先问法定程序与各方独立意见要求，不自行套用模板。"
+    ],
+    "cost": "账户名义不能替代法律分析；拟定协议、估值与个案法律费用提前确认。",
+    "limit": "三年是一般规则的重要节点，也有短关系等例外；不表示未满三年完全无风险，或所有财产一律对半。",
+    "english": "How would our separately held accounts and the source of these assets be treated under relationship property rules?",
+    "official": "司法部区分 relationship property 与 separate property，并说明关系类型、时间及例外会影响分配。工资收入放在个人名下账户，不足以单独决定归属。",
+    "sources": [
+      {
+        "label": "Ministry of Justice · Understand relationship property",
+        "url": "https://www.justice.govt.nz/family/relationship-property/understand-relationship-property/",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      },
+      {
+        "label": "Ministry of Justice · How the Family Court divides property",
+        "url": "https://www.justice.govt.nz/family/separation-divorce/divide-relationship-property/how-fc-divides-property/",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000747532423",
+      "date": "2026-02-01",
+      "dateType": "节目 feed 日期",
+      "who": "Sharon Chandra",
+      "role": "该集介绍为家庭与离婚律师",
+      "show": "Smart Money",
+      "showId": "1445636358",
+      "episodeTitle": "Sharon Chandra: You could be essentially married without even realising it",
+      "url": "https://podcasts.apple.com/nz/podcast/id1445636358?i=1000747532423",
+      "timestamp": "12:31–13:03",
+      "startSeconds": 751,
+      "endSeconds": 783,
+      "speaker": "Speaker 3",
+      "summary": "Chandra 说明关系期间各自账户里积累的钱，也可能属于关系财产。本条未把一般三年规则写成没有例外的结论。",
+      "conflict": "嘉宾提供相关商业法律服务。",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000747532423-751-da4e0da79d",
+      "segmentHash": "da4e0da79d0bd2bb359b768002117e706dd836fd229d8b54ab480c64da420513",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "伴侣财产",
+      "分手",
+      "独立账户",
+      "relationship property",
+      "婚前协议"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "entryType": "podcast-distillation"
+  },
+  {
+    "id": "subscription-calendar",
+    "topic": "wealth",
+    "category": "债务与支出",
+    "title": "免费试用也记进账单日历，取消后留凭据",
+    "summary": "先问什么时候开始扣款，以及怎样停止续期。",
+    "steps": [
+      "列出试用结束、下次扣款、固定期限和取消通知要求。",
+      "到期前按实际签约渠道办理取消，保留书面通知或确认。",
+      "核对后续账单；若仍扣款或条款不清，带凭据向提供者询问和投诉。"
+    ],
+    "cost": "取消是否收费、能否退已付金额及最后服务日，应按合同与适用消费者权利核对。",
+    "limit": "并非所有线上订阅都有无条件冷静期或退款权；不把停止使用服务当成已经完成取消。",
+    "english": "When does the trial become paid, how do I stop renewal, and can you confirm the cancellation in writing?",
+    "official": "Consumer Protection 建议核对取消条件并保留书面通知。Commerce Commission 的自动续期指引说明不清楚或不合理地捆绑消费者的条款可能不公平；不是任何续期都自动无效。",
+    "sources": [
+      {
+        "label": "Consumer Protection · Contracts and sales agreements",
+        "url": "https://www.consumerprotection.govt.nz/general-help/guide-to-buying-smart/contracts-and-sales-agreements",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      },
+      {
+        "label": "Commerce Commission · Subscriptions and automatic rollovers",
+        "url": "https://www.comcom.govt.nz/assets/pdf_file/0027/93906/Guide-quide-Subscriptions-and-automatic-rollovers.pdf",
+        "checked": "2026-10-21",
+        "method": "官网或第一手公共教育资料网页正文/检索核对；仅覆盖公共资料摘要，非专业审核"
+      }
+    ],
+    "podcast": {
+      "eid": "1000721355600",
+      "date": "2025-08-10",
+      "dateType": "节目 feed 日期",
+      "who": "Simon Brown",
+      "role": "该集介绍为 Banqer CEO",
+      "show": "Smart Money",
+      "showId": "1445636358",
+      "episodeTitle": "Simon Brown: Financial literacy is invaluable",
+      "url": "https://podcasts.apple.com/nz/podcast/id1445636358?i=1000721355600",
+      "timestamp": "32:52–33:05",
+      "startSeconds": 1972,
+      "endSeconds": 1985,
+      "speaker": "Speaker 3",
+      "summary": "Brown 提醒输入卡号的免费试用，可能因为忘记取消而持续扣款。本条将其整理为账单与取消记录的动作。",
+      "conflict": "嘉宾经营财务教育相关商业服务。",
+      "sourceRole": "节目依据",
+      "evidenceId": "1000721355600-1972-b027e42234",
+      "segmentHash": "b027e422343a4389da9a5c62664d642ae005566ed7247c041c3f6ba68e596e32",
+      "provenance": "已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。",
+      "audioChecked": false,
+      "contextChecked": true
+    },
+    "status": "本次核对",
+    "checked": "2026-10-21",
+    "tags": [
+      "自动续费",
+      "订阅",
+      "免费试用",
+      "subscription",
+      "取消"
+    ],
+    "edited": "2026-10-21",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "entryType": "podcast-distillation"
   }
 ]

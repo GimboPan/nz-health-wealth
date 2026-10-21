@@ -1,6 +1,6 @@
 # Wealth · 新西兰金钱与生活安排
 
-v1.0.0 · 内容核对截至 2026-10-20 · 44 条。
+v1.1.0 · 内容更新截至 2026-10-21 · 57 条。
 
 [回到项目首页](../README.md) · [来源与核对记录](DISTILLATION.md)
 
@@ -24,6 +24,7 @@ v1.0.0 · 内容核对截至 2026-10-20 · 44 条。
 - [找财务顾问，先问他如何收费与受谁委托](#adviser-pay)
 - [已经转钱或泄露资料，立即联系自己的银行](#scam-response)
 - [定期投入是一种安排，不是稳赚或抄底保证](#regular-investing)
+- [看到 ethical 或 ESG，继续查它具体怎样投资](#ethical-fund-claims)
 ### KiwiSaver
 
 - [KiwiSaver：先核对工资单上的比例](#kiwi-rate)
@@ -39,6 +40,8 @@ v1.0.0 · 内容核对截至 2026-10-20 · 44 条。
 - [转贷或提前重签，先要一份完整费用表](#mortgage-break-cost)
 - [房贷分段到期，是一个需要讨论的风险安排](#mortgage-split)
 - [循环房贷的灵活性，也可能让本金一直降不下去](#revolving-credit)
+- [房贷 cashback，先读返还条件再比较优惠](#mortgage-cashback-terms)
+- [只还息可以缓解眼前月供，本金仍然在](#interest-only-plan)
 ### 保险与保障
 
 - [保费上涨，先一起看 excess 和应急金](#insurance-excess)
@@ -62,13 +65,20 @@ v1.0.0 · 内容核对截至 2026-10-20 · 44 条。
 ### 工作与收入
 
 - [收到裁员提议，先分清提议、反馈与最终决定](#redundancy-process)
+- [签工作合同前，带走阅读并提出问题](#employment-agreement-advice)
+- [没有拿到书面合同，也不要直接放弃员工权利](#no-written-agreement)
+- [年报酬达到 20 万，解雇保护要单独核对](#high-income-dismissal)
 ### 预算与现金流
 
 - [财务压力大，可以先找免费保密的预算支持](#free-budget-help)
+- [让孩子练习花、存和等待，规则先谈好](#kids-money-practice)
+- [突然收到一笔钱，先给自己留决定空间](#windfall-plan)
 ### 债务与支出
 
 - [先买后付，也要放进同一张还款日历](#bnpl-calendar)
 - [预计还不上贷款，尽早书面联系放款人](#debt-hardship)
+- [替家人担保前，问清最坏可能承担多少](#guarantee-liability)
+- [免费试用也记进账单日历，取消后留凭据](#subscription-calendar)
 ### 法律与家庭安排
 
 - [准备遗嘱，先把意愿、执行人和复杂情况理清](#will-preparation)
@@ -80,6 +90,11 @@ v1.0.0 · 内容核对截至 2026-10-20 · 44 条。
 ### 退休与提款
 
 - [NZ Super 与 KiwiSaver 分开核对资格](#nz-super-check)
+- [看退休村，先算入住、居住和退出三笔账](#retirement-village-contract)
+- [申请长期照护补助，先分清需求评估与财务评估](#residential-care-subsidy)
+### 家庭与安排
+
+- [账户各自持有，不等于分开时一定各归各](#separate-account-property)
 
 <a id="cash-buffer"></a>
 
@@ -1437,3 +1452,416 @@ Martin King（该集介绍为 BNZ 客户援助负责人） · feed 日期 2023-0
 [Smart Money · Nathan Stanners: Stronger KiwiSaver policies are needed as less people are retiring with enough](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000795214281)
 
 节目来电者（节目来电者，非政策发布者） · feed 日期 2026-10-11 · **13:08–13:28** · Speaker 5。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+
+<a id="employment-agreement-advice"></a>
+
+## 签工作合同前，带走阅读并提出问题
+
+拿到 offer 后，可以留时间理解和寻求独立意见。
+
+### 下一步
+
+1. 索取完整书面协议及引用的政策，标出工资、工时、职责、试用和离职条款。
+2. 向雇主询问不明白的地方，必要时请工会、律师或合适的人协助。
+3. 将谈妥的变更写入最终协议，保留草稿和沟通记录。
+
+**费用与成本：** 工会支持、独立法律咨询和商业 HR 服务的范围及收费不同，先确认。
+
+**适用边界：** 雇主不必接受每项加码要求，但最低法定权利不能靠合同取消；具体条款效力应按个案咨询。
+
+**可以这样问（编辑撰写）：** May I take the agreement away for independent advice and discuss these clauses before accepting?
+
+**公共资料：** Employment NZ 说明雇主应提供书面协议，员工可阅读、提问和寻求建议，也可接受、拒绝或请求修改；保留谈判记录有助处理争议。
+
+- [Employment NZ · Negotiating and accepting as an employee](https://www.employment.govt.nz/starting-employment/employment-agreements/negotiating-and-accepting-as-an-employee) · 核对 2026-10-21
+
+**节目依据：** 嘉宾建议给自己时间读合同，向工会、律师等寻求独立意见并提出不明白的地方。
+
+[Smart Money · Sylvie Thrush-Marsh: What should you keep an eye out for in your employment contract?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000775500235)
+
+Sylvie Thrush Marsh（MyHR 的 HR 专业人员；不是本段确认的律师） · feed 日期 2026-07-05 · **08:48–09:35** · Speaker 3。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾任职提供雇主 HR 服务的商业机构。
+
+
+<a id="no-written-agreement"></a>
+
+## 没有拿到书面合同，也不要直接放弃员工权利
+
+先保存实际工作与报酬记录，再确认关系和处理路径。
+
+### 下一步
+
+1. 保存排班、报酬、工作指示及相关通信，书面索取雇佣协议。
+2. 如果双方对 employee 或 contractor 身份有争议，向合适专业服务咨询。
+3. 有欠薪、歧视或解雇问题时尽早联系 Employment NZ、工会或律师，确认适用时限。
+
+**费用与成本：** 先查询公开信息与可用支持；代理或法律服务的收费另问，不把寻求帮助理解为必然要打官司。
+
+**适用边界：** 没有书面文件不等于没有雇佣关系，也不表示所有接单或承包者都自动成为员工。
+
+**可以这样问（编辑撰写）：** Could you provide my written employment agreement and explain how I can raise this employment concern?
+
+**公共资料：** Employment NZ 说明每位员工应有书面协议，最低权利即使未写在协议中仍适用；具体争议理由、身份及期限另行核对。
+
+- [Employment NZ · Negotiating and accepting as an employee](https://www.employment.govt.nz/starting-employment/employment-agreements/negotiating-and-accepting-as-an-employee) · 核对 2026-10-21
+- [Employment NZ · Personal grievances](https://www.employment.govt.nz/resolving-problems/how-to-resolve-problems/personal-grievances) · 核对 2026-10-21
+
+**节目依据：** 嘉宾说明没收到书面合同并不自动消除雇佣关系和法定责任。本条不据此替具体承包者确定身份。
+
+[Smart Money · Sylvie Thrush Marsh: There are many avenues to take employment disputes](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000790752666)
+
+Sylvie Thrush Marsh（MyHR 的 HR 与雇佣关系专业人员） · feed 日期 2026-09-20 · **14:50–15:36** · Speaker 3。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾为商业 HR 服务机构的销售与公共活动提供专业解释。
+
+
+<a id="high-income-dismissal"></a>
+
+## 年报酬达到 20 万，解雇保护要单独核对
+
+部分申诉理由受限，其他权利仍有不同规则。
+
+### 下一步
+
+1. 请专业顾问按官方定义核对年度报酬，别只看 offer 上的基本工资或随意相加所有福利。
+2. 确认原工作是否在 2026-02-21 前已存在，以及过渡安排是否适用。
+3. 签约时可讨论双方书面选择恢复解雇保护；有争议尽早取得个案建议。
+
+**费用与成本：** 这是权利和合同条件，不是税率门槛；法律咨询费用与可用工会支持分别询问。
+
+**适用边界：** 截至查核日门槛为每年 NZ$200,000 或以上。特定原工作有至 2027-02-21 的过渡安排，并非所有人在生效当天都失去同样保护。
+
+**可以这样问（编辑撰写）：** Does the remuneration threshold apply to me, and can we agree in writing to opt back into dismissal protections?
+
+**公共资料：** Employment NZ 说明新规则自 2026-02-21 起限制达到门槛者的不合理解雇及与解雇有关的不合理不利待遇申诉，其他申诉理由仍可适用。报酬按官方 PAYE 范围及计算法确定，通常不含雇主退休金缴款和受 FBT 处理的福利；可按规定书面 opt back in。
+
+- [Employment NZ · Dismissal rules for high income earners](https://www.employment.govt.nz/ending-employment/dismissal/dismissal-rules-for-high-income-earners) · 核对 2026-10-21
+
+**核对说明：** 门槛是 200,000 或以上；不是所有 PG 均排除，也不是公司车、雇主 KiwiSaver 等所有福利一律计入。过渡及书面恢复保护另有条件。
+
+
+**节目背景：** 嘉宾讨论高收入解雇新规则和谈判恢复保护的可能。本段将所有 PG 与所有福利概括在内，后文对其他 PG 又作澄清；本条按当前 Employment NZ 纠正。
+
+[Smart Money · Sylvie Thrush Marsh: There are many avenues to take employment disputes](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000790752666)
+
+Sylvie Thrush Marsh（MyHR 的 HR 与雇佣关系专业人员） · feed 日期 2026-09-20 · **06:28–07:21** · Speaker 3。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾任职雇主 HR 服务机构。
+
+
+<a id="retirement-village-contract"></a>
+
+## 看退休村，先算入住、居住和退出三笔账
+
+房屋外观相似，取得的权利与退出条件可能很不同。
+
+### 下一步
+
+1. 索取 occupation right agreement、披露文件及完整费用表。
+2. 请独立律师解释权利、周费调整、退出扣款和退款时间，并用自己的预算比较。
+3. 另问需要更高照护时是否有位置、另签什么合同及费用怎样变化。
+
+**费用与成本：** 政府入口说明退休村可各自定费，通常包括入场款、周费与退出成本；不存在全国统一的年费或退款保证。
+
+**适用边界：** 退休村与经评估的长期照护补助不是一回事；不要把节目来电者的养老金或费用个案当作自己的资格和预算。
+
+**可以这样问（编辑撰写）：** Could my independent lawyer explain the full costs, exit deductions and repayment timing under this occupation right agreement?
+
+**公共资料：** Govt.nz 说明入住与买普通住宅不同，签约前需要独立法律意见，并提示入场、日常及退出成本。Sorted 的退休村资料提供披露文件和现金流比较问题。
+
+- [Govt.nz · Retirement villages](https://www.govt.nz/browse/work-and-tax/retiring-from-work/retirement-villages/) · 核对 2026-10-21
+- [Sorted · Living in a retirement village](https://sorted.org.nz/guides/retirement/living-in-a-retirement-village/) · 核对 2026-10-21
+
+**核对说明：** 该时段是来电者；其金额、跨境居住与养老金个案不能改写成一般规则。
+
+
+**节目背景：** 来电者提出退休村开支与养老金是否够用的问题。本段不是主嘉宾 Martin Hawes 的收费规则说明，也未核实来电者金额。
+
+[Smart Money · Martin Hawes: Should the govt fund your retirement?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000767023163)
+
+节目来电者（节目来电者） · feed 日期 2026-05-10 · **25:13–26:17** · Speaker 7。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+
+<a id="residential-care-subsidy"></a>
+
+## 申请长期照护补助，先分清需求评估与财务评估
+
+有信托或曾经赠与资产，也应如实申报。
+
+### 下一步
+
+1. 先联系当地 needs assessment 服务，核对长期照护需求及申请路径。
+2. 向 Work and Income 确认与年龄、伴侣和家庭情况相关的财务评估资料。
+3. 完整提供资产、收入、信托、家庭借款及赠与记录，需要时寻求独立建议。
+
+**费用与成本：** 补助并非养老费用全包；个人收入、资产及其他收费仍需按当前规则与照护合同核对。
+
+**适用边界：** 把资产转给亲人或放入信托，不等于自动排除在评估外；不据节目旧数字执行赠与或资产转移。
+
+**可以这样问（编辑撰写）：** What needs assessment and financial information are required for a Residential Care Subsidy in my situation?
+
+**公共资料：** Work and Income 将照护需要评估与财务条件分开，并说明资产、收入和赠与等因素会被考虑。信托与低价转让可能涉及 deprivation 审查，不能当作保证获批的工具。
+
+- [Work and Income · Residential Care Subsidy](https://www.workandincome.govt.nz/products/a-z-benefits/residential-care-subsidy.html) · 核对 2026-10-21
+- [Work and Income · Reviewing Residential Care Subsidy](https://www.workandincome.govt.nz/products/payment-errors/review-residential-care-subsidy.html) · 核对 2026-10-21
+
+**节目依据：** 嘉宾说明照护需求、资产、收入、赠与及信托会影响评估。本条入口与条件另据当前 Work and Income。
+
+[Smart Money · Janet Xuccoa: Where do trusts fit in to aged care funding?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000748728504)
+
+Janet Xuccoa（节目介绍的税务与信托议题嘉宾） · feed 日期 2026-02-08 · **06:20–08:11** · Speaker 4。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾提供信托相关商业专业服务。
+
+
+<a id="guarantee-liability"></a>
+
+## 替家人担保前，问清最坏可能承担多少
+
+担保签字不是一份只表达支持的文件。
+
+### 下一步
+
+1. 向贷款方索取担保文件，问涵盖哪笔债、利息、费用及未来债务。
+2. 用自己的资产和收入评估最坏情形，另请独立律师解释。
+3. 若拟限制金额或退出条件，确认限制已明确写入文件且被接受。
+
+**费用与成本：** 可能承担本金、利息和费用，资产也可能受影响；不要只按借款人说的月供估算。
+
+**适用边界：** 担保不等于赠与，也不自动在房价上涨或对方付了一阵后解除；全债务担保可能涉及不止一笔债。
+
+**可以这样问（编辑撰写）：** What debts and maximum liability does this guarantee cover, and how can I be released from it?
+
+**公共资料：** Consumer Protection 说明担保可能覆盖一笔或全部相关债务，借款人无法履行时会带来实质财务风险，建议签前取得独立法律意见。
+
+- [Consumer Protection · Guarantors](https://www.consumerprotection.govt.nz/help-product-service/borrowing-money/guarantors) · 核对 2026-10-21
+
+**节目依据：** 嘉宾提醒帮助子女买房时担保可能波及父母资产，并提到限制担保的考虑。本条不保证任何一份担保已经有上限。
+
+[Smart Money · Janet Xuccoa: Your list of trustees has to be tight and reputable](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000771520201)
+
+Janet Xuccoa（税务与信托议题嘉宾） · feed 日期 2026-06-07 · **38:32–39:10** · Speaker 3。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾提供相关商业专业服务。
+
+
+<a id="mortgage-cashback-terms"></a>
+
+## 房贷 cashback，先读返还条件再比较优惠
+
+一次到账的现金，要和换贷总成本一起算。
+
+### 下一步
+
+1. 索取现金奖励的书面条件，确认期限、触发返还的行为和计算方法。
+2. 比较新旧贷款的利息、break fee、律师、估价及其他实际费用。
+3. 计划卖房、提前还款或再换银行时，先索取适用的书面结算说明。
+
+**费用与成本：** 返还可能涉及部分或全部奖励，不能假定各银行一律三年、一律按比例，或任何提前还款都必然返还。
+
+**适用边界：** 2020 年节目提到的活动不是今天仍可领取的报价；银行网页仅作条款示例，不代表本项目推荐。
+
+**可以这样问（编辑撰写）：** What triggers repayment of the cash contribution, how is it calculated, and what are the total switching costs?
+
+**公共资料：** Kiwibank 的现金奖励条款示例说明，银行关系发生重大改变时可能要求返还部分或全部奖励。具体义务由自己签署的适用条款决定，应连同换贷费用比较。
+
+- [Kiwibank · Cash contribution terms](https://www.kiwibank.co.nz/personal-banking/home-loans/getting-a-home-loan/cash-contribution/) · 核对 2026-10-21
+
+**核对说明：** 旧促销不是现行报价，返还期和算法也不能从某家银行推广到全部银行。
+
+
+**节目背景：** 嘉宾在 2020 年语境谈到银行用现金奖励吸引换贷。本条不保留当年的促销金额，返还问题按当前贷款方第一手条款示例补充。
+
+[Smart Money · Carissa Fairbrother: Banks getting involved in moral issues](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000486343273)
+
+Carissa Fairbrother（该集介绍为财务顾问；历史职称不代表当前许可状态） · feed 日期 2020-07-26 · **21:28–22:10** · Speaker 4。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾来自 Rival Wealth，提供商业财务服务。
+
+
+<a id="interest-only-plan"></a>
+
+## 只还息可以缓解眼前月供，本金仍然在
+
+先看恢复本息还款时的数字，再决定是否申请。
+
+### 下一步
+
+1. 向贷款方说明现金流问题，问可用选项及各自条件。
+2. 要求列出只还息期间、恢复本息后的还款与总成本比较。
+3. 同时确认剩余期限、费用及审核要求，留一份书面计划。
+
+**费用与成本：** 短期还款可能较低，但本金未减少，后续还款和长期总利息可能增加；按自己的贷款方案计算。
+
+**适用边界：** 不是银行保证批准的权利；节目里的延期或暂停还款也不等于利息被免除。
+
+**可以这样问（编辑撰写）：** Could you show the repayments after the interest-only period and the total cost compared with my current loan?
+
+**公共资料：** Sorted 解释 interest-only 期间支付利息而非本金，期满后通常恢复本息还款，且审批条件严格。本条不沿用 2023 年的市场预测。
+
+- [Sorted · Mortgage types](https://sorted.org.nz/guides/home-buying/mortgage-types/) · 核对 2026-10-21
+
+**节目依据：** 嘉宾讨论只还息、延长年限等短期缓冲工具。本条以当前公开教育资料补充本金和长期成本问题。
+
+[Smart Money · Antonia Watson: More kiwis are falling prey to scams](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000619067115)
+
+Antonia Watson（该集以 ANZ NZ CEO 身份发言） · feed 日期 2023-07-02 · **07:10–08:24** · Speaker 4。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾代表放款银行，讨论本行业提供的安排。
+
+
+<a id="kids-money-practice"></a>
+
+## 让孩子练习花、存和等待，规则先谈好
+
+小额真实选择，比抽象讲道理更容易开始。
+
+### 下一步
+
+1. 按孩子年龄和家庭预算，约定零花钱或额外家务报酬的规则。
+2. 把想买的东西列出来，试着分配现在花、存起来或分享的金额。
+3. 定期聊选择结果，允许在可承受的小金额里犯错并调整。
+
+**费用与成本：** 不需要购买儿童投资产品或付费课程；金额和方式由家庭自行决定。
+
+**适用边界：** 家务是否与报酬挂钩没有本条要求的统一答案；本条不推荐嘉宾的 KiwiSaver 产品。
+
+**可以这样问（编辑撰写）：** Can we agree on what this money is for and how much to spend, save or share?
+
+**公共资料：** Sorted 提供与孩子谈钱、零花钱和分罐练习的教育例子；它们是可选练习，并非家庭必须执行的金融规则。
+
+- [Sorted · Five easy ways to talk money with kids](https://sorted.org.nz/blog/five-easy-ways-to-talk-money-with-kids/) · 核对 2026-10-21
+
+**节目依据：** Carlyon 以自己家庭的零花钱与额外任务举例。本条保留实践与选择的思路，不要求每个家庭复制其安排。
+
+[Smart Money · Rupert Carlyon: We need to teach our kids about money](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000718129557)
+
+Rupert Carlyon（该集介绍为 Koura Wealth 创办人及负责人） · feed 日期 2025-07-20 · **11:32–12:04** · Speaker 2。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾经营 KiwiSaver 相关商业服务。
+
+
+<a id="windfall-plan"></a>
+
+## 突然收到一笔钱，先给自己留决定空间
+
+先处理期限、债务和生活目标，再听产品推介。
+
+### 下一步
+
+1. 确认款项性质、相关手续及是否有税务或法律问题需要另外核对。
+2. 先列近期必要支出、债务和希望实现的目标，避免急着辞职或作长期承诺。
+3. 要寻求专业建议时，先问服务范围、收费和利益关系，再讨论具体产品。
+
+**费用与成本：** 不采用固定分配比例、等待天数或收益目标；咨询、投资及退出费用要分别比较。
+
+**适用边界：** 继承、出售资产和奖金的法律税务条件不同；一般理财教育不能替代个人评估。
+
+**可以这样问（编辑撰写）：** Could we make a plan for this lump sum before choosing products or making long-term commitments?
+
+**公共资料：** Sorted 的 windfall 教育文章建议把一次性收入放进整体规划、债务与目标考虑；该文是一般教育，不能确定某笔收入的税务处理。
+
+- [Sorted · What to do with a windfall](https://sorted.org.nz/blog/what-to-do-with-a-windfall/) · 核对 2026-10-21
+
+**节目依据：** Crawford 提醒先弄清自己怎样生活，再决定突然得来的钱该怎样使用。本条的清单为编辑整理。
+
+[Smart Money · Nick Crawford: The mistakes people make with a windfall](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000753843137)
+
+Nick Crawford（该集介绍为 Private Office 负责人及作者） · feed 日期 2026-03-08 · **11:21–11:42** · Speaker 2。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾提供私人财务相关商业服务并推广书籍。
+
+
+<a id="ethical-fund-claims"></a>
+
+## 看到 ethical 或 ESG，继续查它具体怎样投资
+
+标签背后的筛选、持仓和取舍，可能不一样。
+
+### 下一步
+
+1. 先写出自己关心的价值问题，再看基金明确承诺什么。
+2. 比较 PDS、SIPO、公开持仓和营销页面，问排除标准与例外。
+3. 同时看分散、风险及费用，不只按绿色标签选择。
+
+**费用与成本：** 仍需比较管理费及其他适用费用；可持续标签不代表费用更低或回报更高。
+
+**适用边界：** ESG、排除特定行业和影响力投资并非同义词；本条不为任何基金作道德认证或收益保证。
+
+**可以这样问（编辑撰写）：** What does this fund mean by ethical or sustainable, and how do its holdings and exclusions match that claim?
+
+**公共资料：** FMA 说明可持续相关投资用语有主观性，没有由它统一定义的单一伦理标准；披露应公平、准确、清楚，不能凭模糊标签判断。
+
+- [FMA · Sustainability-related investing](https://www.fma.govt.nz/business/focus-areas/sustainability-related-investing/) · 核对 2026-10-21
+
+**节目依据：** Hawes 区分 ESG 分析与排除式伦理投资，并谈及价值选择。本条不采用同集对特定行业的个人立场作推荐。
+
+[Smart Money · Martin Hawes: Are you losing money on ethical investing?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000752252957)
+
+Martin Hawes（财务作者及节目嘉宾） · feed 日期 2026-03-01 · **03:00–04:50** · Speaker 3。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+
+<a id="separate-account-property"></a>
+
+## 账户各自持有，不等于分开时一定各归各
+
+关系时间、资产来源和使用方式都需要一起看。
+
+### 下一步
+
+1. 保留关系与财产取得时间、来源、赠与及共同使用等记录。
+2. 准备建立伴侣财务安排或分开时，请独立律师解释适用规则。
+3. 如考虑 contracting out agreement，先问法定程序与各方独立意见要求，不自行套用模板。
+
+**费用与成本：** 账户名义不能替代法律分析；拟定协议、估值与个案法律费用提前确认。
+
+**适用边界：** 三年是一般规则的重要节点，也有短关系等例外；不表示未满三年完全无风险，或所有财产一律对半。
+
+**可以这样问（编辑撰写）：** How would our separately held accounts and the source of these assets be treated under relationship property rules?
+
+**公共资料：** 司法部区分 relationship property 与 separate property，并说明关系类型、时间及例外会影响分配。工资收入放在个人名下账户，不足以单独决定归属。
+
+- [Ministry of Justice · Understand relationship property](https://www.justice.govt.nz/family/relationship-property/understand-relationship-property/) · 核对 2026-10-21
+- [Ministry of Justice · How the Family Court divides property](https://www.justice.govt.nz/family/separation-divorce/divide-relationship-property/how-fc-divides-property/) · 核对 2026-10-21
+
+**节目依据：** Chandra 说明关系期间各自账户里积累的钱，也可能属于关系财产。本条未把一般三年规则写成没有例外的结论。
+
+[Smart Money · Sharon Chandra: You could be essentially married without even realising it](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000747532423)
+
+Sharon Chandra（该集介绍为家庭与离婚律师） · feed 日期 2026-02-01 · **12:31–13:03** · Speaker 3。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾提供相关商业法律服务。
+
+
+<a id="subscription-calendar"></a>
+
+## 免费试用也记进账单日历，取消后留凭据
+
+先问什么时候开始扣款，以及怎样停止续期。
+
+### 下一步
+
+1. 列出试用结束、下次扣款、固定期限和取消通知要求。
+2. 到期前按实际签约渠道办理取消，保留书面通知或确认。
+3. 核对后续账单；若仍扣款或条款不清，带凭据向提供者询问和投诉。
+
+**费用与成本：** 取消是否收费、能否退已付金额及最后服务日，应按合同与适用消费者权利核对。
+
+**适用边界：** 并非所有线上订阅都有无条件冷静期或退款权；不把停止使用服务当成已经完成取消。
+
+**可以这样问（编辑撰写）：** When does the trial become paid, how do I stop renewal, and can you confirm the cancellation in writing?
+
+**公共资料：** Consumer Protection 建议核对取消条件并保留书面通知。Commerce Commission 的自动续期指引说明不清楚或不合理地捆绑消费者的条款可能不公平；不是任何续期都自动无效。
+
+- [Consumer Protection · Contracts and sales agreements](https://www.consumerprotection.govt.nz/general-help/guide-to-buying-smart/contracts-and-sales-agreements) · 核对 2026-10-21
+- [Commerce Commission · Subscriptions and automatic rollovers](https://www.comcom.govt.nz/assets/pdf_file/0027/93906/Guide-quide-Subscriptions-and-automatic-rollovers.pdf) · 核对 2026-10-21
+
+**节目依据：** Brown 提醒输入卡号的免费试用，可能因为忘记取消而持续扣款。本条将其整理为账单与取消记录的动作。
+
+[Smart Money · Simon Brown: Financial literacy is invaluable](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000721355600)
+
+Simon Brown（该集介绍为 Banqer CEO） · feed 日期 2025-08-10 · **32:52–33:05** · Speaker 3。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾经营财务教育相关商业服务。

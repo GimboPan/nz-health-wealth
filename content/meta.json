@@ -1,9 +1,9 @@
 {
   "name": "NZ Health & Wealth",
   "chineseName": "在新西兰，好好生活",
-  "version": "1.0.0",
-  "edition": "首个公开内容版",
-  "observedDate": "2026-10-20",
+  "version": "1.1.0",
+  "edition": "未审阅节目增补版",
+  "observedDate": "2026-10-21",
   "corpus": [
     {
       "name": "The Health Hub",
@@ -71,5 +71,6 @@
   "repository": "https://github.com/GimboPan/nz-health-wealth",
   "website": "https://gimbo.co.nz/ideas/nz-health-wealth",
   "guide": "https://gimbo.co.nz/ideas/nz-health-wealth-guide.html",
-  "scope": "86 条高频场景指南；84 条节目片段引用；2 条官方补充。未逐期完整蒸馏全库。"
+  "scope": "111 条场景指南；109 条节目片段引用，涉及 84 集；2 条官方补充。本轮新增 25 条，未逐期完整蒸馏全库。",
+  "corpusObservedDate": "2026-10-20"
 }

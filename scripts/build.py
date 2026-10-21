@@ -26,7 +26,7 @@ data=json.dumps(dict(entries=entries,meta=meta,research=research,episodes=episod
 text=text.replace('/* STYLES */',(ROOT/'src/styles.css').read_text()).replace('/* DATA */','window.GUIDE_DATA='+data+';').replace('/* APP */',(ROOT/'src/app.js').read_text())
 counts={t:sum(e['topic']==t for e in entries) for t in ('health','wealth')}
 citations=[e['podcast'] for e in entries if e['podcast']]
-values=dict(version=meta['version'],observedDate=meta['observedDate'],entryCount=len(entries),healthCount=counts['health'],wealthCount=counts['wealth'],
+values=dict(version=meta['version'],observedDate=meta['observedDate'],corpusObservedDate=meta.get('corpusObservedDate',meta['observedDate']),entryCount=len(entries),healthCount=counts['health'],wealthCount=counts['wealth'],
  timestampedCount=len(citations),supplementCount=len(entries)-len(citations),corpusCount=sum(c['available'] for c in meta['corpus']),
  distinctBodies=sum(x['distinctBodies'] for x in research['topics'].values()),sourceEpisodes=len({x['eid'] for x in citations}),uniquePassages=len({x['evidenceId'] for x in citations}),episodeCount=len(episodes))
 for key,value in values.items():text=text.replace('{{'+key+'}}',str(value))

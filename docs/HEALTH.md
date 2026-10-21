@@ -1,6 +1,6 @@
 # Health · 新西兰求医与健康支持
 
-v1.0.0 · 内容核对截至 2026-10-20 · 42 条。
+v1.1.0 · 内容更新截至 2026-10-21 · 54 条。
 
 [回到项目首页](../README.md) · [来源与核对记录](DISTILLATION.md)
 
@@ -20,6 +20,7 @@ v1.0.0 · 内容核对截至 2026-10-20 · 42 条。
 - [慢性或复杂问题，尽量连续看同一位医生](#continuity)
 - [找医生时，核对登记与当前执业状态](#doctor-register)
 - [选远程问诊时，把记录与后续衔接问清](#telehealth-plan)
+- [孩子未满 14 岁，仍要问清哪些项目免费](#under14-gp-fees)
 ### 费用与资格
 
 - [先核对公费资格，再问项目费用](#funding)
@@ -48,6 +49,9 @@ v1.0.0 · 内容核对截至 2026-10-20 · 42 条。
 - [耳鸣或听力影响生活，先把问题评估清楚](#hearing-assessment)
 - [对方案仍有疑问，可以询问第二意见的路径](#second-opinion)
 - [想减少饮酒，先评估是否需要医疗支持](#alcohol-support)
+- [用 AI 整理问诊问题，结果仍要核实](#ai-health-preparation)
+- [找心理治疗时，同时问资质、方式和是否合适](#therapist-credentials)
+- [耳堵或听力变化，先确认是否真是耳垢](#earwax-assessment)
 ### 筛查与预防
 
 - [肠癌筛查：56 岁门槛有地区差异](#bowel)
@@ -56,6 +60,9 @@ v1.0.0 · 内容核对截至 2026-10-20 · 42 条。
 - [有症状时，不要等到免费筛查年龄](#screening-vs-symptoms)
 - [诊所和家中血压不同，把记录带回去讨论](#home-blood-pressure)
 - [皮肤出现新变化，预约时就说明变化](#skin-change)
+- [流感针每年重新核对，先问资助资格](#annual-flu-vaccine)
+- [宫颈筛查先核对适用方式，再问是否免费](#cervical-screening-cost)
+- [HPV 疫苗也关乎男性，别只想到宫颈](#hpv-vaccine)
 ### 儿童与家庭
 
 - [孩子的牙科，要单独确认是否已注册](#child-dental)
@@ -66,10 +73,19 @@ v1.0.0 · 内容核对截至 2026-10-20 · 42 条。
 - [不要把酒当作助眠办法](#alcohol-sleep)
 - [骨密度下降，先评估再选力量训练](#bone-exercise)
 - [担心跌倒，查本地力量与平衡支持](#falls-prevention)
+- [噪音防护先减少暴露，再选合适护具](#noise-protection)
+- [旅行打乱排便习惯，先恢复适合自己的节奏](#travel-constipation)
 ### 营养与日常选择
 
 - [营养建议互相打架，回到整体饮食与可靠资料](#nutrition-evidence)
 - [比较包装食品，先看同一种计量单位](#food-labels)
+- [怀疑乳糜泻，先问检测再自行戒麸质](#coeliac-testing)
+### 急迫时先做什么
+
+- [突然新增飞蚊或闪光，当天寻求眼部评估](#new-floaters-flashes)
+### 药与费用
+
+- [吃药后昏沉，开车前先核对影响](#medicine-driving)
 
 <a id="emergency"></a>
 
@@ -1358,3 +1374,386 @@ Margo Regan（节目介绍的酒精与心理健康议题嘉宾） · feed 日期
 Dr John Cameron（GP） · feed 日期 2026-03-22 · **09:46–10:28** · Speaker 4。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
 
 关系披露：嘉宾是基层医疗提供者，其看法与执业经验有关。
+
+
+<a id="annual-flu-vaccine"></a>
+
+## 流感针每年重新核对，先问资助资格
+
+接种针对当季预期流行株，不能保证挡住所有变种。
+
+### 下一步
+
+1. 向诊所或药房询问当年的流感疫苗及个人适用安排。
+2. 说明年龄、怀孕情况和相关健康条件，请提供者核对资助。
+3. 不符合免费条件时先问接种总价；身体不适时另问是否适合当天接种。
+
+**费用与成本：** Health NZ 页面列非资助接种常见约 NZ$25–45；这不是统一定价，以提供者报价为准。
+
+**适用边界：** 2026-09-01 起，满 6 个月至未满 5 岁儿童纳入资助；其他人群按当前具体条件核对，不能把所有哮喘或所有年龄都写成免费。
+
+**可以这样问（编辑撰写）：** Am I eligible for a funded flu vaccination this year, and what would the total charge be otherwise?
+
+**公共资料：** Health NZ 建议每年接种；2026 年资助包括 65 岁以上、孕妇、特定健康条件及新增幼儿年龄组等。资格清单会变化，预约时应按当年条件核对。
+
+- [Health NZ · Flu vaccine](https://www.healthnz.govt.nz/health-topics/immunisations/vaccines-aotearoa/flu-vaccine) · 核对 2026-10-21
+
+**核对说明：** 官网页面中的旧视频文字与 2026 年正文资助清单存在差别；本条采用当年正文，不沿用旧年龄概括。
+
+
+**节目依据：** Cameron 解释疫苗依据预期流行的病毒株更新，并非覆盖所有变种。资助及价格由当前官方页面另补。
+
+[The Health Hub · Dr. John Cameron: What can you do to dodge the flu?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000789258195)
+
+Dr John Cameron（节目介绍为 GP） · feed 日期 2026-09-13 · **22:06–22:19** · Speaker 3。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+
+<a id="ai-health-preparation"></a>
+
+## 用 AI 整理问诊问题，结果仍要核实
+
+可以帮忙表达症状，不能替自己判断该不该就医。
+
+### 下一步
+
+1. 把症状起点、变化、用药和希望问的问题整理成简短清单。
+2. 核对 AI 给出的资料来源，把不确定之处带给医疗团队。
+3. 输入前删去不必要的身份资料；先看工具如何保存和使用健康信息。
+
+**费用与成本：** 付费、医疗字样或专业版，不代表输出一定准确；不必为准备问诊先购买订阅。
+
+**适用边界：** 不能凭 AI 自诊、停药或延迟求助；严重不适应直接联系医疗服务。
+
+**可以这样问（编辑撰写）：** I used an AI tool to organise these questions. Could you help check which information is reliable?
+
+**公共资料：** 隐私专员办公室提醒生成式 AI 涉及个人信息处理及错误输出风险。本条把 AI 用于准备问题，临床判断仍交由合适的医疗服务。
+
+- [Privacy Commissioner · Generative AI](https://www.privacy.org.nz/resources-and-learning/a-z-topics/ai/generative-artificial-intelligence/) · 核对 2026-10-21
+
+**核对说明：** 不采用节目其他段落中未经核实的网络错误比例，也不将专用或付费 AI 写成无错误保证。
+
+
+**节目依据：** Betty 认为 AI 可能提高健康理解，同时可能带来误诊、延误和焦虑。本条只保留准备与核查用途。
+
+[The Health Hub · Dr Bryan Betty: Should patients be using Chat GPT?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000757994005)
+
+Dr Bryan Betty（节目介绍为 GP） · feed 日期 2026-03-29 · **05:00–05:52** · Speaker 1。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+
+<a id="noise-protection"></a>
+
+## 噪音防护先减少暴露，再选合适护具
+
+戴着耳机工作，不等于已经保护听力。
+
+### 下一步
+
+1. 工作中噪音大时，与负责人讨论能否减少源头噪音、隔离或缩短暴露。
+2. 请雇主说明适用护具的防护等级、贴合和使用培训。
+3. 娱乐听音也留意音量与时间；有听力变化时安排评估。
+
+**费用与成本：** 工作安全安排与个人听力治疗的收费、资助是不同问题；不先按节目推荐购买某个品牌。
+
+**适用边界：** 耳罩、耳塞和普通降噪耳机用途不同；“60% 音量听 60 分钟”不能保证所有设备和环境都安全。
+
+**可以这样问（编辑撰写）：** Can we reduce the noise exposure and check the correct hearing protection and fit for this task?
+
+**公共资料：** WorkSafe 要求按源头、传播路径及接收者管理噪音风险；护具是控制措施的一部分，需要正确选择、贴合和培训。
+
+- [WorkSafe · Managing noise risks](https://www.worksafe.govt.nz/topic-and-industry/noise/managing-noise-risks/managing-noise-risks/) · 核对 2026-10-21
+
+**核对说明：** 节目给的设备音量百分比口诀不能取代实际噪音风险评估。
+
+
+**节目依据：** Neeff 谈职业噪音暴露和耳部防护，提醒在噪音中继续加大耳机音量的问题。本条将工作控制顺序按 WorkSafe 补充。
+
+[The Health Hub · Dr Michel Neeff: We're too casual about our hearing](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000727698046)
+
+Dr Michel Neeff（节目介绍为耳鼻喉科医生） · feed 日期 2025-09-21 · **07:53–09:32** · Speaker 2。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾提供耳鼻喉科服务及相关评估。
+
+
+<a id="cervical-screening-cost"></a>
+
+## 宫颈筛查先核对适用方式，再问是否免费
+
+自取样是一种选择，收费仍有具体条件。
+
+### 下一步
+
+1. 向护士、GP 或 hauora 服务询问自己是否到了筛查时间。
+2. 问适合 HPV 自取样、协助取样还是临床取样；说明症状和既往异常结果。
+3. 预约前分别确认首次筛查与必要后续检查的资助及自费部分。
+
+**费用与成本：** 计划并非对所有人全额免费。部分族群、持 Community Services Card、未筛查或特定超期人群符合资助；具体年龄及上次检测类型均可能影响条件。
+
+**适用边界：** 宫颈异常出血等症状需要就医，不能等例行筛查；有 HPV 疫苗接种史也应询问筛查安排。
+
+**可以这样问（编辑撰写）：** Which cervical screening test is suitable for me, and am I eligible for free screening and follow-up?
+
+**公共资料：** HealthEd 介绍通常面向 25–69 岁有宫颈人群的筛查与自取样选择；Health NZ 分别列收费资助及随访条件。超期条件会区分上次是细胞学还是 HPV 检测，不可统一写成五年。
+
+- [Health NZ · Cervical screening eligibility](https://www.healthnz.govt.nz/health-topics/keeping-healthy/cancer-screening/cervical-screening/eligibility-for-cervical-screening) · 核对 2026-10-21
+- [HealthEd · Cervical screening: what you need to know](https://healthed.govt.nz/collections/all/products/cervical-screening-what-you-need-to-know-he1161) · 核对 2026-10-21
+
+**核对说明：** 不把“国家筛查项目”理解为人人免费，也不把节目建议的健康回顾频率当成统一筛查间隔。
+
+
+**节目背景：** Cameron 在预防性健康讨论中提及宫颈等筛查。本段没有解释 HPV 自取样或现行费用，本条这部分来自公共资料。
+
+[The Health Hub · Dr John Cameron: "We don't know how paracetamol works"](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000699338528)
+
+Dr John Cameron（节目介绍为 GP） · feed 日期 2025-03-16 · **12:21–12:55** · Speaker 2。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+
+<a id="hpv-vaccine"></a>
+
+## HPV 疫苗也关乎男性，别只想到宫颈
+
+接种与筛查解决不同问题，不能互相替代。
+
+### 下一步
+
+1. 查看接种记录，向学校接种团队、GP 或药房询问是否需要补种。
+2. 说明年龄和已接种剂次，让提供者安排适合的后续计划。
+3. 有宫颈的人继续按适用安排参加筛查，不以接种代替。
+
+**费用与成本：** Health NZ 当前列 HPV 疫苗对 9–26 岁人群免费；超龄或其他安排先确认报价及适用条件。
+
+**适用边界：** HPV 有不同类型；不把所有感染都说成一定致癌，也不把已经接种写成完全没有癌症风险。
+
+**可以这样问（编辑撰写）：** Could you check my HPV vaccination record, funded eligibility and any doses I still need?
+
+**公共资料：** Health NZ 说明 HPV 可与多种癌症有关，疫苗适用于不同性别；免费年龄为 9–26 岁。具体剂次和特殊情况由接种人员核对。
+
+- [Health NZ · HPV vaccine](https://www.healthnz.govt.nz/health-topics/immunisations/vaccines-aotearoa/hpv-human-papillomavirus-vaccine) · 核对 2026-10-21
+
+**节目背景：** Cameron 在头颈癌讨论中谈到 HPV，提供了不限于宫颈的问题背景。本条接种资格另据当前官方资料。
+
+[The Health Hub · Dr John Cameron: Why self examination is important for health](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000645795581)
+
+Dr John Cameron（节目介绍为 GP） · feed 日期 2024-02-18 · **11:43–12:25** · Speaker 5。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+
+<a id="therapist-credentials"></a>
+
+## 找心理治疗时，同时问资质、方式和是否合适
+
+职称、注册和彼此的工作关系，都值得确认。
+
+### 下一步
+
+1. 请对方说明使用的专业职称、训练、工作范围和督导安排。
+2. 如对方以 psychologist 或 psychotherapist 执业，查对应监管机构注册及当前执业证状态。
+3. 先讨论目标、费用和回顾进展的方法；不合适或有担忧时询问其他选择。
+
+**费用与成本：** 首次会谈、取消预约和转介后的收费都提前问；注册本身不等于服务免费或必然适合自己。
+
+**适用边界：** 不同心理支持人员的资格体系不同；不要把所有 counsellor 都当作同一法定注册职业，也不凭节目确认某人今天的执业状态。
+
+**可以这样问（编辑撰写）：** What are your qualifications, current registration and approach, and how will we review whether this is helping?
+
+**公共资料：** Psychologists Board 提供公开注册查询；Psychotherapists Board 说明执业需注册并持当前 APC。本条不评价具体个人，也不把会员标识当作同一种注册。
+
+- [Psychologists Board · Search register](https://psychologistsboard.org.nz/search-register/) · 核对 2026-10-21
+- [Psychotherapists Board · Annual practising certificates](https://pbanz.org.nz/Public/About%20psychotherapists/APC/Public/3.-About-psychotherapits-/9.-Annual-Practising-Certificate.aspx?hkey=ad801357-9c36-4e05-8ddb-a7f7fbba0a02) · 核对 2026-10-21
+
+**节目依据：** MacDonald 建议注意训练、注册、督导与治疗关系，不合适时可以寻求其他意见。
+
+[The Health Hub · Kyle MacDonald: Do happy people still need therapy?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000531361930)
+
+Kyle MacDonald（该集介绍为 psychotherapist；未核验其当前个人注册状态） · feed 日期 2021-08-08 · **16:43–18:11** · Speaker 3。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+
+<a id="coeliac-testing"></a>
+
+## 怀疑乳糜泻，先问检测再自行戒麸质
+
+已经改变饮食，也要告诉负责检测的医生。
+
+### 下一步
+
+1. 持续消化不适时联系 GP，说明症状、家族史和已做的饮食调整。
+2. 检查前询问饮食会怎样影响结果，不自行套用网上的戒食方案。
+3. 已无麸质饮食或曾有严重食物反应时，先与医生商量检测计划。
+
+**费用与成本：** 检查、就诊和营养支持的资助与费用分开问；不先购买商业食物不耐受套餐。
+
+**适用边界：** 乳糜泻是自身免疫疾病，不能只凭饮食反应确诊；本条不提供自行恢复大量麸质的操作方案。
+
+**可以这样问（编辑撰写）：** Could coeliac disease be relevant, and how should my current diet be managed before testing?
+
+**公共资料：** Health NZ 说明乳糜泻检测受麸质摄入影响；检查前自行无麸质饮食可能影响诊断，应与医生制定检测安排。
+
+- [Health NZ · Coeliac disease](https://www.healthnz.govt.nz/health-topics/conditions-treatments/stomach-and-bowel/coeliac-disease) · 核对 2026-10-21
+
+**核对说明：** 不采用同集其他段落中把疾病与单一祖籍联系的概括，也不把一般营养讨论当成诊断。
+
+
+**节目背景：** Turnbull 提醒不要在缺乏评估时随意排除麸质或乳制品。本条乳糜泻检测条件另据 Health NZ。
+
+[The Health Hub · Claire Turnbull: Why your GP won't give you nutrition advice](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000763634255)
+
+Claire Turnbull（节目介绍为 nutritionist） · feed 日期 2026-04-26 · **04:10–05:21** · Speaker 4。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾提供 Mission Nutrition 服务并推广营养相关内容。
+
+
+<a id="under14-gp-fees"></a>
+
+## 孩子未满 14 岁，仍要问清哪些项目免费
+
+参与计划的标准问诊，与额外服务分开计算。
+
+### 下一步
+
+1. 先核对孩子的公费医疗资格，以及注册诊所是否参与零费用计划。
+2. 预约时问是否属于标准日间问诊，长问诊、证明或小手术是否另收费。
+3. 夜间或周末需要看病时，问诊所当地指定的零费用服务入口。
+
+**费用与成本：** 符合条件的未满 14 岁儿童在参与计划的诊所可获标准问诊零费用；其他诊所、额外服务和非指定服务可能收费。
+
+**适用边界：** 年龄本身不等于所有医疗均免费；急迫程度应先由医疗服务判断，不因找免费入口延误急症。
+
+**可以这样问（编辑撰写）：** Is my child eligible for a zero-fee standard consultation here, and are any additional services charged?
+
+**公共资料：** Health NZ 的 zero-fees-for-under-14s 说明公费资格、参与诊所、标准日间问诊及指定非工作时间服务，同时列出可能的额外费用。
+
+- [Health NZ · Zero fees for under-14s](https://www.healthnz.govt.nz/hospitals-services/eligibility-subsidies/zero-fees-for-under-14s) · 核对 2026-10-21
+
+**节目背景：** Bloomfield 讨论儿童健康与生活困难、支持服务的联系。本段没有发布 GP 免费规则，资格及收费另据 Health NZ。
+
+[The Health Hub · Sir Ashley Bloomfield: Children face many barriers in healthcare](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000721351245)
+
+Sir Ashley Bloomfield（该集以 Barnardos 大使身份参与） · feed 日期 2025-08-10 · **16:22–17:13** · Speaker 4。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾为节目中讨论的儿童慈善机构倡议服务。
+
+
+<a id="new-floaters-flashes"></a>
+
+## 突然新增飞蚊或闪光，当天寻求眼部评估
+
+别仅凭“飞蚊通常常见”就等到下次例行检查。
+
+### 下一步
+
+1. 描述何时开始、是否突然增多、闪光及视力变化。
+2. 新出现或明显增加时，当天联系验光师或医疗服务安排紧急评估。
+3. 视野像有帘幕、阴影或突然视力下降时，立即说明这些变化并求助。
+
+**费用与成本：** 评估收费及后续转介依服务而异；先说明急迫变化，再核对费用，不为比价延误。
+
+**适用边界：** 本条不是在家区分良性飞蚊和视网膜问题的方法；旧症状出现新变化也应重新求助。
+
+**可以这样问（编辑撰写）：** I have new floaters or flashes and a change in vision. Where can I get an urgent eye assessment today?
+
+**公共资料：** Health NZ 把新发或增加的飞蚊、闪光及帘幕样阴影、突然视力变化列为需要当天紧急评估的表现。
+
+- [Health NZ · Floaters and flashes](https://www.healthnz.govt.nz/health-topics/conditions-treatments/eyes/floaters-and-flashes) · 核对 2026-10-21
+
+**节目依据：** Walsh 区分长期常见飞蚊与突然新增、伴闪光的问题，提醒及时检查。
+
+[The Health Hub · Philip Walsh: Taking care of our kids eye health](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000589517708)
+
+Philip Walsh（节目介绍为 optometrist） · feed 日期 2022-11-13 · **09:03–09:56** · Speaker 4。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾代表 Specsavers，提供眼部检查及配镜相关商业服务。
+
+
+<a id="travel-constipation"></a>
+
+## 旅行打乱排便习惯，先恢复适合自己的节奏
+
+别把机上补水口诀当成每个人的处方。
+
+### 下一步
+
+1. 留意旅行后饮食、活动和如厕时机的变化，尽量恢复规律。
+2. 按自己的需要保持饮食、液体摄入和适量活动，有便意时别一再拖延。
+3. 持续变化、便血或明显不适时联系医疗服务，必要时向药师询问适合的短期帮助。
+
+**费用与成本：** 不必先买排毒或肠道清洁产品；药品及咨询费用另问提供者。
+
+**适用边界：** 有液体限制或其他疾病时按个人医疗计划；腹部明显肿痛、数日无法排便排气等情况应及时求助。
+
+**可以这样问（编辑撰写）：** My bowel habits changed during travel. What is appropriate for me, and which symptoms need medical assessment?
+
+**公共资料：** Health NZ 建议结合饮食、饮水、活动和如厕习惯处理便秘；已充足摄入者一味增加水或纤维未必有帮助，并列出需就医的症状。
+
+- [Health NZ · Constipation in adults](https://www.healthnz.govt.nz/health-topics/conditions-treatments/stomach-and-bowel/constipation-in-adults) · 核对 2026-10-21
+
+**核对说明：** 不把固定补水量或无限增加纤维推广为普遍处方。
+
+
+**节目依据：** Turnbull 提醒旅行与作息变化可能影响排便。本条不采用其按每小时飞行固定增加两杯水的说法。
+
+[The Health Hub · Claire Turnbull: Fibre and sleep are keys to a strong diet](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000715951612)
+
+Claire Turnbull（节目介绍为 nutritionist） · feed 日期 2025-07-06 · **24:55–25:53** · Speaker 4。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：该集推广其营养书籍与生活规划内容。
+
+
+<a id="medicine-driving"></a>
+
+## 吃药后昏沉，开车前先核对影响
+
+助眠之外的药，也可能影响第二天反应。
+
+### 下一步
+
+1. 拿完整药单向药师或开方者问是否会影响驾驶，以及影响可能持续多久。
+2. 包括非处方、传统或草药产品，并说明酒精和其他用药。
+3. 感到困倦、反应慢或视力受影响时不要驾驶；已在路上则先安全停车求助。
+
+**费用与成本：** 先利用药师或开方团队的用药解释；不要为恢复开车自行减药或停药。
+
+**适用边界：** 节目来电者没有说明具体药物，不能据此推断其病情、药名或个人安全等待时间。
+
+**可以这样问（编辑撰写）：** Could this medicine or combination affect driving the next day, and what should I do if I feel drowsy?
+
+**公共资料：** NZTA 提醒处方、非处方及传统药物均可能影响驾驶；多种药及酒精可增加影响。出现困倦等表现时应停止驾驶并询问医疗专业人员。
+
+- [NZTA · How medication affects driving](https://www.nzta.govt.nz/driving-skills/safe-driving-habits/how-medication-affects-driving) · 核对 2026-10-21
+
+**节目背景：** Bartle 说明有些帮助入睡的药可能令第二天昏沉。来电者随即澄清所服并非助眠药，未公布药名；本条扩展到 NZTA 的一般驾驶提醒。
+
+[The Health Hub · Dr Alex Bartle: Most people are ruining their own sleep](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000760898781)
+
+Dr Alex Bartle（该集介绍为 SleepWell Clinic 负责人） · feed 日期 2026-04-12 · **20:19–20:26** · Speaker 4。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+关系披露：嘉宾提供睡眠相关医疗服务。
+
+
+<a id="earwax-assessment"></a>
+
+## 耳堵或听力变化，先确认是否真是耳垢
+
+不把电台里的家庭配方当成自己的处理方案。
+
+### 下一步
+
+1. 向诊所或合适的耳部服务说明耳堵、疼痛、分泌物和听力变化。
+2. 询问是否需要检查及适合的清理方式，并告知耳部手术或耳膜问题史。
+3. 不要把棉签等物伸入耳道，也不要使用耳烛。
+
+**费用与成本：** 耳部检查、清理及商业耳护理服务的费用和资助需直接确认；不是所有耳堵都需要购买清理服务。
+
+**适用边界：** 本条不确认耳垢就是症状原因，也不提供自配溶液、冲洗或滴耳步骤；突然听力变化应及时联系医疗服务。
+
+**可以这样问（编辑撰写）：** Could you assess the cause of this blocked ear and explain whether any wax removal is safe and needed?
+
+**公共资料：** Healthify 的临床公众教育说明耳垢有保护作用，无问题时通常不用清除；棉签与耳烛可能造成伤害，有症状应由合适服务评估。它不是政府收费或资助规则。
+
+- [Healthify · Earwax build-up and removal](https://healthify.nz/health-a-z/e/earwax-build-up-and-removal) · 核对 2026-10-21
+
+**核对说明：** 舍弃节目里的自配滴耳液与“十次有九次有效”说法，改为先评估原因和个人禁忌。
+
+
+**节目背景：** 节目针对耳堵信息推测耳垢并提出家庭配方。本条把它作为问题背景，未采用配方、成功率或未经检查的原因判断。
+
+[The Health Hub · Dr John Cameron: Training yourself out of an allergy](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000673715924)
+
+Dr John Cameron（节目介绍为 GP） · feed 日期 2024-10-20 · **40:12–40:33** · Speaker 5。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。

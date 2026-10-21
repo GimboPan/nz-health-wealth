@@ -8,8 +8,10 @@ supplements=[e for e in entries if not e['podcast']]
 lines=[f'# 系统蒸馏记录 · v{meta["version"]}',f'\n观察日期：{meta["observedDate"]}（新西兰时间）。\n',
  f'当前共 {len(entries)} 条：Health {counts["health"]}、Wealth {counts["wealth"]}。其中 {len(citations)} 条带节目时段，涉及 {len({p["eid"] for p in citations})} 集中的 {len({p["evidenceId"] for p in citations})} 个不同主引用段落；另有 {len(supplements)} 条官方补充。',
  f'\n相对 v0.1.0 的 28 条，累计新增 {len(entries)-28} 条。v1.0 的完整范围是高频场景指南、公开节目目录及可维护的开源工程；不表示已完整审阅每一期。\n',
- '## 本轮做了什么\n',
- '- 对 717 份可用字幕做正文关键词候选扫描，按正文精确去重，并把明显商业广告模式从候选计数中排除。',
+ '## 蒸馏流程与本轮范围\n',
+ '- v1.1.0 从此前未引用的 24 集选取 25 个主引用段落，新增 Health 12 条、Wealth 13 条；本轮表与取舍见 [2026-10-21 批次](batches/2026-10-21.md)。',
+ '- 节目库文件观察仍截至 2026-10-20；新增条目公共资料查核日期为 2026-10-21，旧条目保留原日期。',
+ '- 前序版本已对 717 份可用字幕做正文关键词候选扫描，按正文精确去重，并把明显商业广告模式从候选计数中排除。',
  '- 从候选与既有蒸馏中选择场景，阅读引用发言及前后上下文，不靠标题猜内容。',
  '- 对时间戳、说话人标签及段落 SHA-256 进行机械对照；该检查确认可定位，不证明每个观点正确。',
  '- 对政策、资助、费用、税务及法律条件另查主管机构资料；教育性建议与法律硬规则分别表述。',
@@ -20,7 +22,7 @@ lines+=['\n主题匹配是字面检索候选，不是对全部节目的语义总
  '## 来源性质\n']
 for role,n in collections.Counter(p['sourceRole'] for p in citations).items():lines.append(f'- {role}：{n} 条。')
 for e in supplements:lines.append(f'- 官方补充 **{e["title"]}**：{e["sourceGap"]}')
-lines+=['\n## 本轮核对后收窄或纠正\n']
+lines+=['\n## 累计收窄或纠正记录\n']
 for e in entries:
  if e.get('correction'):lines.append(f'- **{e["title"]}**：{e["correction"]}')
 lines+=['\n## 全部条目的节目定位\n','| 专题 / 条目 | 单集 feed 日期 | 嘉宾 / 时段 | 来源用途 |','| --- | --- | --- | --- |']
@@ -37,13 +39,15 @@ sources={}
 for e in entries:
  for s in e['sources']:
   x=sources.setdefault(s['url'],dict(label=s['label'],checked=s.get('checked'),method=s.get('method'),entries=[]))
-  x['entries'].append(dict(id=e['id'],title=e['title'],claim=e['official']))
+  x['entries'].append(dict(id=e['id'],title=e['title'],claim=e['official'],checked=s['checked'],method=s.get('method')))
+  x['checked']=max(x['checked'],s['checked'])
+  x['checkedDates']=sorted({v['checked'] for v in x['entries']})
 data=[dict(url=url,**v) for url,v in sources.items()]
 (R/'content/source-checks.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
 text=['# 公共资料查核记录（检索级）\n',f'观察日期：{meta["observedDate"]}。列出 {len(data)} 个不同来源页面，范围以关联条目的公共资料摘要为准。部分官网直接抓取受限，使用工具返回的官方正文或检索摘录核对；未把“链接存在”当作整个条目已获专业验证。\n']
 for s in data:
- text.append(f"## [{s['label']}]({s['url']})\n\n查核日期：{s['checked']}。\n")
- for e in s['entries']:text.append(f"- **{e['title']}**：{e['claim']}")
+ text.append(f"## [{s['label']}]({s['url']})\n\n最近查核日期：{s['checked']}；各条目实际查核日期见下。\n")
+ for e in s['entries']:text.append(f"- **{e['title']}**（{e['checked']}）：{e['claim']}")
  text.append('')
 (R/'docs/SOURCE-CHECKS.md').write_text('\n'.join(text).rstrip()+'\n')
 print(f'Reports built: {len(entries)} entries, {len(data)} public source pages.')

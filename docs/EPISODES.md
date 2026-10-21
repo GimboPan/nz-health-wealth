@@ -1,6 +1,6 @@
 # 节目目录与审阅状态
 
-观察日期 2026-10-20。本机节目库共 725 集，717 份字幕可用。目录不是对节目全文的总结。
+节目库观察日期 2026-10-20；片段引用状态更新 2026-10-21。本机节目库共 725 集，717 份字幕可用。目录不是对节目全文的总结。
 
 `已引用片段` 只表示阅读并引用了所列时段及相邻上下文；不表示全期完整审阅或听音。`已索引待审阅` 不构成任何内容结论。
 
@@ -16,10 +16,10 @@
 | The Health Hub | 2026-10-04 | [Claire Turnbull: Food doesn't have to be complicated](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000793048855) | 已索引待审阅 |
 | Smart Money | 2026-09-27 | [Rupert Carlyon: Parties should be focusing on banks not supermarkets](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000791832023) | 已索引待审阅 |
 | The Health Hub | 2026-09-27 | [Alex Flint: Keeping fit as you age](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000791827554) | 已索引待审阅 |
-| Smart Money | 2026-09-20 | [Sylvie Thrush Marsh: There are many avenues to take employment disputes](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000790752666) | 已索引待审阅 |
+| Smart Money | 2026-09-20 | [Sylvie Thrush Marsh: There are many avenues to take employment disputes](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000790752666) | 已引用片段 / [no-written-agreement](WEALTH.md#no-written-agreement)、[high-income-dismissal](WEALTH.md#high-income-dismissal) |
 | The Health Hub | 2026-09-20 | [Julia Sekula: Too much of one thing is never good](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000790749124) | 已引用片段 / [nutrition-evidence](HEALTH.md#nutrition-evidence) |
 | Smart Money | 2026-09-13 | [Chris Wilson: How will the US and NZ elections affect the markets?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000789261724) | 已索引待审阅 |
-| The Health Hub | 2026-09-13 | [Dr. John Cameron: What can you do to dodge the flu?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000789258195) | 已索引待审阅 |
+| The Health Hub | 2026-09-13 | [Dr. John Cameron: What can you do to dodge the flu?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000789258195) | 已引用片段 / [annual-flu-vaccine](HEALTH.md#annual-flu-vaccine) |
 | Smart Money | 2026-09-06 | [Martin Hawes: Is a flexible Superannuation scheme worth it?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000788092100) | 已索引待审阅 |
 | The Health Hub | 2026-09-06 | [Greg Pain: Is it normal for one side of your body to be stronger than the other?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000788088942) | 已索引待审阅 |
 | Smart Money | 2026-08-30 | [Nick Crawford: How do you talk to your spouse about money?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000786738733) | 已引用片段 / [couples](WEALTH.md#couples) |
@@ -38,43 +38,43 @@
 | The Health Hub | 2026-07-19 | [Claire Turnbull: What fruits and veg should you keep an eye out for in winter?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000777394651) | 已索引待审阅 |
 | Smart Money | 2026-07-12 | [Sharon Chandra: Prenups can be challenged](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000776439356) | 已引用片段 / [relationship-agreement](WEALTH.md#relationship-agreement) |
 | The Health Hub | 2026-07-12 | [Alex Flint: How do you stay fit after 40?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000776432059) | 已引用片段 / [post-surgery-activity](HEALTH.md#post-surgery-activity)、[falls-prevention](HEALTH.md#falls-prevention) |
-| Smart Money | 2026-07-05 | [Sylvie Thrush-Marsh: What should you keep an eye out for in your employment contract?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000775500235) | 已索引待审阅 |
+| Smart Money | 2026-07-05 | [Sylvie Thrush-Marsh: What should you keep an eye out for in your employment contract?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000775500235) | 已引用片段 / [employment-agreement-advice](WEALTH.md#employment-agreement-advice) |
 | Smart Money | 2026-06-28 | [Amanda Morrall: Don't pounce on every good deal you see](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000774527984) | 已索引待审阅 |
 | The Health Hub | 2026-06-28 | [Dr Michel Neeff: Hearing loss is totally preventable with better awareness](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000774525085) | 已引用片段 / [second-opinion](HEALTH.md#second-opinion) |
 | Smart Money | 2026-06-22 | [Nathan Stanners: The pros and cons of National's compulsory Kiwisaver policy](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000773657652) | 已引用片段 / [employer-esct](WEALTH.md#employer-esct) |
 | The Health Hub | 2026-06-22 | [Dr John Cameron: Regular check ups with your GP are crucial](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000773655109) | 已索引待审阅 |
-| Smart Money | 2026-06-07 | [Janet Xuccoa: Your list of trustees has to be tight and reputable](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000771520201) | 已索引待审阅 |
+| Smart Money | 2026-06-07 | [Janet Xuccoa: Your list of trustees has to be tight and reputable](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000771520201) | 已引用片段 / [guarantee-liability](WEALTH.md#guarantee-liability) |
 | The Health Hub | 2026-06-07 | [Alex Bartle: Bad sleep can be tied to life-shortening conditions](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000771516513) | 已引用片段 / [cpap-support](HEALTH.md#cpap-support)、[sleep-routine](HEALTH.md#sleep-routine)、[alcohol-sleep](HEALTH.md#alcohol-sleep) |
 | Smart Money | 2026-05-31 | [Nick Crawford: Households will have to anticipate higher cost-of-living pressures](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000770397790) | 已引用片段 / [cash-buffer](WEALTH.md#cash-buffer) |
 | The Health Hub | 2026-05-31 | [Gordon Walker: Being fit looks different for everyone](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000770394114) | 已索引待审阅 |
 | Smart Money | 2026-05-24 | [Amanda Morrall: What does it really take to retire in 2026?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000769306720) | 已索引待审阅 |
 | The Health Hub | 2026-05-24 | [Allyson Gofton: Soup is the secret for nutrition on a dime](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000769306642) | 已索引待审阅 |
-| Smart Money | 2026-05-10 | [Martin Hawes: Should the govt fund your retirement?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000767023163) | 已索引待审阅 |
+| Smart Money | 2026-05-10 | [Martin Hawes: Should the govt fund your retirement?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000767023163) | 已引用片段 / [retirement-village-contract](WEALTH.md#retirement-village-contract) |
 | The Health Hub | 2026-05-10 | [Dr Michel Neeff: 'Normal' symptoms that could actually be hearing loss](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000767017449) | 已索引待审阅 |
 | Smart Money | 2026-05-03 | [Nathan Stanners: Don't get too caught up with checking your KiwiSaver balance](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000765855751) | 已索引待审阅 |
 | The Health Hub | 2026-05-03 | [Greg Pain: You're more likely to get injured in winter](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000765854563) | 已索引待审阅 |
 | Smart Money | 2026-04-26 | [Sharon Chandra: You can't DIY a divorce](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000763635251) | 已索引待审阅 |
-| The Health Hub | 2026-04-26 | [Claire Turnbull: Why your GP won't give you nutrition advice](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000763634255) | 已索引待审阅 |
+| The Health Hub | 2026-04-26 | [Claire Turnbull: Why your GP won't give you nutrition advice](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000763634255) | 已引用片段 / [coeliac-testing](HEALTH.md#coeliac-testing) |
 | Smart Money | 2026-04-19 | [Janet Xuccoa: Most people should really have a trust](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000762214612) | 已引用片段 / [will-preparation](WEALTH.md#will-preparation) |
 | The Health Hub | 2026-04-19 | [Rob Knight: Warming up isn't enough to avoid injury](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000762212646) | 已索引待审阅 |
 | Smart Money | 2026-04-12 | [Andrew Bascand: Iran conflict impacts more than just gas prices](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000760903180) | 已索引待审阅 |
-| The Health Hub | 2026-04-12 | [Dr Alex Bartle: Most people are ruining their own sleep](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000760898781) | 已索引待审阅 |
+| The Health Hub | 2026-04-12 | [Dr Alex Bartle: Most people are ruining their own sleep](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000760898781) | 已引用片段 / [medicine-driving](HEALTH.md#medicine-driving) |
 | The Health Hub | 2026-04-05 | [Allyson Gofton: Chef discusses health benefits of a seasonal diet](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000759340943) | 已索引待审阅 |
 | Smart Money | 2026-03-29 | [Amanda Morrall: Saving money with rising costs](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000757994513) | 已索引待审阅 |
-| The Health Hub | 2026-03-29 | [Dr Bryan Betty: Should patients be using Chat GPT?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000757994005) | 已索引待审阅 |
+| The Health Hub | 2026-03-29 | [Dr Bryan Betty: Should patients be using Chat GPT?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000757994005) | 已引用片段 / [ai-health-preparation](HEALTH.md#ai-health-preparation) |
 | Smart Money | 2026-03-22 | [Rupert Carlyon: Global tension? Ignore your KiwiSaver](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000756546718) | 已索引待审阅 |
 | The Health Hub | 2026-03-22 | [Dr John Cameron: The divide between Telehealth and face-to-face appointments](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000756542337) | 已引用片段 / [enrol](HEALTH.md#enrol)、[closed-books](HEALTH.md#closed-books)、[doctor-register](HEALTH.md#doctor-register)、[telehealth-plan](HEALTH.md#telehealth-plan) |
 | Smart Money | 2026-03-15 | [Chris Wilson: KiwiSaver changes need some tweaking](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000755356770) | 已索引待审阅 |
 | The Health Hub | 2026-03-15 | [Greg Pain: Avoiding injuries before they happen](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000755351823) | 已索引待审阅 |
-| Smart Money | 2026-03-08 | [Nick Crawford: The mistakes people make with a windfall](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000753843137) | 已索引待审阅 |
+| Smart Money | 2026-03-08 | [Nick Crawford: The mistakes people make with a windfall](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000753843137) | 已引用片段 / [windfall-plan](WEALTH.md#windfall-plan) |
 | The Health Hub | 2026-03-08 | [Alex Flint: Training for your body type](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000753839953) | 已索引待审阅 |
-| Smart Money | 2026-03-01 | [Martin Hawes: Are you losing money on ethical investing?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000752252957) | 已索引待审阅 |
+| Smart Money | 2026-03-01 | [Martin Hawes: Are you losing money on ethical investing?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000752252957) | 已引用片段 / [ethical-fund-claims](WEALTH.md#ethical-fund-claims) |
 | The Health Hub | 2026-03-01 | [David Letele: Why are we always getting in our own way when we're getting healthy?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000752249208) | 已索引待审阅 |
 | Smart Money | 2026-02-15 | [Shane Solly: Spots of recovery in the economy](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000749795714) | 已索引待审阅 |
 | The Health Hub | 2026-02-15 | [Matt Doocey: We've come a long way with mental health](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000749791420) | 已引用片段 / [hip](HEALTH.md#hip) |
-| Smart Money | 2026-02-08 | [Janet Xuccoa: Where do trusts fit in to aged care funding?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000748728504) | 已索引待审阅 |
+| Smart Money | 2026-02-08 | [Janet Xuccoa: Where do trusts fit in to aged care funding?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000748728504) | 已引用片段 / [residential-care-subsidy](WEALTH.md#residential-care-subsidy) |
 | The Health Hub | 2026-02-08 | [Kent Johns: Could a fad be what you need to get back into exercise?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000748724063) | 已索引待审阅 |
-| Smart Money | 2026-02-01 | [Sharon Chandra: You could be essentially married without even realising it](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000747532423) | 已索引待审阅 |
+| Smart Money | 2026-02-01 | [Sharon Chandra: You could be essentially married without even realising it](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000747532423) | 已引用片段 / [separate-account-property](WEALTH.md#separate-account-property) |
 | The Health Hub | 2026-02-01 | [Claire Turnbull: More exercise doesn't mean more food](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000747528839) | 已索引待审阅 |
 | Smart Money | 2026-01-25 | [Martin Hawes: When does life insurance stop being worth it?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000746534072) | 已引用片段 / [income-protection](WEALTH.md#income-protection) |
 | The Health Hub | 2026-01-25 | [Dr. Bryan Betty: How to choose the right GP](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000746529862) | 已引用片段 / [same-day](HEALTH.md#same-day)、[acc](HEALTH.md#acc) |
@@ -104,7 +104,7 @@
 | Smart Money | 2025-09-28 | [Martin Hawes: Does a new Reserve Bank governor even matter?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000728771907) | 已索引待审阅 |
 | The Health Hub | 2025-09-28 | [David Letele: You just have to start](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000728766552) | 已索引待审阅 |
 | Smart Money | 2025-09-21 | [Hamish Pepper: Forecasts rise for OCR after GDP shrinks](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000727700895) | 已索引待审阅 |
-| The Health Hub | 2025-09-21 | [Dr Michel Neeff: We're too casual about our hearing](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000727698046) | 已索引待审阅 |
+| The Health Hub | 2025-09-21 | [Dr Michel Neeff: We're too casual about our hearing](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000727698046) | 已引用片段 / [noise-protection](HEALTH.md#noise-protection) |
 | Smart Money | 2025-09-14 | [Rupert Carlyon: KiwiSaver is unaffordable as it is](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000726724687) | 已索引待审阅 |
 | The Health Hub | 2025-09-14 | [Allyson Gofton: Maintaining a healthy diet with a busy life](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000726719038) | 已索引待审阅 |
 | Smart Money | 2025-09-07 | [Max Whitehead: Is it always the squeaky wheel that gets the oil?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000725353860) | 已索引待审阅 |
@@ -115,18 +115,18 @@
 | The Health Hub | 2025-08-24 | [Kent Johns: It's not about losing the weight, it's about habits](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000723277749) | 已索引待审阅 |
 | Smart Money | 2025-08-17 | [Janet Xuccoa: You should be checking your will annually](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000722263515) | 已索引待审阅 |
 | The Health Hub | 2025-08-17 | [John Cowan: We need a reality check for our alcohol problem](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000722260442) | 已索引待审阅 |
-| Smart Money | 2025-08-10 | [Simon Brown: Financial literacy is invaluable](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000721355600) | 已索引待审阅 |
-| The Health Hub | 2025-08-10 | [Sir Ashley Bloomfield: Children face many barriers in healthcare](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000721351245) | 已索引待审阅 |
+| Smart Money | 2025-08-10 | [Simon Brown: Financial literacy is invaluable](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000721355600) | 已引用片段 / [subscription-calendar](WEALTH.md#subscription-calendar) |
+| The Health Hub | 2025-08-10 | [Sir Ashley Bloomfield: Children face many barriers in healthcare](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000721351245) | 已引用片段 / [under14-gp-fees](HEALTH.md#under14-gp-fees) |
 | Smart Money | 2025-08-03 | [Amanda Morrall: Why is refinancing increasingly common?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000720467131) | 已索引待审阅 |
 | The Health Hub | 2025-08-03 | [Dr Sola Freeman: Menopausal women deserve more support](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000720464905) | 已引用片段 / [menopause-appointment](HEALTH.md#menopause-appointment) |
 | Smart Money | 2025-07-27 | [Shane Solly: Is NZ ready for the global 'melt up'?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000719253985) | 已索引待审阅 |
 | The Health Hub | 2025-07-27 | [Dr Michel Neeff: It's not just loud sounds ruining your hearing](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000719252127) | 已索引待审阅 |
-| Smart Money | 2025-07-20 | [Rupert Carlyon: We need to teach our kids about money](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000718129557) | 已索引待审阅 |
+| Smart Money | 2025-07-20 | [Rupert Carlyon: We need to teach our kids about money](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000718129557) | 已引用片段 / [kids-money-practice](WEALTH.md#kids-money-practice) |
 | The Health Hub | 2025-07-20 | [Greg Pain: Maintaining your bone health as you age](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000718127876) | 已索引待审阅 |
 | Smart Money | 2025-07-13 | [Hannah McQueen: The cheap, unnecessary purchases can cost thousands](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000717020481) | 已引用片段 / [bnpl-calendar](WEALTH.md#bnpl-calendar) |
 | The Health Hub | 2025-07-13 | [Dr Andy Johnston: Immunotherapy is the future of cancer treatment](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000717016984) | 已索引待审阅 |
 | Smart Money | 2025-07-06 | [Martin Hawes: Self-employed people will be hit hardest by KiwiSaver cuts](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000715955133) | 已引用片段 / [retirement-budget](WEALTH.md#retirement-budget) |
-| The Health Hub | 2025-07-06 | [Claire Turnbull: Fibre and sleep are keys to a strong diet](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000715951612) | 已索引待审阅 |
+| The Health Hub | 2025-07-06 | [Claire Turnbull: Fibre and sleep are keys to a strong diet](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000715951612) | 已引用片段 / [travel-constipation](HEALTH.md#travel-constipation) |
 | Smart Money | 2025-06-29 | [Max Whitehead: Work impacts your happiness in life](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000714985522) | 已索引待审阅 |
 | The Health Hub | 2025-06-29 | [Kent Johns: Finding the time to exercise isn't as daunting as it seems](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000714982222) | 已索引待审阅 |
 | Smart Money | 2025-06-22 | [Hamish Pepper: The US dollar is weakening](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000714023179) | 已索引待审阅 |
@@ -154,7 +154,7 @@
 | Smart Money | 2025-03-23 | [Andrew Bascand: You can be optimistic about where the economy is going](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000700443201) | 已索引待审阅 |
 | The Health Hub | 2025-03-23 | [Greg Pain: Core strength is key](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000700438422) | 已索引待审阅 |
 | Smart Money | 2025-03-16 | [Martin Hawes: Working after 65 isn't just good for your bank account...](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000699340795) | 已引用片段 / [retirement-income](WEALTH.md#retirement-income)、[epa-planning](WEALTH.md#epa-planning) |
-| The Health Hub | 2025-03-16 | [Dr John Cameron: "We don't know how paracetamol works"](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000699338528) | 已索引待审阅 |
+| The Health Hub | 2025-03-16 | [Dr John Cameron: "We don't know how paracetamol works"](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000699338528) | 已引用片段 / [cervical-screening-cost](HEALTH.md#cervical-screening-cost) |
 | Smart Money | 2025-03-09 | [Amanda Morrall: Stabilising your finances in unstable times](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000698437174) | 已索引待审阅 |
 | The Health Hub | 2025-03-09 | [Alex Flint: You don't need 10,000 steps a day](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000698434734) | 已索引待审阅 |
 | Smart Money | 2025-03-02 | [Max Whitehead: Your CV's font could lose you the job](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000697099352) | 已索引待审阅 |
@@ -189,7 +189,7 @@
 | Smart Money | 2024-10-27 | [Amanda Morrall: Is it worth changing banks?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000674589898) | 已引用片段 / [mortgage-break-cost](WEALTH.md#mortgage-break-cost) |
 | The Health Hub | 2024-10-27 | [Ganesh Raj: Stretching your food to last longer](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000674587983) | 已索引待审阅 |
 | Smart Money | 2024-10-20 | [Hannah McQueen: How to split your mortgage](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000673718179) | 已索引待审阅 |
-| The Health Hub | 2024-10-20 | [Dr John Cameron: Training yourself out of an allergy](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000673715924) | 已索引待审阅 |
+| The Health Hub | 2024-10-20 | [Dr John Cameron: Training yourself out of an allergy](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000673715924) | 已引用片段 / [earwax-assessment](HEALTH.md#earwax-assessment) |
 | Smart Money | 2024-10-13 | [Hamish Pepper: How have financial markets responded to the OCR cut?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000672860499) | 已索引待审阅 |
 | The Health Hub | 2024-10-13 | [Alex Bartle: How to sleep long and well](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000672857208) | 已索引待审阅 |
 | Smart Money | 2024-10-06 | [Lisa Dudson: The long term value of your savings](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000671900442) | 已索引待审阅 |
@@ -249,7 +249,7 @@
 | The Health Hub | 2024-03-04 | [Lesleigh Smith: Raising awareness this World Hearing Day](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000647868800) | 已引用片段 / [hearing-funding](HEALTH.md#hearing-funding) |
 | Smart Money | 2024-02-25 | [Lisa Dudson: Supermarkets leverage over basic needs](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000646797895) | 已索引待审阅 |
 | The Health Hub | 2024-02-25 | [Claire Turnball: Do Calories Influence Your Food Consumption?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000646797368) | 已索引待审阅 |
-| The Health Hub | 2024-02-18 | [Dr John Cameron: Why self examination is important for health](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000645795581) | 已索引待审阅 |
+| The Health Hub | 2024-02-18 | [Dr John Cameron: Why self examination is important for health](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000645795581) | 已引用片段 / [hpv-vaccine](HEALTH.md#hpv-vaccine) |
 | Smart Money | 2024-02-18 | [Chris Di Leva: Investment market prospects for 2024](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000645786068) | 已索引待审阅 |
 | The Health Hub | 2024-02-04 | [Kyle MacDonald: Mental health and the impact on behaviour](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000644132213) | 无可用 Apple 字幕 |
 | Smart Money | 2024-02-04 | [Max Whitehead: What to make of the modest increase to the minimum wage](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000644130769) | 无可用 Apple 字幕 |
@@ -294,7 +294,7 @@
 | The Health Hub | 2023-07-16 | [Claire Turnball: Secret culinary aphrodisiacs](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000621325084) | 已索引待审阅 |
 | Smart Money | 2023-07-09 | [Dr Alex Bartle: How to improve your night's sleep](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000620399344) | 已索引待审阅 |
 | Smart Money | 2023-07-09 | [Martin Hawes: The reality of retiring](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000620399259) | 已索引待审阅 |
-| Smart Money | 2023-07-02 | [Antonia Watson: More kiwis are falling prey to scams](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000619067115) | 已索引待审阅 |
+| Smart Money | 2023-07-02 | [Antonia Watson: More kiwis are falling prey to scams](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000619067115) | 已引用片段 / [interest-only-plan](WEALTH.md#interest-only-plan) |
 | The Health Hub | 2023-07-02 | [Libby Weaver: Are you getting enough nutrients?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000619066496) | 已索引待审阅 |
 | Smart Money | 2023-06-25 | [Malcolm Knight: Is the banking Commerce Commission inquiry a waste of time?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000618280088) | 已索引待审阅 |
 | The Health Hub | 2023-06-25 | [Dr John Cameron: Consultations - in person or online?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000618279834) | 已索引待审阅 |
@@ -344,7 +344,7 @@
 | The Health Hub | 2022-11-30 | [Health Hub: Dr. John Cameron on whether you'd like to know if you had increased chance of being diagnosed with a disease](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000588038174) | 已引用片段 / [medicine-list](HEALTH.md#medicine-list) |
 | The Health Hub | 2022-11-20 | [Kyle MacDonald: Mind Matters psychotherapist on the price of getting counselling](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000586837228) | 已索引待审阅 |
 | The Health Hub | 2022-11-20 | [Jenny Hale: parenting coach on being firm but kind with children](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000586834031) | 已索引待审阅 |
-| The Health Hub | 2022-11-13 | [Philip Walsh: Taking care of our kids eye health](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000589517708) | 已索引待审阅 |
+| The Health Hub | 2022-11-13 | [Philip Walsh: Taking care of our kids eye health](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000589517708) | 已引用片段 / [new-floaters-flashes](HEALTH.md#new-floaters-flashes) |
 | Smart Money | 2022-11-01 | [Amanda Morrall: KiwiSaver contribution sharing suggested to bridge gender gap savings](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000584706800) | 已索引待审阅 |
 | The Health Hub | 2022-10-16 | [Ian Russell: Keeping your eyes safe this summer](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000589518022) | 已索引待审阅 |
 | Smart Money | 2022-10-09 | [Max Whitehead: Where have all the workers gone?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000582032027) | 已索引待审阅 |
@@ -454,7 +454,7 @@
 | The Health Hub | 2021-08-16 | [Jude Walter: Ways to look after your brain](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000532125652) | 已索引待审阅 |
 | Smart Money | 2021-08-15 | [Smart Money: James Fitzgerald's journey to wealth](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000532042806) | 已索引待审阅 |
 | Smart Money | 2021-08-08 | [Hannah McQueen: Is it time to get out of the property market?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000531362010) | 已索引待审阅 |
-| The Health Hub | 2021-08-08 | [Kyle MacDonald: Do happy people still need therapy?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000531361930) | 已索引待审阅 |
+| The Health Hub | 2021-08-08 | [Kyle MacDonald: Do happy people still need therapy?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000531361930) | 已引用片段 / [therapist-credentials](HEALTH.md#therapist-credentials) |
 | Smart Money | 2021-08-01 | [Smart Money - Tom O'Neil](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000530634913) | 已索引待审阅 |
 | The Health Hub | 2021-08-01 | [The Health Hub - Greg Pain](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000530633759) | 已索引待审阅 |
 | The Health Hub | 2021-07-25 | [The Health Hub - Kent Johns](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000529939615) | 已索引待审阅 |
@@ -542,7 +542,7 @@
 | The Health Hub | 2020-08-09 | [Kyle MacDonald: Angry social sport!](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000487560267) | 已索引待审阅 |
 | Smart Money | 2020-08-02 | [Amanda Morrall: Should returning Kiwis have to pay for isolation?](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000486843244) | 已索引待审阅 |
 | The Health Hub | 2020-08-02 | [Dr John Cameron: Why aren't we doing more Covid tests?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000486842928) | 已索引待审阅 |
-| Smart Money | 2020-07-26 | [Carissa Fairbrother: Banks getting involved in moral issues](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000486343273) | 已索引待审阅 |
+| Smart Money | 2020-07-26 | [Carissa Fairbrother: Banks getting involved in moral issues](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000486343273) | 已引用片段 / [mortgage-cashback-terms](WEALTH.md#mortgage-cashback-terms) |
 | The Health Hub | 2020-07-26 | [Nikki Hart: Why are men letting their health slip?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000486141731) | 已索引待审阅 |
 | Smart Money | 2020-07-19 | [Chris Di Leva: Investing in tech](https://podcasts.apple.com/nz/podcast/id1445636358?i=1000485399992) | 已索引待审阅 |
 | The Health Hub | 2020-07-19 | [Dr Alex Bartle: Having a good nights sleep](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000485399908) | 已索引待审阅 |
