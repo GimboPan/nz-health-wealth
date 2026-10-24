@@ -8,6 +8,12 @@
 
 项目与节目、嘉宾、政府机构没有官方隶属或背书关系。它是一份信息查询与教育工具，未经过独立医疗、法律或财务专业人员逐条审阅。
 
+## 统一目录与Fitness就医资料
+
+[Ideas统一入口](https://gimbo.co.nz/ideas/nz-health-wealth/)分为交互指南与专题文章。新增[新西兰就医资料导读](docs/guides/nz-care-reading.md)（[网站阅读](https://gimbo.co.nz/ideas/nz-health-wealth-care-reading/)），把Fitness里的九章就医指南、Healthpoint使用说明、GP节目整理及酒精与依赖专题串成阅读路线，四篇原文与网址保留。
+
+专题原文和`content/articles.json`是目录的维护入口；GitHub目录与网站目录从同一份清单生成。新增文章时运行同步工具，避免出现只更新一边或统一入口漏链。旧文保留原资料日期，本次不重新计算节目覆盖或把旧规则当作现行规则。
+
 ## 2026年10月25日 就医选择补充
 
 新增[GP约不上，今天还有哪些就医选择](docs/guides/gp-access-options.md)（[网站阅读](https://gimbo.co.nz/ideas/nz-health-wealth-gp-access/)）。分别说明Healthline、线上GP、urgent care和Emergency Q的用途、使用步骤、收费示例和适用边界；从现有[当天就医条目](docs/HEALTH.md#same-day)也能进入全文。
@@ -25,7 +31,7 @@ v1.1.1扩展原有条目，总量仍为111条，没有新增节目引用。该�
 | 想回到节目原文的位置查证 | [全部节目目录与审阅状态](docs/EPISODES.md) |
 | 想检查这份指南怎么做出来 | [蒸馏记录](docs/DISTILLATION.md) · [公共资料查核表](docs/SOURCE-CHECKS.md) |
 
-## v1.1.1 包含什么
+## v1.1.2 包含什么
 
 - **111 条场景指南：Health 54、Wealth 57。** 从就医与健康支持，到家庭现金流、债务、房贷、保险、税务、退休与法律安排。
 - **109 条带节目出处和真实说话人时段**，涉及 84 集；另 2 条官方补充明确保留节目缺口。

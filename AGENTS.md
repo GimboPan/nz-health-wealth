@@ -17,6 +17,8 @@
 
 - User instruction dated 2026-10-25: publish every approved content addition or revision to both `GimboPan/nz-health-wealth` and the personal website. Treat these as one coordinated delivery. Explicit draft, research-only or do-not-publish requests still stay unpublished.
 - The unified public entry point is `https://gimbo.co.nz/ideas/nz-health-wealth/`. Readers must be able to find the interactive guide and every published thematic article there. Do not leave a new article accessible only through its direct URL or a GitHub file.
-- Keep structured entries and canonical article sources here; synchronize the generated guide, website article bodies, relevant version/date/count metadata and the Ideas entry page. Maintain `docs/ARTICLES.md` when thematic articles are added, renamed or retired.
+- Keep structured entries and canonical article sources here; synchronize the generated guide, website article bodies, relevant version/date/count metadata and the Ideas entry page. Maintain `content/articles.json` when thematic articles are added, renamed or retired; generate `docs/ARTICLES.md` and the website directory from it with `scripts/article_catalog.py`.
 - Read `docs/PUBLISHING.md` for the coordinated workflow and completion checks. Verify both GitHub and the deployed website before reporting completion; report a partial publication plainly if either destination fails.
 - This synchronization rule does not change Xiaohongshu queues, schedules, approved assets or other channels. Do not treat a research draft as approved public content.
+
+- Existing Fitness reference articles remain at their original routes and entrances. Integrate them through the article catalog and reading guides, retaining their original dates and review boundaries; do not silently merge their counts or claims into the current guide.

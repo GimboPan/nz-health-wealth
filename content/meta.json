@@ -1,8 +1,8 @@
 {
   "name": "NZ Health & Wealth",
   "chineseName": "在新西兰，好好生活",
-  "version": "1.1.1",
-  "edition": "GP约不上就医入口补充",
+  "version": "1.1.2",
+  "edition": "统一目录与就医资料导读",
   "observedDate": "2026-10-25",
   "corpus": [
     {
@@ -71,6 +71,6 @@
   "repository": "https://github.com/GimboPan/nz-health-wealth",
   "website": "https://gimbo.co.nz/ideas/nz-health-wealth",
   "guide": "https://gimbo.co.nz/ideas/nz-health-wealth-guide.html",
-  "scope": "111条场景指南；109条节目片段引用，涉及84集；2条官方补充。本次扩展same-day条目并新增GP就医选择全文，其余条目保留各自核对日期。",
+  "scope": "111条场景指南，109条节目片段引用、84集及2条官方补充保持原范围；新增统一文章目录和就医资料导读，链接保留在Fitness原位置的四篇旧文，不新增临床核验或节目审阅量。",
   "corpusObservedDate": "2026-10-20"
 }

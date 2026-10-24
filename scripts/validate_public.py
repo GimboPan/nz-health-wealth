@@ -1,8 +1,11 @@
 """Check a public release without requiring private podcast transcripts."""
 import json,pathlib,re
+from article_catalog import catalog
 R=pathlib.Path(__file__).resolve().parent.parent
 read=lambda name:json.loads((R/'content'/name).read_text())
 es=read('entries.json');eps=read('episodes.json');ledger=read('evidence-ledger.json');meta=read('meta.json')
+articles=catalog()['articles']
+article_urls={a['url'] for a in articles}
 ids={e['id'] for e in es};assert len(ids)==len(es),'duplicate entry IDs'
 lookup={e['id']:e for e in eps};assert len(lookup)==len(eps),'duplicate episode IDs'
 le={e['entryId']:e for e in ledger};assert len(le)==len(ledger),'duplicate evidence ledger IDs'
@@ -11,6 +14,7 @@ for e in es:
  for s in e['sources']:assert s['url'].startswith('https://') and re.fullmatch(r'\d{4}-\d{2}-\d{2}',s['checked']),e['id']
  if e.get('article'):
   a=e['article'];assert a['url'].startswith('https://') and a['title'],e['id']
+  assert a['url'] in article_urls,e['id']
   assert a['repositoryPath'].startswith('docs/guides/') and '..' not in a['repositoryPath'],e['id']
   assert (R/a['repositoryPath']).is_file(),e['id']
  p=e.get('podcast')

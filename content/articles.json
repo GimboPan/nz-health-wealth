@@ -1,0 +1,65 @@
+{
+  "entryUrl": "https://gimbo.co.nz/ideas/nz-health-wealth/",
+  "guide": {
+    "title": "新西兰健康与财富交互指南",
+    "url": "https://gimbo.co.nz/ideas/nz-health-wealth-guide.html",
+    "description": "按场景搜索、筛选和收藏，查找就医、用药、KiwiSaver及家庭财务的下一步。"
+  },
+  "articles": [
+    {
+      "id": "gp-access",
+      "title": "GP约不上，今天还有哪些就医选择",
+      "summary": "Healthline、线上GP、urgent care与Emergency Q的使用方法、收费示例和适用边界。",
+      "topic": "health",
+      "kind": "article",
+      "url": "https://gimbo.co.nz/ideas/nz-health-wealth-gp-access/",
+      "repositoryPath": "docs/guides/gp-access-options.md",
+      "updated": "2026-10-25",
+      "dateLabel": "资料核对",
+      "metaNote": "金额均为新西兰元",
+      "guideHref": "/ideas/nz-health-wealth-guide.html#guide-same-day",
+      "guideLabel": "在交互指南中查看",
+      "related": []
+    },
+    {
+      "id": "nz-care-reading",
+      "title": "新西兰就医资料导读",
+      "summary": "把Fitness里的四篇既有整理串成一条阅读路线：理解体系、找到服务、准备GP沟通，再读酒精与依赖专题。",
+      "topic": "health",
+      "kind": "collection",
+      "url": "https://gimbo.co.nz/ideas/nz-health-wealth-care-reading/",
+      "repositoryPath": "docs/guides/nz-care-reading.md",
+      "updated": "2026-10-25",
+      "dateLabel": "目录整理",
+      "metaNote": "Fitness原文与网址保留",
+      "guideHref": "/ideas/nz-health-wealth-guide.html",
+      "guideLabel": "打开交互指南",
+      "related": [
+        {
+          "title": "新西兰就医指南 九章",
+          "url": "https://gimbo.co.nz/fitness/health-hub",
+          "summary": "按筛查、费用、转介、药房、ACC与注册GP等主题理解医疗体系。",
+          "note": "Fitness原文 · 保留原资料日期"
+        },
+        {
+          "title": "Healthpoint中文使用说明",
+          "url": "https://gimbo.co.nz/fitness/healthpoint",
+          "summary": "查找接收新患者的诊所、语言服务、收费和营业时间。",
+          "note": "Fitness原文 · 2026年8月查证快照"
+        },
+        {
+          "title": "新西兰的GP 八年说了什么",
+          "url": "https://gimbo.co.nz/fitness/one-gp",
+          "summary": "从John Cameron的节目整理理解GP沟通、反复出现的观点及前后变化。",
+          "note": "Fitness原文 · 节目回顾"
+        },
+        {
+          "title": "酒精 烟草与依赖专题",
+          "url": "https://gimbo.co.nz/fitness/alcohol",
+          "summary": "酒、烟、电子烟、大麻及依赖问题的节目整理，保留当时语境和来源。",
+          "note": "Fitness原文 · 节目回顾"
+        }
+      ]
+    }
+  ]
+}

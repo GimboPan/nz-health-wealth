@@ -1,5 +1,6 @@
 """Generate GitHub-readable field guides from the same structured content as the UI."""
 import collections,json,pathlib
+from article_catalog import catalog,inventory
 R=pathlib.Path(__file__).resolve().parent.parent
 es=json.loads((R/'content/entries.json').read_text());meta=json.loads((R/'content/meta.json').read_text());episodes=json.loads((R/'content/episodes.json').read_text())
 for topic,title in [('health','Health · 新西兰求医与健康支持'),('wealth','Wealth · 新西兰金钱与生活安排')]:
@@ -32,3 +33,4 @@ for e in episodes:
  lines.append(f'| {e["show"]} | {e["date"]} | [{title}]({e["url"]}) | {status}{" / "+refs if refs else ""} |')
 (R/'docs/EPISODES.md').write_text('\n'.join(lines).rstrip()+'\n')
 print('Handbooks generated: HEALTH.md, WEALTH.md, EPISODES.md')
+(R/'docs/ARTICLES.md').write_text(inventory(catalog()))

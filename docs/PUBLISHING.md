@@ -15,9 +15,22 @@
 
 1. 在本仓库修改`content/entries.json`及`docs/guides/`中的专题原文；保留稳定条目ID、真实来源和各条实际核对日期。
 2. 从同一份结构化数据重新生成专题手册、来源报告和`dist/index.html`。将网页同步至个人网站的`public/ideas/nz-health-wealth-guide.html`。
-3. 新增或修改专题文章时，同步个人网站的文章页面，核对正文、费用、限制、来源链接和日期与GitHub原文一致。维护本仓库`docs/ARTICLES.md`及相关条目的`article`字段。
+3. 新增或修改专题文章时，同步个人网站的文章页面，核对正文、费用、限制、来源链接和日期与GitHub原文一致。维护`content/articles.json`及相关条目的`article`字段；`docs/ARTICLES.md`和网站目录由同一份清单生成。
 4. 维护网站`src/pages/ideas/nz-health-wealth.astro`，确保统一入口链接到交互指南和目录中每一篇已发布专题文章。文章与指南也应能返回项目入口；改名或撤下时修正旧链接或安排跳转。
 5. 涉及内容版本、数量、来源或范围变化时，同步本仓库元数据、版本记录，以及网站`src/data/nz-health-wealth-release.json`和相关介绍。仅维护说明变更无需虚增内容版本或篇目数量，旧条目核对日期不能一起改新。
+
+## 文章目录与网站同步工具
+
+新增专题时，先在`docs/guides/`撰写原文，再向`content/articles.json`加入标题、摘要、网站URL、原文路径和日期性质。原文按标题、资料说明、正文三个空行分隔的部分保存。属于Fitness旧文集合时，在`related`列出原文链接和日期说明，保留旧文原位置，不复制成一份新的临床指南。
+
+`python3 scripts/handbooks.py`会重新生成GitHub文章目录。构建交互指南后运行：
+
+```bash
+python3 scripts/article_catalog.py --website /path/to/personal-website
+python3 scripts/article_catalog.py --website /path/to/personal-website --check
+```
+
+工具同步网站目录、专题文章、指南文件和内容版本数据；不会修改Fitness原文、提交Git或执行部署。Ideas页面直接读取生成后的目录数据，因此以后加入清单的文章会出现在统一入口，不需手写另一份目录。
 
 ## 检查与发布
 

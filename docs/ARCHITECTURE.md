@@ -54,3 +54,7 @@ Health Hub 366 份 + Smart Money 351 份 = 717 份可用字幕，约 517.6 万�
 ## 公开阅读与目录
 
 `episodes.json` 是由私有库存清理生成的 725 集公开元数据，只保留节目、单集 ID、feed 日期、标题、Apple 单集链接、字幕可用性和选定片段引用状态。`handbooks.py` 从同一份条目生成 GitHub 可读手册与目录；`validate_public.py` 不需要私有原稿，核对条目、目录和账本的交叉引用。
+
+## 统一阅读目录
+
+`content/articles.json`记录交互指南、项目专题文章以及保留在Fitness原位置的关联旧文。`scripts/article_catalog.py`生成`docs/ARTICLES.md`；指定网站目录时，同时生成网站目录数据、专题Markdown页面、指南副本和发布元数据。`--check`只检查是否同步。旧文不会被复制或重算为新的场景条目。
