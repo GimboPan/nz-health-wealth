@@ -33,6 +33,7 @@ Apple Podcasts 本地库副本
 | `status` | 本次核对 / 节目经验，指公共资料查核状态而非整条专业审核 |
 | `entryType`、`sourceGap` | 官方补充须明确节目缺口；不能编造来源 |
 | `correction` | 对节目或旧稿说法的收窄、补充或纠正 |
+| `article` | 可选全文入口；标题、网站URL及仓库内的Markdown路径，供阅读器和手册共同引用 |
 
 收藏保存于浏览器 localStorage。移动、改名或更换协议可能影响浏览器对收藏所在源的判断。数据不上传。
 

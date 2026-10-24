@@ -9,6 +9,10 @@ le={e['entryId']:e for e in ledger};assert len(le)==len(ledger),'duplicate evide
 for e in es:
  assert e['sources'] and e['steps'] and e['english'],e['id']
  for s in e['sources']:assert s['url'].startswith('https://') and re.fullmatch(r'\d{4}-\d{2}-\d{2}',s['checked']),e['id']
+ if e.get('article'):
+  a=e['article'];assert a['url'].startswith('https://') and a['title'],e['id']
+  assert a['repositoryPath'].startswith('docs/guides/') and '..' not in a['repositoryPath'],e['id']
+  assert (R/a['repositoryPath']).is_file(),e['id']
  p=e.get('podcast')
  if p:
   assert p['eid'] in lookup and e['id'] in lookup[p['eid']]['entryIds'],e['id']

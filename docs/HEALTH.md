@@ -1,6 +1,6 @@
 # Health · 新西兰求医与健康支持
 
-v1.1.0 · 内容更新截至 2026-10-21 · 54 条。
+v1.1.1 · 内容更新截至 2026-10-25 · 54 条。
 
 [回到项目首页](../README.md) · [来源与核对记录](DISTILLATION.md)
 
@@ -12,7 +12,7 @@ v1.1.0 · 内容更新截至 2026-10-21 · 54 条。
 
 - [情况危急时，先拨 111](#emergency)
 - [拿不准去哪看，先问 Healthline](#healthline)
-- [约不上 GP，先把情况告诉诊所](#same-day)
+- [GP约不上，今天还有哪些就医选择](#same-day)
 ### 找 GP
 
 - [Enrol：先把自己注册进一家诊所](#enrol)
@@ -146,26 +146,46 @@ Dr Bryan Betty（GP） · feed 日期 2026-08-16 · **12:32–14:06** · Speaker
 
 <a id="same-day"></a>
 
-## 约不上 GP，先把情况告诉诊所
+## GP约不上，今天还有哪些就医选择
 
-可以先询问护士分诊、当天名额和其他就医渠道。
+先联系诊所说明情况；按需要选择Healthline、线上GP或urgent care，用Emergency Q辅助比较参与机构。
 
 ### 下一步
 
-1. 打给诊所前台，说明需要多久内得到帮助。
-2. 询问 nurse triage、当天名额或 after-hours 服务。
-3. 无法及时就诊时，可联系 Healthline；适合远程的问题也可查 Online GP Care。
+1. 先打给原诊所，说明症状和需要多久内得到帮助，询问护士分诊、当天名额或after-hours服务。
+2. 拿不准下一步时，拨免费、全天候的Healthline 0800 611 116；需要时要求中文口译。
+3. 适合远程的问题，可从Health NZ Online GP Care比较提供者、时间和价格；有预约时段及线上排队两种模式。
+4. 不能等普通预约、需要当天面诊但非危及生命时，可查urgent care或after-hours clinic，并确认服务范围与收费。
+5. 用Emergency Q查看参与医院及urgent care的位置、平均预测时间和显示价格；它不保证个人接诊时间，也不提供walk-in诊所预约。
 
-**费用与成本：** 不同诊所及线上提供者自行收费，预约前确认。
+**费用与成本：** Healthline电话健康咨询免费。线上GP按提供者、年龄、CSC、公费资格及时段收费；例如CareHQ列示15分钟成人标准价NZ$83、成人CSC价NZ$33，国际访客/非居民NZ$100起。Urgent care逐家收费，材料、检查或长问诊可能另计；ACC可能仍有自付。Emergency Q免费下载不代表诊疗免费，优惠转诊资格需确认。示例及条件见全文。
 
-**适用边界：** 不要因等待固定医生而延误急迫问题；远程问诊不适合所有病情。
+**适用边界：** 胸痛、严重呼吸困难、突然无力或说话困难等紧急情况拨111；不要因比较时间或等待固定医生延误就医。线上问诊不适合所有问题，转面诊可能另收费。Emergency Q只覆盖参与机构，预测不等于预约或个人时间承诺。
 
 **可以这样问（编辑撰写）：** Could I speak to a nurse about how urgently I need to be seen?
 
-**公共资料：** 官方列有当天就医、健康咨询等入口；Online GP Care 无需预先 enrol，是否适合须按病情判断。
+**公共资料：** Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。
 
-- [Health NZ · Online GP Care](https://www.healthnz.govt.nz/online-phone-healthcare/online-gp-care) · 核对 2026-10-20
-- [Health NZ · Which health service should I use?](https://www.healthnz.govt.nz/hospitals-services/which-health-service-should-i-use) · 核对 2026-10-20
+- [Health NZ · Healthline](https://www.healthnz.govt.nz/online-phone-healthcare/healthline) · 核对 2026-10-25
+- [Healthline · 回拨与口译](https://www.healthy.org.nz/) · 核对 2026-10-25
+- [Health NZ · Online GP Care](https://www.healthnz.govt.nz/online-phone-healthcare/online-gp-care) · 核对 2026-10-25
+- [Health NZ · Online GP providers](https://www.healthnz.govt.nz/online-phone-healthcare/online-gp-care/online-gp-providers) · 核对 2026-10-25
+- [Health NZ · Which health service should I use?](https://www.healthnz.govt.nz/hospitals-services/which-health-service-should-i-use) · 核对 2026-10-25
+- [CareHQ · 当前价格](https://carehq.co.nz/) · 核对 2026-10-25
+- [CareHQ · 转实体问诊条款](https://carehq.co.nz/terms-and-conditions) · 核对 2026-10-25
+- [Botany · Urgent care收费示例](https://www.botanygp.co.nz/fees/) · 核对 2026-10-25
+- [Shorecare · 附加费用](https://www.shorecare.co.nz/fees) · 核对 2026-10-25
+- [ACC · 治疗费用与自付](https://www.acc.co.nz/im-injured/what-we-cover/treatment-we-pay-for) · 核对 2026-10-25
+- [Emergency Q · 患者说明](https://www.emergencyq.com/mobile.html) · 核对 2026-10-25
+- [Emergency Q · 使用与收费条件](https://www.emergencyq.com/terms-app.html) · 核对 2026-10-25
+- [Emergency Q · 免费下载与开发者说明](https://apps.apple.com/nz/app/emergency-q/id1122976816) · 核对 2026-10-25
+- [Emergency Q · 到诊通知不是预约](https://apps.apple.com/nz/app/emergency-q/id1122976816?platform=iphone&see-all=reviews) · 核对 2026-10-25
+
+**核对说明：** 2026-10-25补充就医入口和费用：电话健康咨询、线上医生问诊、实体urgent care和地点比较工具分别使用。Emergency Q不提供walk-in预约，也不是全国完整目录。价格仅是特定提供者示例，实际按资格和就诊情况确认。
+
+
+**完整实用指南：** [GP约不上，今天还有哪些就医选择](guides/gp-access-options.md) · [网站阅读](https://gimbo.co.nz/ideas/nz-health-wealth-gp-access/)
+
 
 **节目依据：** 先与护士沟通，由团队判断需要 GP 评估还是可以先得到其他建议。
 

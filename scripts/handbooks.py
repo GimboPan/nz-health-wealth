@@ -14,6 +14,9 @@ for topic,title in [('health','Health · 新西兰求医与健康支持'),('weal
   lines += [f'\n**费用与成本：** {e["cost"]}\n',f'**适用边界：** {e["limit"]}\n',f'**可以这样问（编辑撰写）：** {e["english"]}\n',f'**公共资料：** {e["official"]}\n']
   lines += [f'- [{s["label"]}]({s["url"]}) · 核对 {s.get("checked") or "待核实"}' for s in e['sources']]
   if e.get('correction'):lines += [f'\n**核对说明：** {e["correction"]}\n']
+  if e.get('article'):
+   a=e['article'];rel=pathlib.PurePosixPath(a['repositoryPath']).relative_to('docs')
+   lines += [f'\n**完整实用指南：** [{a["title"]}]({rel}) · [网站阅读]({a["url"]})\n']
   p=e.get('podcast')
   if p:
    lines += [f'\n**{p["sourceRole"]}：** {p["summary"]}\n',f'[{p["show"]} · {p["episodeTitle"]}]({p["url"]})\n',f'{p["who"]}（{p["role"]}） · feed 日期 {p["date"]} · **{p["timestamp"]}** · {p["speaker"]}。{p["provenance"]}\n']

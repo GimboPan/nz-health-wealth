@@ -49,6 +49,7 @@
         <div class="entry-meta"><span class="entry-number">${String(entries.indexOf(e)+1).padStart(2,'0')}</span><span class="topic-label">${e.topic==='health'?'HEALTH':'WEALTH'}</span><span> / ${esc(e.category)}</span><span>· ${p?esc(p.sourceRole):'官方补充 · 节目缺口'}</span></div>
         <h3 class="entry-title">${esc(e.title)}</h3><p class="entry-blurb">${esc(e.summary)}</p><span class="entry-more" aria-hidden="true">＋</span>
       </summary><div class="entry-content">
+        ${e.article?`<p class="evidence-links"><a href="${esc(e.article.url)}">阅读全文：${esc(e.article.title)} ↗</a></p>`:''}
         <h4>下一步，可以这样做</h4><ol>${e.steps.map(s=>`<li>${esc(s)}</li>`).join('')}</ol>
         <div class="practical-grid"><div><h4>费用与成本</h4><p>${esc(e.cost)}</p></div><div><h4>适用边界</h4><p>${esc(e.limit)}</p></div></div>
         <h4>可以这样问 · 编辑撰写</h4><div class="phrase"><p lang="en">${esc(e.english)}</p><button data-copy="${esc(e.id)}" aria-label="复制英文问法">复制</button></div>
@@ -97,7 +98,7 @@
   document.addEventListener('keydown',e=>{if(e.key==='/'&&!e.ctrlKey&&!e.metaKey&&!['INPUT','TEXTAREA','SELECT'].includes(e.target.tagName)){e.preventDefault();$('#search').focus();}});
   function markdown(list){
     return `# 在新西兰，好好生活 · Health & Wealth\n\n内容版本 ${meta.version} · ${meta.observedDate}\n来源标注不是专业审阅。完整字幕未随本文件分发。\n\n`+list.map(e=>
-      `## ${e.title}\n\n${e.summary}\n\n${e.steps.map((s,i)=>`${i+1}. ${s}`).join('\n')}\n\n费用：${e.cost}\n\n边界：${e.limit}\n\n英文问法：${e.english}\n\n公共资料：${e.official}\n${e.sources.map(s=>`- [${s.label}](${s.url})`).join('\n')}\n核对：${e.checked||'节目经验待核验'}\n`+
+      `## ${e.title}\n\n${e.summary}\n\n${e.steps.map((s,i)=>`${i+1}. ${s}`).join('\n')}\n\n${e.article?`阅读全文：[${e.article.title}](${e.article.url})\n\n`:''}费用：${e.cost}\n\n边界：${e.limit}\n\n英文问法：${e.english}\n\n公共资料：${e.official}\n${e.sources.map(s=>`- [${s.label}](${s.url})`).join('\n')}\n核对：${e.checked||'节目经验待核验'}\n`+
       (e.correction?`\n核对后补充/纠正：${e.correction}\n`:'')+
       (e.podcast?`\n${e.podcast.sourceRole}：${e.podcast.summary}\n\n${e.podcast.who} · ${e.podcast.role}\nfeed 日期 ${e.podcast.date} · 时段 ${e.podcast.timestamp} · ${e.podcast.speaker}\n单集：${e.podcast.episodeTitle}\n[${e.podcast.show}](${e.podcast.url})\n${e.podcast.provenance}\n关系披露：${e.podcast.conflict||'本条未标出特定关系；不代表不存在。'}\n`:`\n官方补充：${e.sourceGap}\n` )).join('\n---\n\n');
   }

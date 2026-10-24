@@ -2,7 +2,7 @@
   {
     "url": "https://www.healthnz.govt.nz/hospitals-services/which-health-service-should-i-use",
     "label": "Health NZ · Which health service should I use?",
-    "checked": "2026-10-20",
+    "checked": "2026-10-25",
     "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
     "entries": [
       {
@@ -14,10 +14,10 @@
       },
       {
         "id": "same-day",
-        "title": "约不上 GP，先把情况告诉诊所",
-        "claim": "官方列有当天就医、健康咨询等入口；Online GP Care 无需预先 enrol，是否适合须按病情判断。",
-        "checked": "2026-10-20",
-        "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核"
+        "title": "GP约不上，今天还有哪些就医选择",
+        "claim": "Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。",
+        "checked": "2026-10-25",
+        "method": "官方网页索引正文核对；直接抓取受限，非专业审核"
       },
       {
         "id": "pharmacist",
@@ -28,13 +28,14 @@
       }
     ],
     "checkedDates": [
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-25"
     ]
   },
   {
     "url": "https://www.healthnz.govt.nz/online-phone-healthcare/healthline",
     "label": "Health NZ · Healthline",
-    "checked": "2026-10-20",
+    "checked": "2026-10-25",
     "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
     "entries": [
       {
@@ -45,6 +46,13 @@
         "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核"
       },
       {
+        "id": "same-day",
+        "title": "GP约不上，今天还有哪些就医选择",
+        "claim": "Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。",
+        "checked": "2026-10-25",
+        "method": "官方网页索引正文与服务方网站核对；直接抓取受限，非专业审核"
+      },
+      {
         "id": "interpreter",
         "title": "预约时，就把语言需要说出来",
         "claim": "Healthline 官方说明可在通话中安排口译。面诊的具体安排需向接诊机构确认。",
@@ -53,25 +61,224 @@
       }
     ],
     "checkedDates": [
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://www.healthy.org.nz/",
+    "label": "Healthline · 回拨与口译",
+    "checked": "2026-10-25",
+    "method": "直接读取服务方公开正文；未提交回拨",
+    "entries": [
+      {
+        "id": "same-day",
+        "title": "GP约不上，今天还有哪些就医选择",
+        "claim": "Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。",
+        "checked": "2026-10-25",
+        "method": "直接读取服务方公开正文；未提交回拨"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
     ]
   },
   {
     "url": "https://www.healthnz.govt.nz/online-phone-healthcare/online-gp-care",
     "label": "Health NZ · Online GP Care",
-    "checked": "2026-10-20",
-    "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
+    "checked": "2026-10-25",
+    "method": "官方网页索引正文核对；直接抓取受限，非专业审核",
     "entries": [
       {
         "id": "same-day",
-        "title": "约不上 GP，先把情况告诉诊所",
-        "claim": "官方列有当天就医、健康咨询等入口；Online GP Care 无需预先 enrol，是否适合须按病情判断。",
-        "checked": "2026-10-20",
-        "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核"
+        "title": "GP约不上，今天还有哪些就医选择",
+        "claim": "Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。",
+        "checked": "2026-10-25",
+        "method": "官方网页索引正文核对；直接抓取受限，非专业审核"
       }
     ],
     "checkedDates": [
-      "2026-10-20"
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/online-phone-healthcare/online-gp-care/online-gp-providers",
+    "label": "Health NZ · Online GP providers",
+    "checked": "2026-10-25",
+    "method": "浏览器直接读取官方可见正文；未预约或付款",
+    "entries": [
+      {
+        "id": "same-day",
+        "title": "GP约不上，今天还有哪些就医选择",
+        "claim": "Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。",
+        "checked": "2026-10-25",
+        "method": "浏览器直接读取官方可见正文；未预约或付款"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://carehq.co.nz/",
+    "label": "CareHQ · 当前价格",
+    "checked": "2026-10-25",
+    "method": "直接读取服务方价目；不代表所有提供者或个人资格报价",
+    "entries": [
+      {
+        "id": "same-day",
+        "title": "GP约不上，今天还有哪些就医选择",
+        "claim": "Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。",
+        "checked": "2026-10-25",
+        "method": "直接读取服务方价目；不代表所有提供者或个人资格报价"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://carehq.co.nz/terms-and-conditions",
+    "label": "CareHQ · 转实体问诊条款",
+    "checked": "2026-10-25",
+    "method": "直接读取服务方条款",
+    "entries": [
+      {
+        "id": "same-day",
+        "title": "GP约不上，今天还有哪些就医选择",
+        "claim": "Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。",
+        "checked": "2026-10-25",
+        "method": "直接读取服务方条款"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://www.botanygp.co.nz/fees/",
+    "label": "Botany · Urgent care收费示例",
+    "checked": "2026-10-25",
+    "method": "直接读取诊所收费表；全文注明年龄、注册及卡片档位",
+    "entries": [
+      {
+        "id": "same-day",
+        "title": "GP约不上，今天还有哪些就医选择",
+        "claim": "Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。",
+        "checked": "2026-10-25",
+        "method": "直接读取诊所收费表；全文注明年龄、注册及卡片档位"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://www.shorecare.co.nz/fees",
+    "label": "Shorecare · 附加费用",
+    "checked": "2026-10-25",
+    "method": "直接读取当前官网收费说明；不采用搜索发现的旧PDF价格",
+    "entries": [
+      {
+        "id": "same-day",
+        "title": "GP约不上，今天还有哪些就医选择",
+        "claim": "Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。",
+        "checked": "2026-10-25",
+        "method": "直接读取当前官网收费说明；不采用搜索发现的旧PDF价格"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://www.acc.co.nz/im-injured/what-we-cover/treatment-we-pay-for",
+    "label": "ACC · 治疗费用与自付",
+    "checked": "2026-10-25",
+    "method": "直接读取ACC官方正文",
+    "entries": [
+      {
+        "id": "same-day",
+        "title": "GP约不上，今天还有哪些就医选择",
+        "claim": "Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。",
+        "checked": "2026-10-25",
+        "method": "直接读取ACC官方正文"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://www.emergencyq.com/mobile.html",
+    "label": "Emergency Q · 患者说明",
+    "checked": "2026-10-25",
+    "method": "直接读取服务方功能说明；未实测App",
+    "entries": [
+      {
+        "id": "same-day",
+        "title": "GP约不上，今天还有哪些就医选择",
+        "claim": "Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。",
+        "checked": "2026-10-25",
+        "method": "直接读取服务方功能说明；未实测App"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://www.emergencyq.com/terms-app.html",
+    "label": "Emergency Q · 使用与收费条件",
+    "checked": "2026-10-25",
+    "method": "直接读取服务方条款；非全国优惠资格承诺",
+    "entries": [
+      {
+        "id": "same-day",
+        "title": "GP约不上，今天还有哪些就医选择",
+        "claim": "Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。",
+        "checked": "2026-10-25",
+        "method": "直接读取服务方条款；非全国优惠资格承诺"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://apps.apple.com/nz/app/emergency-q/id1122976816",
+    "label": "Emergency Q · 免费下载与开发者说明",
+    "checked": "2026-10-25",
+    "method": "直接读取公开商店页面及开发者回复，不采用用户评价作效果结论",
+    "entries": [
+      {
+        "id": "same-day",
+        "title": "GP约不上，今天还有哪些就医选择",
+        "claim": "Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。",
+        "checked": "2026-10-25",
+        "method": "直接读取公开商店页面及开发者回复，不采用用户评价作效果结论"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://apps.apple.com/nz/app/emergency-q/id1122976816?platform=iphone&see-all=reviews",
+    "label": "Emergency Q · 到诊通知不是预约",
+    "checked": "2026-10-25",
+    "method": "搜索返回开发者公开回复；未实测App",
+    "entries": [
+      {
+        "id": "same-day",
+        "title": "GP约不上，今天还有哪些就医选择",
+        "claim": "Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。",
+        "checked": "2026-10-25",
+        "method": "搜索返回开发者公开回复；未实测App"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
     ]
   },
   {

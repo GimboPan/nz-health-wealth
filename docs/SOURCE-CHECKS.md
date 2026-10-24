@@ -1,27 +1,94 @@
 # 公共资料查核记录（检索级）
 
-观察日期：2026-10-21。列出 112 个不同来源页面，范围以关联条目的公共资料摘要为准。部分官网直接抓取受限，使用工具返回的官方正文或检索摘录核对；未把“链接存在”当作整个条目已获专业验证。
+观察日期：2026-10-25。列出 123 个不同来源页面，范围以关联条目的公共资料摘要为准。部分官网直接抓取受限，使用工具返回的官方正文或检索摘录核对；未把“链接存在”当作整个条目已获专业验证。
 
 ## [Health NZ · Which health service should I use?](https://www.healthnz.govt.nz/hospitals-services/which-health-service-should-i-use)
 
-最近查核日期：2026-10-20；各条目实际查核日期见下。
+最近查核日期：2026-10-25；各条目实际查核日期见下。
 
 - **情况危急时，先拨 111**（2026-10-20）：官方把危及生命的紧急情况列为 111 / 急诊入口。
-- **约不上 GP，先把情况告诉诊所**（2026-10-20）：官方列有当天就医、健康咨询等入口；Online GP Care 无需预先 enrol，是否适合须按病情判断。
+- **GP约不上，今天还有哪些就医选择**（2026-10-25）：Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。
 - **进药房时，明确找 pharmacist**（2026-10-20）：官方把药房列为部分常见健康问题、药物咨询和取药的入口。
 
 ## [Health NZ · Healthline](https://www.healthnz.govt.nz/online-phone-healthcare/healthline)
 
-最近查核日期：2026-10-20；各条目实际查核日期见下。
+最近查核日期：2026-10-25；各条目实际查核日期见下。
 
 - **拿不准去哪看，先问 Healthline**（2026-10-20）：Healthline 可提供健康与用药建议，并帮助判断下一步；有口译服务。
+- **GP约不上，今天还有哪些就医选择**（2026-10-25）：Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。
 - **预约时，就把语言需要说出来**（2026-10-20）：Healthline 官方说明可在通话中安排口译。面诊的具体安排需向接诊机构确认。
+
+## [Healthline · 回拨与口译](https://www.healthy.org.nz/)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **GP约不上，今天还有哪些就医选择**（2026-10-25）：Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。
 
 ## [Health NZ · Online GP Care](https://www.healthnz.govt.nz/online-phone-healthcare/online-gp-care)
 
-最近查核日期：2026-10-20；各条目实际查核日期见下。
+最近查核日期：2026-10-25；各条目实际查核日期见下。
 
-- **约不上 GP，先把情况告诉诊所**（2026-10-20）：官方列有当天就医、健康咨询等入口；Online GP Care 无需预先 enrol，是否适合须按病情判断。
+- **GP约不上，今天还有哪些就医选择**（2026-10-25）：Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。
+
+## [Health NZ · Online GP providers](https://www.healthnz.govt.nz/online-phone-healthcare/online-gp-care/online-gp-providers)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **GP约不上，今天还有哪些就医选择**（2026-10-25）：Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。
+
+## [CareHQ · 当前价格](https://carehq.co.nz/)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **GP约不上，今天还有哪些就医选择**（2026-10-25）：Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。
+
+## [CareHQ · 转实体问诊条款](https://carehq.co.nz/terms-and-conditions)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **GP约不上，今天还有哪些就医选择**（2026-10-25）：Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。
+
+## [Botany · Urgent care收费示例](https://www.botanygp.co.nz/fees/)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **GP约不上，今天还有哪些就医选择**（2026-10-25）：Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。
+
+## [Shorecare · 附加费用](https://www.shorecare.co.nz/fees)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **GP约不上，今天还有哪些就医选择**（2026-10-25）：Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。
+
+## [ACC · 治疗费用与自付](https://www.acc.co.nz/im-injured/what-we-cover/treatment-we-pay-for)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **GP约不上，今天还有哪些就医选择**（2026-10-25）：Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。
+
+## [Emergency Q · 患者说明](https://www.emergencyq.com/mobile.html)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **GP约不上，今天还有哪些就医选择**（2026-10-25）：Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。
+
+## [Emergency Q · 使用与收费条件](https://www.emergencyq.com/terms-app.html)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **GP约不上，今天还有哪些就医选择**（2026-10-25）：Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。
+
+## [Emergency Q · 免费下载与开发者说明](https://apps.apple.com/nz/app/emergency-q/id1122976816)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **GP约不上，今天还有哪些就医选择**（2026-10-25）：Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。
+
+## [Emergency Q · 到诊通知不是预约](https://apps.apple.com/nz/app/emergency-q/id1122976816?platform=iphone&see-all=reviews)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **GP约不上，今天还有哪些就医选择**（2026-10-25）：Health NZ分别说明Healthline、线上GP及urgent care的用途；服务方另列价格与限制。Emergency Q展示参与机构的预测时间和价格，不能替代临床评估。原节目片段只支持先联系护士的步骤；本轮新增服务功能与费用来自所列公开资料。
 
 ## [Health NZ · General practices](https://www.healthnz.govt.nz/hospitals-services/services-support/general-practices)
 
