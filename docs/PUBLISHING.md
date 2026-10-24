@@ -30,7 +30,7 @@ python3 scripts/article_catalog.py --website /path/to/personal-website
 python3 scripts/article_catalog.py --website /path/to/personal-website --check
 ```
 
-工具同步网站目录、专题文章、指南文件和内容版本数据；不会修改Fitness原文、提交Git或执行部署。Ideas页面直接读取生成后的目录数据，因此以后加入清单的文章会出现在统一入口，不需手写另一份目录。
+工具同步网站目录、专题文章、指南文件、内容版本数据及`content/fitness-corrections.json`的独立编辑校正层；不会改写Fitness上游生成数据、提交Git或执行部署。网站按目标与旧值校验后应用校正，上游变化时构建会要求复审。Ideas页面直接读取生成后的目录数据，因此以后加入清单的文章会出现在统一入口，不需手写另一份目录。
 
 ## 检查与发布
 

@@ -378,8 +378,13 @@
     ],
     "topic": "health",
     "entryType": "podcast-distillation",
-    "edited": "2026-10-20",
-    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅"
+    "edited": "2026-10-25",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "article": {
+      "title": "用Healthpoint找到合适的就医服务",
+      "url": "https://gimbo.co.nz/ideas/nz-health-wealth-healthpoint-find-care/",
+      "repositoryPath": "docs/guides/healthpoint-find-care.md"
+    }
   },
   {
     "id": "continuity",
@@ -436,8 +441,13 @@
     ],
     "topic": "health",
     "entryType": "podcast-distillation",
-    "edited": "2026-10-20",
-    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅"
+    "edited": "2026-10-25",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "article": {
+      "title": "看GP前后 问诊准备与结果追踪模板",
+      "url": "https://gimbo.co.nz/ideas/nz-health-wealth-gp-visit-follow-up/",
+      "repositoryPath": "docs/guides/gp-visit-follow-up.md"
+    }
   },
   {
     "id": "funding",
@@ -838,25 +848,31 @@
   {
     "id": "waiting",
     "category": "专科与等待",
-    "title": "转介后，把回信和复评节点记下来",
-    "summary": "没有消息时追踪；情况变化时重新联系。",
+    "title": "检查或转介后 把结果、回复与复评节点记下来",
+    "summary": "明确由谁接收、解释和跟进；到约定时间没有消息就联系。",
     "steps": [
-      "记录发出转介的日期和接收单位。",
-      "向诊所确认何时应收到回复、逾期联系谁。",
-      "症状恶化时联系医疗提供者重新评估；紧急情况直接求助。"
+      "检查或转介时，记下项目、日期、接收方和负责解释结果的团队。",
+      "约定预计回复时间、联系方法；未收到消息时按约定跟进，不默认结果正常。",
+      "询问等待期间哪些变化需要提前复评，保留结果和书面计划。"
     ],
     "cost": "追踪和复诊是否收费，按诊所政策确认。",
-    "limit": "官方目标或流程时间不等于对个人的实际到诊保证。",
-    "english": "I have not heard back about my referral. Could you check its status?",
+    "limit": "门户可能只显示部分资料，GP未必能看到所有机构结果；没有统一适用于全部检查的等待期限。",
+    "english": "Who will review and explain my results, when should I hear back, and whom should I contact if I have not heard by then?",
     "sources": [
+      {
+        "label": "HDC · Information, choice and consent",
+        "url": "https://www.hdc.org.nz/your-rights/the-code-and-your-rights/your-rights-when-using-a-health-or-disability-service-what-to-do-if-you-have-any-concerns/",
+        "checked": "2026-10-25",
+        "method": "官方页面正文／检索重点核对，模板由编辑撰写"
+      },
       {
         "label": "Health NZ · Planned care",
         "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/planned-care",
-        "checked": "2026-10-20",
-        "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核"
+        "checked": "2026-10-25",
+        "method": "官方页面正文／检索重点核对，模板由编辑撰写"
       }
     ],
-    "official": "官方说明转介后应获知下一步；情况恶化应回医疗提供者复评。",
+    "official": "HDC的信息权利包括检查结果、有关服务的说明及按要求提供书面摘要；Health NZ planned care说明评估与复评路径。",
     "podcast": {
       "eid": "1000685475276",
       "date": "2025-01-26",
@@ -881,7 +897,7 @@
       "contextChecked": true
     },
     "status": "本次核对",
-    "checked": "2026-10-20",
+    "checked": "2026-10-25",
     "tags": [
       "排队",
       "复评",
@@ -890,8 +906,14 @@
     ],
     "topic": "health",
     "entryType": "podcast-distillation",
-    "edited": "2026-10-20",
-    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅"
+    "edited": "2026-10-25",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "article": {
+      "title": "看GP前后 问诊准备与结果追踪模板",
+      "url": "https://gimbo.co.nz/ideas/nz-health-wealth-gp-visit-follow-up/",
+      "repositoryPath": "docs/guides/gp-visit-follow-up.md"
+    },
+    "correction": "2026-10-25加入问诊与结果追踪模板，收窄“GP能取得所有结果”的概括；保留原节目背景及定位。"
   },
   {
     "id": "hip",
@@ -987,8 +1009,13 @@
     "topic": "health",
     "entryType": "official-supplement",
     "sourceGap": "已审阅的节目段落未提供口译安排依据；本条仅按官方资料补充。",
-    "edited": "2026-10-20",
-    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅"
+    "edited": "2026-10-25",
+    "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
+    "article": {
+      "title": "用Healthpoint找到合适的就医服务",
+      "url": "https://gimbo.co.nz/ideas/nz-health-wealth-healthpoint-find-care/",
+      "repositoryPath": "docs/guides/healthpoint-find-care.md"
+    }
   },
   {
     "id": "bowel",
@@ -5288,10 +5315,15 @@
       "症状清单",
       "人工智能"
     ],
-    "edited": "2026-10-21",
+    "edited": "2026-10-25",
     "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
     "correction": "不采用节目其他段落中未经核实的网络错误比例，也不将专用或付费 AI 写成无错误保证。",
-    "entryType": "podcast-distillation"
+    "entryType": "podcast-distillation",
+    "article": {
+      "title": "看GP前后 问诊准备与结果追踪模板",
+      "url": "https://gimbo.co.nz/ideas/nz-health-wealth-gp-visit-follow-up/",
+      "repositoryPath": "docs/guides/gp-visit-follow-up.md"
+    }
   },
   {
     "id": "noise-protection",
@@ -6685,5 +6717,131 @@
     "edited": "2026-10-21",
     "reviewStatus": "字幕上下文与公共资料核对，未听音或专业审阅",
     "entryType": "podcast-distillation"
+  },
+  {
+    "id": "healthpoint-find-care",
+    "topic": "health",
+    "category": "找 GP",
+    "title": "用Healthpoint查服务 分开确认注册、临时就诊与当天预约",
+    "summary": "目录能帮助查找服务；接诊状态、费用和语言安排仍要向提供者确认。",
+    "steps": [
+      "按服务类别及地区查找，查看接收新注册者与casual病人的说明。",
+      "分别确认今天的预约、所需服务、语言或口译及营业时间。",
+      "核对本人条件下的总费用、额外项目和页面更新日期，出发前再联系确认。"
+    ],
+    "cost": "注册、casual、项目和时段会影响费用；不采用历史匿名价目作当前报价。",
+    "limit": "目录不是实时空位或临床分诊；严重情况按急诊入口及时求助。",
+    "english": "Are you accepting new enrolments or casual patients, and can you confirm today’s availability, language support and total fee?",
+    "sources": [
+      {
+        "label": "Healthpoint · 机构资料维护说明",
+        "url": "https://www.healthpoint.co.nz/assets/video/training/editing/story_content/external_files/Getting_Started.pdf",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
+      },
+      {
+        "label": "Health NZ · General practices",
+        "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/general-practices",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
+      },
+      {
+        "label": "HDC · Information, choice and consent",
+        "url": "https://www.hdc.org.nz/your-rights/the-code-and-your-rights/your-rights-when-using-a-health-or-disability-service-what-to-do-if-you-have-any-concerns/",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
+      },
+      {
+        "label": "Health NZ · Emergency departments",
+        "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/emergency-departments",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
+      }
+    ],
+    "official": "目录能帮助查找服务；接诊状态、费用和语言安排仍要向提供者确认。",
+    "status": "本次核对",
+    "checked": "2026-10-25",
+    "edited": "2026-10-25",
+    "tags": [
+      "Healthpoint",
+      "找医生",
+      "中文",
+      "接收新病人",
+      "casual",
+      "fees",
+      "预约"
+    ],
+    "entryType": "official-supplement",
+    "sourceGap": "旧文介绍过目录使用；当前项目没有为本工具核验可定位的节目片段，按公共资料独立补充。",
+    "reviewStatus": "公共资料重点核对；没有新增节目定位或音频复核",
+    "article": {
+      "title": "用Healthpoint找到合适的就医服务",
+      "url": "https://gimbo.co.nz/ideas/nz-health-wealth-healthpoint-find-care/",
+      "repositoryPath": "docs/guides/healthpoint-find-care.md"
+    },
+    "podcast": null
+  },
+  {
+    "id": "alcohol-family-support",
+    "topic": "health",
+    "category": "支持与沟通",
+    "title": "担心家人的饮酒 自己也可以先寻求支持",
+    "summary": "全国咨询入口可先讨论选择；奥克兰CADS允许当事人尚未参与时家属独立求助。",
+    "steps": [
+      "可联系Alcohol Drug Helpline（0800 787 797，24小时免费咨询），说明你是家属并问本地支持。",
+      "奥克兰可联系CADS（0800 845 1818）；其他地区分别确认家属资格、预约、等待及费用。",
+      "不自行安排突然停酒或戒断用药；与专业人员讨论安全计划和自己的支持。"
+    ],
+    "cost": "全国咨询电话免费；Health NZ列奥克兰CADS家属免费支持，其他服务与自费治疗另问。",
+    "limit": "不保证全国服务随时walk-in；家属支持不等于替当事人诊断、强制治疗或保证一次谈话奏效。",
+    "english": "I am worried about a family member’s drinking. Can I get support for myself, and what are the eligibility, referral process, waiting time and fees?",
+    "sources": [
+      {
+        "label": "Alcohol Drug Helpline · 服务方说明",
+        "url": "https://alcoholdrughelp.org.nz/",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
+      },
+      {
+        "label": "Health NZ · Help for whānau and friends",
+        "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-and-drug-services/help-for-whanau-and-friends",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
+      },
+      {
+        "label": "Health NZ · CADS Auckland",
+        "url": "https://www.healthnz.govt.nz/hospitals-services/hospitals/auckland/community-alcohol-drug-services",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
+      },
+      {
+        "label": "Health NZ · Alcohol addiction",
+        "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-addiction",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
+      }
+    ],
+    "official": "全国咨询入口可先讨论选择；奥克兰CADS允许当事人尚未参与时家属独立求助。",
+    "status": "本次核对",
+    "checked": "2026-10-25",
+    "edited": "2026-10-25",
+    "tags": [
+      "家属",
+      "饮酒",
+      "酒精",
+      "CADS",
+      "family",
+      "alcohol",
+      "朋友"
+    ],
+    "entryType": "official-supplement",
+    "sourceGap": "旧文家属话题启发本场景；当前项目未为这些具体服务核验节目片段，以官方与服务方资料独立补充。",
+    "reviewStatus": "公共资料重点核对；没有新增节目定位或音频复核",
+    "article": {
+      "title": "担心家人的饮酒问题 自己可以先找谁谈",
+      "url": "https://gimbo.co.nz/ideas/nz-health-wealth-alcohol-family-support/",
+      "repositoryPath": "docs/guides/alcohol-family-support.md"
+    },
+    "podcast": null
   }
 ]

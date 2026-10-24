@@ -58,3 +58,5 @@ Health Hub 366 份 + Smart Money 351 份 = 717 份可用字幕，约 517.6 万�
 ## 统一阅读目录
 
 `content/articles.json`记录交互指南、项目专题文章以及保留在Fitness原位置的关联旧文。`scripts/article_catalog.py`生成`docs/ARTICLES.md`；指定网站目录时，同时生成网站目录数据、专题Markdown页面、指南副本和发布元数据。`--check`只检查是否同步。旧文不会被复制或重算为新的场景条目。
+
+`content/fitness-corrections.json`是四篇旧文中语料生成部分的独立编辑校正层，保留目标路径、原值守卫、修订文本、日期与公共来源。同步到网站后在构建时应用；不改写旧版语料生成文件，不把修订后的官方规则归给原嘉宾。四篇原网址和Fitness入口保留，手写章节的修改范围另见[校正记录](FITNESS-CORRECTIONS.md)。

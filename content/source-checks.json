@@ -284,7 +284,7 @@
   {
     "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/general-practices",
     "label": "Health NZ · General practices",
-    "checked": "2026-10-20",
+    "checked": "2026-10-25",
     "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
     "entries": [
       {
@@ -307,10 +307,18 @@
         "claim": "官方将长期健康问题管理列为全科团队的职责之一。",
         "checked": "2026-10-20",
         "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核"
+      },
+      {
+        "id": "healthpoint-find-care",
+        "title": "用Healthpoint查服务 分开确认注册、临时就诊与当天预约",
+        "claim": "目录能帮助查找服务；接诊状态、费用和语言安排仍要向提供者确认。",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
       }
     ],
     "checkedDates": [
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-25"
     ]
   },
   {
@@ -413,7 +421,7 @@
   {
     "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/planned-care",
     "label": "Health NZ · Planned care",
-    "checked": "2026-10-20",
+    "checked": "2026-10-25",
     "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
     "entries": [
       {
@@ -425,14 +433,40 @@
       },
       {
         "id": "waiting",
-        "title": "转介后，把回信和复评节点记下来",
-        "claim": "官方说明转介后应获知下一步；情况恶化应回医疗提供者复评。",
-        "checked": "2026-10-20",
-        "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核"
+        "title": "检查或转介后 把结果、回复与复评节点记下来",
+        "claim": "HDC的信息权利包括检查结果、有关服务的说明及按要求提供书面摘要；Health NZ planned care说明评估与复评路径。",
+        "checked": "2026-10-25",
+        "method": "官方页面正文／检索重点核对，模板由编辑撰写"
       }
     ],
     "checkedDates": [
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://www.hdc.org.nz/your-rights/the-code-and-your-rights/your-rights-when-using-a-health-or-disability-service-what-to-do-if-you-have-any-concerns/",
+    "label": "HDC · Information, choice and consent",
+    "checked": "2026-10-25",
+    "method": "官方页面正文／检索重点核对，模板由编辑撰写",
+    "entries": [
+      {
+        "id": "waiting",
+        "title": "检查或转介后 把结果、回复与复评节点记下来",
+        "claim": "HDC的信息权利包括检查结果、有关服务的说明及按要求提供书面摘要；Health NZ planned care说明评估与复评路径。",
+        "checked": "2026-10-25",
+        "method": "官方页面正文／检索重点核对，模板由编辑撰写"
+      },
+      {
+        "id": "healthpoint-find-care",
+        "title": "用Healthpoint查服务 分开确认注册、临时就诊与当天预约",
+        "claim": "目录能帮助查找服务；接诊状态、费用和语言安排仍要向提供者确认。",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
     ]
   },
   {
@@ -1542,7 +1576,7 @@
   {
     "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-addiction",
     "label": "Health NZ · Alcohol addiction",
-    "checked": "2026-10-20",
+    "checked": "2026-10-25",
     "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核",
     "entries": [
       {
@@ -1551,10 +1585,18 @@
         "claim": "Health NZ 说明重度依赖者减量或停用可能出现戒断，通常需要健康专业人员帮助；治疗渠道包括不同强度的专业服务。",
         "checked": "2026-10-20",
         "method": "官网/公共教育资料网页检索；条目仅转述所列范围，非专业审核"
+      },
+      {
+        "id": "alcohol-family-support",
+        "title": "担心家人的饮酒 自己也可以先寻求支持",
+        "claim": "全国咨询入口可先讨论选择；奥克兰CADS允许当事人尚未参与时家属独立求助。",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
       }
     ],
     "checkedDates": [
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-25"
     ]
   },
   {
@@ -2361,6 +2403,96 @@
     ],
     "checkedDates": [
       "2026-10-21"
+    ]
+  },
+  {
+    "url": "https://www.healthpoint.co.nz/assets/video/training/editing/story_content/external_files/Getting_Started.pdf",
+    "label": "Healthpoint · 机构资料维护说明",
+    "checked": "2026-10-25",
+    "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅",
+    "entries": [
+      {
+        "id": "healthpoint-find-care",
+        "title": "用Healthpoint查服务 分开确认注册、临时就诊与当天预约",
+        "claim": "目录能帮助查找服务；接诊状态、费用和语言安排仍要向提供者确认。",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/emergency-departments",
+    "label": "Health NZ · Emergency departments",
+    "checked": "2026-10-25",
+    "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅",
+    "entries": [
+      {
+        "id": "healthpoint-find-care",
+        "title": "用Healthpoint查服务 分开确认注册、临时就诊与当天预约",
+        "claim": "目录能帮助查找服务；接诊状态、费用和语言安排仍要向提供者确认。",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://alcoholdrughelp.org.nz/",
+    "label": "Alcohol Drug Helpline · 服务方说明",
+    "checked": "2026-10-25",
+    "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅",
+    "entries": [
+      {
+        "id": "alcohol-family-support",
+        "title": "担心家人的饮酒 自己也可以先寻求支持",
+        "claim": "全国咨询入口可先讨论选择；奥克兰CADS允许当事人尚未参与时家属独立求助。",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-and-drug-services/help-for-whanau-and-friends",
+    "label": "Health NZ · Help for whānau and friends",
+    "checked": "2026-10-25",
+    "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅",
+    "entries": [
+      {
+        "id": "alcohol-family-support",
+        "title": "担心家人的饮酒 自己也可以先寻求支持",
+        "claim": "全国咨询入口可先讨论选择；奥克兰CADS允许当事人尚未参与时家属独立求助。",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
+    ]
+  },
+  {
+    "url": "https://www.healthnz.govt.nz/hospitals-services/hospitals/auckland/community-alcohol-drug-services",
+    "label": "Health NZ · CADS Auckland",
+    "checked": "2026-10-25",
+    "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅",
+    "entries": [
+      {
+        "id": "alcohol-family-support",
+        "title": "担心家人的饮酒 自己也可以先寻求支持",
+        "claim": "全国咨询入口可先讨论选择；奥克兰CADS允许当事人尚未参与时家属独立求助。",
+        "checked": "2026-10-25",
+        "method": "官方或服务方网页正文／检索核对；操作与问法为编辑撰写，未实地预约或专业审阅"
+      }
+    ],
+    "checkedDates": [
+      "2026-10-25"
     ]
   }
 ]

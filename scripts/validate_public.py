@@ -40,4 +40,12 @@ for folder in ['content','docs','src']:
    s=f.read_text();assert not re.search(r'/Users/[^\s/]+/',s),f'private machine path: {f.name}'
    assert not re.search(r'(?m)^\*\*Speaker[^*]* · [0-9:]+\*\*',s),f'transcript body: {f.name}'
    assert not re.search(r'gh[pousr]_[A-Za-z0-9]{30,}|-----BEGIN (RSA |OPENSSH )?PRIVATE KEY',s),f'credential pattern: {f.name}'
+corrections=read('fitness-corrections.json');targets=set()
+for p in corrections['patches']:
+ assert p['collection'] in ('gp','mental','claims') and p['path']
+ target=(p['collection'],tuple(p['path']));assert target not in targets,'duplicate Fitness correction target';targets.add(target)
+ assert isinstance(p['guard']['expected'],str) and p['guard']['field'] in p['changes']
+ assert re.fullmatch(r'\d{4}-\d{2}-\d{2}',p['checked'])
+ assert p['changes'] and all(k in ('claim','detail','why','note','title','lede','spine','gaps') and isinstance(v,str) for k,v in p['changes'].items())
+ assert all(s['url'].startswith('https://') and s['checked']==p['checked'] for s in p['sources'])
 print(f'PASS public release: {len(es)} entries, {len(ledger)} citations, {len(eps)} episodes; references, statuses, coverage and private-data boundaries consistent.')

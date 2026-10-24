@@ -1,6 +1,6 @@
 # Health · 新西兰求医与健康支持
 
-v1.1.2 · 内容更新截至 2026-10-25 · 54 条。
+v1.2.0 · 内容更新截至 2026-10-25 · 56 条。
 
 [回到项目首页](../README.md) · [来源与核对记录](DISTILLATION.md)
 
@@ -21,6 +21,7 @@ v1.1.2 · 内容更新截至 2026-10-25 · 54 条。
 - [找医生时，核对登记与当前执业状态](#doctor-register)
 - [选远程问诊时，把记录与后续衔接问清](#telehealth-plan)
 - [孩子未满 14 岁，仍要问清哪些项目免费](#under14-gp-fees)
+- [用Healthpoint查服务 分开确认注册、临时就诊与当天预约](#healthpoint-find-care)
 ### 费用与资格
 
 - [先核对公费资格，再问项目费用](#funding)
@@ -37,7 +38,7 @@ v1.1.2 · 内容更新截至 2026-10-25 · 54 条。
 ### 专科与等待
 
 - [需要专科时，先问评估和转介路径](#referral)
-- [转介后，把回信和复评节点记下来](#waiting)
+- [检查或转介后 把结果、回复与复评节点记下来](#waiting)
 - [想看物理治疗，先问能否直接预约](#physio-access)
 - [术后回工作和运动，先拿到个人恢复安排](#post-surgery-activity)
 ### 支持与沟通
@@ -52,6 +53,7 @@ v1.1.2 · 内容更新截至 2026-10-25 · 54 条。
 - [用 AI 整理问诊问题，结果仍要核实](#ai-health-preparation)
 - [找心理治疗时，同时问资质、方式和是否合适](#therapist-credentials)
 - [耳堵或听力变化，先确认是否真是耳垢](#earwax-assessment)
+- [担心家人的饮酒 自己也可以先寻求支持](#alcohol-family-support)
 ### 筛查与预防
 
 - [肠癌筛查：56 岁门槛有地区差异](#bowel)
@@ -247,6 +249,9 @@ Dr John Cameron（GP） · feed 日期 2026-03-22 · **08:01–08:12** · Speake
 
 - [Health NZ · General practices](https://www.healthnz.govt.nz/hospitals-services/services-support/general-practices) · 核对 2026-10-20
 
+**完整实用指南：** [用Healthpoint找到合适的就医服务](guides/healthpoint-find-care.md) · [网站阅读](https://gimbo.co.nz/ideas/nz-health-wealth-healthpoint-find-care/)
+
+
 **节目依据：** 有些地区的诊所已停止接收注册，病人并不一定有充分选择。
 
 [The Health Hub · Dr John Cameron: The divide between Telehealth and face-to-face appointments](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000756542337)
@@ -275,6 +280,9 @@ Dr John Cameron（GP） · feed 日期 2026-03-22 · **14:19–14:35** · Speake
 **公共资料：** 官方将长期健康问题管理列为全科团队的职责之一。
 
 - [Health NZ · General practices](https://www.healthnz.govt.nz/hospitals-services/services-support/general-practices) · 核对 2026-10-20
+
+**完整实用指南：** [看GP前后 问诊准备与结果追踪模板](guides/gp-visit-follow-up.md) · [网站阅读](https://gimbo.co.nz/ideas/nz-health-wealth-gp-visit-follow-up/)
+
 
 **节目依据：** 复杂、持续的问题，尽量预约了解病史的同一位 GP；简单或急迫问题不必为了固定医生一直等。
 
@@ -492,25 +500,32 @@ Dr Michel Neeff（节目介绍为耳鼻喉科医生） · feed 日期 2025-12-14
 
 <a id="waiting"></a>
 
-## 转介后，把回信和复评节点记下来
+## 检查或转介后 把结果、回复与复评节点记下来
 
-没有消息时追踪；情况变化时重新联系。
+明确由谁接收、解释和跟进；到约定时间没有消息就联系。
 
 ### 下一步
 
-1. 记录发出转介的日期和接收单位。
-2. 向诊所确认何时应收到回复、逾期联系谁。
-3. 症状恶化时联系医疗提供者重新评估；紧急情况直接求助。
+1. 检查或转介时，记下项目、日期、接收方和负责解释结果的团队。
+2. 约定预计回复时间、联系方法；未收到消息时按约定跟进，不默认结果正常。
+3. 询问等待期间哪些变化需要提前复评，保留结果和书面计划。
 
 **费用与成本：** 追踪和复诊是否收费，按诊所政策确认。
 
-**适用边界：** 官方目标或流程时间不等于对个人的实际到诊保证。
+**适用边界：** 门户可能只显示部分资料，GP未必能看到所有机构结果；没有统一适用于全部检查的等待期限。
 
-**可以这样问（编辑撰写）：** I have not heard back about my referral. Could you check its status?
+**可以这样问（编辑撰写）：** Who will review and explain my results, when should I hear back, and whom should I contact if I have not heard by then?
 
-**公共资料：** 官方说明转介后应获知下一步；情况恶化应回医疗提供者复评。
+**公共资料：** HDC的信息权利包括检查结果、有关服务的说明及按要求提供书面摘要；Health NZ planned care说明评估与复评路径。
 
-- [Health NZ · Planned care](https://www.healthnz.govt.nz/hospitals-services/services-support/planned-care) · 核对 2026-10-20
+- [HDC · Information, choice and consent](https://www.hdc.org.nz/your-rights/the-code-and-your-rights/your-rights-when-using-a-health-or-disability-service-what-to-do-if-you-have-any-concerns/) · 核对 2026-10-25
+- [Health NZ · Planned care](https://www.healthnz.govt.nz/hospitals-services/services-support/planned-care) · 核对 2026-10-25
+
+**核对说明：** 2026-10-25加入问诊与结果追踪模板，收窄“GP能取得所有结果”的概括；保留原节目背景及定位。
+
+
+**完整实用指南：** [看GP前后 问诊准备与结果追踪模板](guides/gp-visit-follow-up.md) · [网站阅读](https://gimbo.co.nz/ideas/nz-health-wealth-gp-visit-follow-up/)
+
 
 **节目依据：** 等待影像结果时，可以问注册诊所的护士能否协助追踪。本条不把节目提到的等待天数当统一保证。
 
@@ -571,6 +586,9 @@ Healthline 可安排口译；面诊支持要提前问诊所。
 **公共资料：** Healthline 官方说明可在通话中安排口译。面诊的具体安排需向接诊机构确认。
 
 - [Health NZ · Healthline](https://www.healthnz.govt.nz/online-phone-healthcare/healthline) · 核对 2026-10-20
+
+**完整实用指南：** [用Healthpoint找到合适的就医服务](guides/healthpoint-find-care.md) · [网站阅读](https://gimbo.co.nz/ideas/nz-health-wealth-healthpoint-find-care/)
+
 
 **官方补充：** 已审阅的节目段落未提供口译安排依据；本条仅按官方资料补充。 没有编配节目时间戳。
 
@@ -1453,6 +1471,9 @@ Dr John Cameron（节目介绍为 GP） · feed 日期 2026-09-13 · **22:06–2
 **核对说明：** 不采用节目其他段落中未经核实的网络错误比例，也不将专用或付费 AI 写成无错误保证。
 
 
+**完整实用指南：** [看GP前后 问诊准备与结果追踪模板](guides/gp-visit-follow-up.md) · [网站阅读](https://gimbo.co.nz/ideas/nz-health-wealth-gp-visit-follow-up/)
+
+
 **节目依据：** Betty 认为 AI 可能提高健康理解，同时可能带来误诊、延误和焦虑。本条只保留准备与核查用途。
 
 [The Health Hub · Dr Bryan Betty: Should patients be using Chat GPT?](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000757994005)
@@ -1777,3 +1798,65 @@ Dr Alex Bartle（该集介绍为 SleepWell Clinic 负责人） · feed 日期 20
 [The Health Hub · Dr John Cameron: Training yourself out of an allergy](https://podcasts.apple.com/nz/podcast/id1444362063?i=1000673715924)
 
 Dr John Cameron（节目介绍为 GP） · feed 日期 2024-10-20 · **40:12–40:33** · Speaker 5。已读对应发言及相邻上下文；范围为字幕说话人段落，未听音复核。
+
+
+<a id="healthpoint-find-care"></a>
+
+## 用Healthpoint查服务 分开确认注册、临时就诊与当天预约
+
+目录能帮助查找服务；接诊状态、费用和语言安排仍要向提供者确认。
+
+### 下一步
+
+1. 按服务类别及地区查找，查看接收新注册者与casual病人的说明。
+2. 分别确认今天的预约、所需服务、语言或口译及营业时间。
+3. 核对本人条件下的总费用、额外项目和页面更新日期，出发前再联系确认。
+
+**费用与成本：** 注册、casual、项目和时段会影响费用；不采用历史匿名价目作当前报价。
+
+**适用边界：** 目录不是实时空位或临床分诊；严重情况按急诊入口及时求助。
+
+**可以这样问（编辑撰写）：** Are you accepting new enrolments or casual patients, and can you confirm today’s availability, language support and total fee?
+
+**公共资料：** 目录能帮助查找服务；接诊状态、费用和语言安排仍要向提供者确认。
+
+- [Healthpoint · 机构资料维护说明](https://www.healthpoint.co.nz/assets/video/training/editing/story_content/external_files/Getting_Started.pdf) · 核对 2026-10-25
+- [Health NZ · General practices](https://www.healthnz.govt.nz/hospitals-services/services-support/general-practices) · 核对 2026-10-25
+- [HDC · Information, choice and consent](https://www.hdc.org.nz/your-rights/the-code-and-your-rights/your-rights-when-using-a-health-or-disability-service-what-to-do-if-you-have-any-concerns/) · 核对 2026-10-25
+- [Health NZ · Emergency departments](https://www.healthnz.govt.nz/hospitals-services/services-support/emergency-departments) · 核对 2026-10-25
+
+**完整实用指南：** [用Healthpoint找到合适的就医服务](guides/healthpoint-find-care.md) · [网站阅读](https://gimbo.co.nz/ideas/nz-health-wealth-healthpoint-find-care/)
+
+
+**官方补充：** 旧文介绍过目录使用；当前项目没有为本工具核验可定位的节目片段，按公共资料独立补充。 没有编配节目时间戳。
+
+
+<a id="alcohol-family-support"></a>
+
+## 担心家人的饮酒 自己也可以先寻求支持
+
+全国咨询入口可先讨论选择；奥克兰CADS允许当事人尚未参与时家属独立求助。
+
+### 下一步
+
+1. 可联系Alcohol Drug Helpline（0800 787 797，24小时免费咨询），说明你是家属并问本地支持。
+2. 奥克兰可联系CADS（0800 845 1818）；其他地区分别确认家属资格、预约、等待及费用。
+3. 不自行安排突然停酒或戒断用药；与专业人员讨论安全计划和自己的支持。
+
+**费用与成本：** 全国咨询电话免费；Health NZ列奥克兰CADS家属免费支持，其他服务与自费治疗另问。
+
+**适用边界：** 不保证全国服务随时walk-in；家属支持不等于替当事人诊断、强制治疗或保证一次谈话奏效。
+
+**可以这样问（编辑撰写）：** I am worried about a family member’s drinking. Can I get support for myself, and what are the eligibility, referral process, waiting time and fees?
+
+**公共资料：** 全国咨询入口可先讨论选择；奥克兰CADS允许当事人尚未参与时家属独立求助。
+
+- [Alcohol Drug Helpline · 服务方说明](https://alcoholdrughelp.org.nz/) · 核对 2026-10-25
+- [Health NZ · Help for whānau and friends](https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-and-drug-services/help-for-whanau-and-friends) · 核对 2026-10-25
+- [Health NZ · CADS Auckland](https://www.healthnz.govt.nz/hospitals-services/hospitals/auckland/community-alcohol-drug-services) · 核对 2026-10-25
+- [Health NZ · Alcohol addiction](https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-addiction) · 核对 2026-10-25
+
+**完整实用指南：** [担心家人的饮酒问题 自己可以先找谁谈](guides/alcohol-family-support.md) · [网站阅读](https://gimbo.co.nz/ideas/nz-health-wealth-alcohol-family-support/)
+
+
+**官方补充：** 旧文家属话题启发本场景；当前项目未为这些具体服务核验节目片段，以官方与服务方资料独立补充。 没有编配节目时间戳。

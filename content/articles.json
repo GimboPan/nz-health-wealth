@@ -22,16 +22,61 @@
       "related": []
     },
     {
+      "id": "healthpoint-find-care",
+      "title": "用Healthpoint找到合适的就医服务",
+      "summary": "查接诊条件、费用、语言与营业时间，把新注册、临时就诊和当天预约分开确认。",
+      "topic": "health",
+      "kind": "article",
+      "url": "https://gimbo.co.nz/ideas/nz-health-wealth-healthpoint-find-care/",
+      "repositoryPath": "docs/guides/healthpoint-find-care.md",
+      "updated": "2026-10-25",
+      "dateLabel": "资料核对",
+      "metaNote": "操作与问法由编辑整理",
+      "guideHref": "/ideas/nz-health-wealth-guide.html#guide-healthpoint-find-care",
+      "guideLabel": "在交互指南中查看",
+      "related": []
+    },
+    {
+      "id": "gp-visit-follow-up",
+      "title": "看GP前后 问诊准备与结果追踪模板",
+      "summary": "一张可复制或打印的清单，记录问诊重点、检查目的、结果由谁解释，以及没有消息时联系谁。",
+      "topic": "health",
+      "kind": "article",
+      "url": "https://gimbo.co.nz/ideas/nz-health-wealth-gp-visit-follow-up/",
+      "repositoryPath": "docs/guides/gp-visit-follow-up.md",
+      "updated": "2026-10-25",
+      "dateLabel": "资料核对",
+      "metaNote": "操作与问法由编辑整理",
+      "guideHref": "/ideas/nz-health-wealth-guide.html#guide-waiting",
+      "guideLabel": "在交互指南中查看",
+      "related": []
+    },
+    {
+      "id": "alcohol-family-support",
+      "title": "担心家人的饮酒问题 自己可以先找谁谈",
+      "summary": "全国咨询与奥克兰CADS家属支持分别说明，核对入口、费用、预约和戒断风险。",
+      "topic": "health",
+      "kind": "article",
+      "url": "https://gimbo.co.nz/ideas/nz-health-wealth-alcohol-family-support/",
+      "repositoryPath": "docs/guides/alcohol-family-support.md",
+      "updated": "2026-10-25",
+      "dateLabel": "资料核对",
+      "metaNote": "操作与问法由编辑整理",
+      "guideHref": "/ideas/nz-health-wealth-guide.html#guide-alcohol-family-support",
+      "guideLabel": "在交互指南中查看",
+      "related": []
+    },
+    {
       "id": "nz-care-reading",
       "title": "新西兰就医资料导读",
-      "summary": "把Fitness里的四篇既有整理串成一条阅读路线：理解体系、找到服务、准备GP沟通，再读酒精与依赖专题。",
+      "summary": "三份当前操作工具与四篇Fitness延伸阅读：找服务、准备问诊和追踪结果、家属饮酒问题求助。",
       "topic": "health",
       "kind": "collection",
       "url": "https://gimbo.co.nz/ideas/nz-health-wealth-care-reading/",
       "repositoryPath": "docs/guides/nz-care-reading.md",
       "updated": "2026-10-25",
-      "dateLabel": "目录整理",
-      "metaNote": "Fitness原文与网址保留",
+      "dateLabel": "导读与重点校正",
+      "metaNote": "四篇Fitness原网址与入口保留",
       "guideHref": "/ideas/nz-health-wealth-guide.html",
       "guideLabel": "打开交互指南",
       "related": [
@@ -39,25 +84,25 @@
           "title": "新西兰就医指南 九章",
           "url": "https://gimbo.co.nz/fitness/health-hub",
           "summary": "按筛查、费用、转介、药房、ACC与注册GP等主题理解医疗体系。",
-          "note": "Fitness原文 · 保留原资料日期"
+          "note": "Fitness原文 · 2026-10-25重点校正，历史素材日期保留"
         },
         {
           "title": "Healthpoint中文使用说明",
           "url": "https://gimbo.co.nz/fitness/healthpoint",
           "summary": "查找接收新患者的诊所、语言服务、收费和营业时间。",
-          "note": "Fitness原文 · 2026年8月查证快照"
+          "note": "Fitness原文 · 2026-10-25重点校正，历史素材日期保留"
         },
         {
           "title": "新西兰的GP 八年说了什么",
           "url": "https://gimbo.co.nz/fitness/one-gp",
           "summary": "从John Cameron的节目整理理解GP沟通、反复出现的观点及前后变化。",
-          "note": "Fitness原文 · 节目回顾"
+          "note": "Fitness原文 · 2026-10-25重点校正，历史素材日期保留"
         },
         {
           "title": "酒精 烟草与依赖专题",
           "url": "https://gimbo.co.nz/fitness/alcohol",
           "summary": "酒、烟、电子烟、大麻及依赖问题的节目整理，保留当时语境和来源。",
-          "note": "Fitness原文 · 节目回顾"
+          "note": "Fitness原文 · 2026-10-25重点校正，历史素材日期保留"
         }
       ]
     }

@@ -25,7 +25,7 @@ def inventory(data):
         lines.append(f'| {a["title"]} | [阅读全文]({a["url"]}) | [原文]({path}) | {a["dateLabel"]} {a["updated"]} |')
     for a in data['articles']:
         if a.get('related'):
-            lines+=['',f'## {a["title"]}中的Fitness原文','','以下文章及原网址保留，未冒充本次重新核验。']
+            lines+=['',f'## {a["title"]}中的Fitness原文','','以下文章及原网址保留；本次只对已标注项目作重点校正，历史资料日期另列。']
             for old in a['related']:
                 lines+=['',f'- [{old["title"]}]({old["url"]})：{old["summary"]} {old["note"]}。']
     lines+=['','新增或调整专题时同步修改清单和原文，再按[发布流程](PUBLISHING.md)生成及核对两端内容。']
@@ -37,6 +37,7 @@ def website_files(data):
     files={
         'src/data/nz-health-wealth-directory.json':json.dumps(data,ensure_ascii=False,indent=2)+'\n',
         'src/data/nz-health-wealth-release.json':json.dumps(release,ensure_ascii=False,indent=2)+'\n',
+        'src/data/health-hub-corrections.json':(ROOT/'content/fitness-corrections.json').read_text(),
         'public/ideas/nz-health-wealth-guide.html':(ROOT/'dist/index.html').read_text()
     }
     for a in data['articles']:

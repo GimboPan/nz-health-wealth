@@ -1,0 +1,1438 @@
+{
+  "checked": "2026-10-25",
+  "scope": "对指定旧文说法的编辑校正；保留原始生成数据和节目定位，不表示全文重新临床审阅或听音。",
+  "patches": [
+    {
+      "collection": "claims",
+      "path": [
+        "referral",
+        "groups",
+        1,
+        "items",
+        2
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "成人 ADHD：在新西兰，注册心理治疗师、临床心理师、精神科医生和 GP 都能下诊断，但利他林这类药的第一张处方只有精神科医生能开。所以如果你找得到、也付得起，直接去找精神科医生。"
+      },
+      "changes": {
+        "claim": "2026年2月1日起，成人18岁以上的ADHD兴奋剂治疗可由具相应专科注册的GP及在执业范围内的NP启动；不是每家诊所或每位GP都提供此项服务。",
+        "note": "现行规则由Pharmac另行核对；原节目仅保留为背景。儿童和青少年另有启动者条件，预约时问评估资质、费用与持续照护。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Pharmac · ADHD prescribing changes",
+          "url": "https://www.pharmac.govt.nz/news-and-resources/adhd/changes-for-prescribers",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "mental-access",
+        "groups",
+        3,
+        "items",
+        3
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "ADHD 的诊断权不只在精神科医生手里:注册心理治疗师、临床心理学家、精神科医生和 GP 都能诊断。但如果你想走用药这条路,他建议直接找精神科医生——利他林这类药的第一张处方,GP 依法开不了。"
+      },
+      "changes": {
+        "claim": "2026年2月1日起，成人18岁以上的ADHD兴奋剂治疗可由具相应专科注册的GP及在执业范围内的NP启动；不是每家诊所或每位GP都提供此项服务。",
+        "note": "不沿用“GP依法不能开第一张处方”，也不把不同心理专业头衔等同为同一诊断资格。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Pharmac · ADHD prescribing changes",
+          "url": "https://www.pharmac.govt.nz/news-and-resources/adhd/changes-for-prescribers",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "referral"
+      ],
+      "guard": {
+        "field": "spine",
+        "expected": "在新西兰，专科医生不是你自己能挂的号——要么有人给你写一封转介信、把你送进公立队列，要么你自己掏钱走私立；而这两条路的尽头，常常是同一位医生。"
+      },
+      "changes": {
+        "spine": "公立计划性专科通常先由医疗提供者评估转介；私立是否需要转介及怎样收费，要向接收服务确认。不同服务有不同入口。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "referral",
+        "groups",
+        0
+      ],
+      "guard": {
+        "field": "title",
+        "expected": "两扇门：一封转介信，或者你自己的钱"
+      },
+      "changes": {
+        "title": "公立与私立：先问评估、转介和接收条件",
+        "lede": "GP或相关医疗提供者可讨论专科评估；公立、私立及可直接接入的服务各有条件，不以“只有两条路”概括所有情况。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "referral",
+        "groups",
+        0,
+        "items",
+        0
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "想看专科，路只有两条：自己掏钱找私立，或者让 GP 写转介信把你送进公立排队。他在讲鼻中隔偏曲要不要开刀时，把这两条路并排说了一遍——这不是耳鼻喉科的特例，是整个系统的默认结构。"
+      },
+      "changes": {
+        "claim": "专科路径先问接收条件：公立计划性照护通常经医疗提供者评估转介；私立也可能要求转介。",
+        "note": "原节目讨论耳鼻喉个案中的两条选择，不能外推为所有专科的统一规则。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Planned care",
+          "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/planned-care",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "referral",
+        "groups",
+        0,
+        "items",
+        2
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "想走私立看精神科但担心钱：大多数医疗保险一年会报销一次精神科门诊——对只需要一次诊断评估的人来说，这条路可能比想象中够用。"
+      },
+      "changes": {
+        "claim": "考虑私人精神科前，先向保险方确认本人的保单是否承保、限额和预授权。",
+        "note": "不沿用节目“大多数保险每年报一次”的概括；具体诊断评估及既往症条款可能不同。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "referral",
+        "groups",
+        3,
+        "items",
+        0
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "在医院做完检查、等专科回话的那段空白期，别干等。打回你注册的那家 GP 诊所，跟护士说清楚你做了什么检查、能不能帮你问一下结果——GP 能从后台把医院的结果调出来，不必等到专科那次预约。"
+      },
+      "changes": {
+        "claim": "等检查结果时，联系负责团队，确认谁接收、谁解释，以及预计何时回复。",
+        "note": "GP可能查到共享系统中的部分结果，但不能保证看到所有医院资料；需要时索取副本，不把没消息当正常。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "HDC · Information, choice and consent",
+          "url": "https://www.hdc.org.nz/your-rights/the-code-and-your-rights/your-rights-when-using-a-health-or-disability-service-what-to-do-if-you-have-any-concerns/",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "referral",
+        "groups",
+        3,
+        "items",
+        1
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "如果你觉得公立系统没把你当回事，你随时有权向负责你的医院医生要一次 review opinion（复核意见）。而走这条路的第一站是回去找 GP，让他替你去推。"
+      },
+      "changes": {
+        "claim": "对判断仍有疑问，可以询问如何取得另一意见，并确认资料、转介和费用。",
+        "note": "HDC保障取得有关另一意见的信息；并不保证另一次评估必定公费或即时安排。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "HDC · Information, choice and consent",
+          "url": "https://www.hdc.org.nz/your-rights/the-code-and-your-rights/your-rights-when-using-a-health-or-disability-service-what-to-do-if-you-have-any-concerns/",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "referral",
+        "groups",
+        3,
+        "items",
+        2
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "说句实在的：公立系统里目前没有公费的更年期专科门诊这个东西。这不是排队久的问题，是这扇门还没建——GP 之外没得转。"
+      },
+      "changes": {
+        "claim": "节目曾讨论更年期专科资源不足；当前地区是否有公费或其他服务，要向负责团队查询。",
+        "note": "这是2023年节目背景，不能据此断言2026年全国都没有可转介的服务。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Planned care",
+          "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/planned-care",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "mental-access",
+        "groups",
+        0,
+        "items",
+        1
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "1737 是四位数号码,打不打得出口都行——可以只发短信过去,那边有空会回拨给你。24 小时都在。"
+      },
+      "changes": {
+        "claim": "情绪支持服务可以通过电话或短信联系；不要预设一定会回拨或何时回拨。",
+        "note": "按当前服务入口选择沟通方式；旧节目对回拨的描述不构成今日服务承诺。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "mental-access",
+        "groups",
+        0,
+        "items",
+        3
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "新西兰心理健康最便宜、最快的一扇门在你注册的那家 GP 诊所里,叫 Access and Choice。打电话过去说要「见一个 HIP(Health Improvement Practitioner,健康促进从业者)」,免费,而且不用先约到医生本人。"
+      },
+      "changes": {
+        "claim": "先问注册的诊所有没有HIP或其他基层心理支持，以及怎样预约。",
+        "note": "参与诊所的相关支持免费；不是每间诊所都有，也不保证当天有空位。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · No referral process",
+          "url": "https://www.wellbeingsupport.health.nz/no-referral-process",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "mental-access",
+        "groups",
+        1,
+        "items",
+        0
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "自费看咨询师/临床心理学家/心理治疗师,奥克兰全私人诊所大约 150–200 纽币一次,小城市便宜些。一次是 50 分钟,不是一小时。"
+      },
+      "changes": {
+        "claim": "自费咨询的价格、时长及取消费用，要向具体提供者询问。",
+        "note": "节目里的NZ$150–200及50分钟属于当时样本，不是当前统一报价。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "mental-access",
+        "groups",
+        1,
+        "items",
+        1
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "如果你在大公司上班,先问 HR 有没有 EAP(Employee Assistance Programme,员工援助计划)——他说这是最常见的一条免费通道,通常给几次,常见是三次、用完可以再申请三次。"
+      },
+      "changes": {
+        "claim": "若雇主提供EAP，先问覆盖哪些服务、可用次数、额外批准与隐私安排。",
+        "note": "旧节目“常见三次再三次”不是每份雇主计划的保障。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "mental-access",
+        "groups",
+        1,
+        "items",
+        4
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "有商业医疗保险的话,值得翻一下条款:他说大多数保险每年会付一次精神科医生的会诊费,这是绕开公立排队的一条现实路径。"
+      },
+      "changes": {
+        "claim": "有保险时，直接核对精神科、心理治疗或咨询的具体承保条款。",
+        "note": "不用“大多数每年报一次”的节目说法估算报销。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "mental-access",
+        "groups",
+        2,
+        "items",
+        0
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "25 岁以下的人可以用 Gumboot Friday 的钱免费做咨询,不看家里收入、不看社会经济背景。卡人的从来不是资格,是找到一个当下有空档的咨询师。"
+      },
+      "changes": {
+        "claim": "Gumboot Friday是年轻人咨询资助的一种入口；按服务方当前资格、名额和预约办法查询。",
+        "note": "旧文的年龄概括、平均等待与咨询次数是历史材料，不当作今日承诺；见原节目背景。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "mental-access",
+        "groups",
+        2,
+        "items",
+        1
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "Gumboot Friday 的用法是:25 岁及以下,自己直接打给一位注册在册的私人咨询师约时间,基金付钱——不用先经过医生,也不用被认定「有精神疾病」。"
+      },
+      "changes": {
+        "claim": "联系Gumboot Friday列示的提供者时，先确认资格、资助次数和实际可预约时间。",
+        "note": "不将旧节目“两到三次”、回电或平均等待数字作为固定服务标准。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "mental-access",
+        "groups",
+        2,
+        "items",
+        4
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "酒精和药物问题不用等转介:全国大部分社区戒酒戒毒服务(community alcohol and drug services)都设有 drop-in 时段,直接走进去找人聊就行,奥克兰的肯定有。"
+      },
+      "changes": {
+        "claim": "酒精与药物服务也可能支持家属；先确认所在地的接入、预约和费用。",
+        "note": "奥克兰CADS明确允许当事人尚未参与时，家属独立寻求支持；不能推广成全国随时walk-in。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · CADS Auckland",
+          "url": "https://www.healthnz.govt.nz/hospitals-services/hospitals/auckland/community-alcohol-drug-services",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Health NZ · Help for whānau and friends",
+          "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-and-drug-services/help-for-whanau-and-friends",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "mental-access",
+        "groups",
+        3,
+        "items",
+        2
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "在新西兰,「counsellor(咨询师)」是一个有门槛的职业:通常三到四年本科层级的训练,并在新西兰咨询师协会(NZAC)注册。想核对一个人是不是正规的,就查这个注册。"
+      },
+      "changes": {
+        "claim": "找心理支持时，分别核对专业头衔、训练、专业组织或法定登记，以及是否处理你的问题。",
+        "note": "Counsellor的专业协会会员身份不等于psychologist或psychotherapist的法定登记；不要把不同头衔混用。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "pharmacist"
+      ],
+      "guard": {
+        "field": "spine",
+        "expected": "在新西兰，药房柜台后面那个人，是你唯一一个不用预约、不用付咨询费、走进去就能问的医疗专业人士——他手上有你所有处方药的记录，也知道这一片哪个 GP 值得去。"
+      },
+      "changes": {
+        "spine": "可以向药师询问用药和本地服务。是否需要预约、是否收费，以及药师能看到哪些记录，要问具体药房；自己带齐全部用药清单。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "pharmacist",
+        "groups",
+        0
+      ],
+      "guard": {
+        "field": "lede",
+        "expected": "在这个 GP 一位难求的国家，一个执业近四十年的医生给出的第一步，是去问一个完全不收你钱的人。"
+      },
+      "changes": {
+        "lede": "节目建议向熟悉社区的药师打听本地服务；能否提供相关咨询及费用，向药房确认。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "pharmacist",
+        "groups",
+        1
+      ],
+      "guard": {
+        "field": "title",
+        "expected": "他是唯一看得见你全部用药的人"
+      },
+      "changes": {
+        "title": "请药师一起核对完整用药清单",
+        "lede": "药房可有部分配药记录，但不一定知道其他机构配的药、非处方药和补充剂；需要你主动补齐。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "pharmacist",
+        "groups",
+        1,
+        "items",
+        0
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "长期给你配药的那家药房，比任何单个专科医生都更完整地看得见你在吃的所有药——他们手上有全部配药记录，也大致知道你有哪些病。Cameron 说社区药房「认得自己的老主顾」，跟本地 GP 有工作关系，是同一个照护团队的一部分。"
+      },
+      "changes": {
+        "claim": "长期配药的药师可以帮助核对多种药物；同时主动提供其他药房、医院及自行购买的用药。",
+        "note": "不沿用“只有药师看得到你全部药”的保证。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Pharmacies",
+          "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/pharmacies",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "pharmacist",
+        "groups",
+        2,
+        "items",
+        0
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "药房里有两种人：站在保健品货架前招呼你的是销售，柜台后面那个才是注册药师。Claire Turnbull 强调这是完全不同的两个人，要问就问柜台后面的那个——他们真正清楚补充剂和你在吃的药会怎么互相干扰。"
+      },
+      "changes": {
+        "claim": "在药房需要专业意见时，明确要求与注册药师交谈。",
+        "note": "不能单凭工作人员站在柜台还是货架旁判断资质。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Pharmacies",
+          "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/pharmacies",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "acc"
+      ],
+      "guard": {
+        "field": "spine",
+        "expected": "ACC 认的是「某一下的外力」，不是「慢慢磨出来的毛病」——所以受伤后第一件事是想清楚有没有那个具体的「一下」，有就让医生递申请，哪怕那一下是十几年前的事。"
+      },
+      "changes": {
+        "spine": "ACC可评估意外受伤及符合条件的工作相关渐进伤害等；不要仅凭有没有“某一下”自行排除。由医疗提供者提交资料，ACC按条件决定。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "acc",
+        "groups",
+        0
+      ],
+      "guard": {
+        "field": "title",
+        "expected": "先弄清边界：ACC 认的是「意外」，不是「毛病」"
+      },
+      "changes": {
+        "title": "先问能否申请 不以突发外力概括所有承保",
+        "lede": "普通劳损不自动承保，但工作相关渐进伤害等有专门条件；具体由ACC评估。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "acc",
+        "groups",
+        0,
+        "items",
+        0
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "ACC 认的是「某一下」的外力，不是慢慢磨出来的毛病。这位应用生物力学专家在讲青少年运动损伤时把这条边界说得最直白：overuse（劳损、用多了）这一类按他的说法不在 ACC 范围内，因为 ACC 要的是 sudden impact（突发外力），gradual process（渐进形成）不算。所以受伤后第一件事是想清楚：有没有一个具体的、说得出时间地点的「那一下」。"
+      },
+      "changes": {
+        "claim": "ACC并非只认一次突发外力：符合条件的工作相关渐进伤害、疾病或感染也可能承保。",
+        "note": "原节目在青少年运动劳损情境中的解释不能当作整个ACC制度的边界。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "ACC · Cover decisions",
+          "url": "https://www.acc.co.nz/im-injured/how-we-manage-your-claim/cover-decisions",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "afterhours"
+      ],
+      "guard": {
+        "field": "spine",
+        "expected": "在新西兰，看病的入口是一通电话，不是一个窗口——除了那几种一分钟都不能等的情况，先打给你自己诊所让护士分诊，别默认冲 after-hours 或急诊。"
+      },
+      "changes": {
+        "spine": "按病情紧迫程度选择入口：严重或紧急情况及时寻求急诊帮助；拿不准可问Healthline，普通问题也可联系诊所护士讨论当天选择。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "afterhours",
+        "groups",
+        0
+      ],
+      "guard": {
+        "field": "lede",
+        "expected": "新西兰看病最反直觉的一点：你要打的第一通电话不是打给急诊，而是打给自己诊所的护士——她会替你分诊，很多事根本走不到「约号」这一步。"
+      },
+      "changes": {
+        "lede": "诊所护士、Healthline等可帮助判断下一步；不要把先打自己诊所写成每一种情况都必须经过的步骤。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "afterhours",
+        "groups",
+        2
+      ],
+      "guard": {
+        "field": "lede",
+        "expected": "精神上撑不住的时候，急诊往往不是最快的那扇门；1737 和面向年轻人的免费咨询通道，是这套系统里少数不用先排队的入口。"
+      },
+      "changes": {
+        "lede": "情绪支持、基层心理服务与急诊用途不同；存在紧急危险时及时求助，不用旧个案等待时间推断是否值得就医。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "afterhours",
+        "groups",
+        2,
+        "items",
+        2
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "关于精神危机走急诊，节目里有一条很不客气的现实警告。Mike King 说他接触过的人里，有人走进 A&E 说自己想自杀，等了 14 个小时；而且因为「还没真的动手」，被判定不够格拿到帮助。他的总结是：新西兰这套系统只给危机买单，你得先到「临界」才排得上，最危急的那 5% 才拿得到他们需要的帮助。"
+      },
+      "changes": {
+        "claim": "节目曾转述精神危机就医等待的个案投诉；它不能用来判断当前危机是否应求助。",
+        "note": "严重或紧急情况应及时获得评估，不应等到发生伤害才寻求帮助。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Emergency departments",
+          "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/emergency-departments",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "afterhours",
+        "groups",
+        2,
+        "items",
+        3
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "25 岁及以下的年轻人，有一条不必先经过 GP 的免费咨询通道：Gumboot Friday。Mike King 说当时公立系统里孩子想免费看 counsellor 的唯一路径，是先让医生「判定这孩子有精神疾病」，再排四周到一年的队，还要背上这个标签；他们做的是让年轻人自己上网、按所在地选一位私人 counsellor 自行预约，费用由基金会付。他给的运行数据是：48 小时内回电，平均等待 6 天，一个人平均用掉 4 次咨询。"
+      },
+      "changes": {
+        "claim": "年轻人的咨询资助服务可作为一种选项，资格、名额和预约要向当前提供者确认。",
+        "note": "节目中的回电、平均等待和平均次数属于机构当年的自报运行数据，不是承诺。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "gp",
+      "path": [
+        0,
+        "items",
+        3
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "检查结果不用干等：病历是你的，GP 能从系统里替你把医院的结果调出来"
+      },
+      "changes": {
+        "claim": "检查结果要追踪，但GP不一定能看到所有机构的结果",
+        "detail": "节目谈过患者门户和奥克兰共享结果库。当前使用时，问清谁接收结果、谁解释、何时回复；需要时索取副本带给另一团队。",
+        "why": "不把某地区或某诊所的系统能力推广为全国完整互通。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "HDC · Information, choice and consent",
+          "url": "https://www.hdc.org.nz/your-rights/the-code-and-your-rights/your-rights-when-using-a-health-or-disability-service-what-to-do-if-you-have-any-concerns/",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "gp",
+      "path": [
+        0,
+        "items",
+        6
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "喉咙痛：两片可溶性阿司匹林含漱后咽下——他说这是地球上最有效的办法（12 岁以上）"
+      },
+      "changes": {
+        "claim": "喉咙痛用药先核对适用年龄 不沿用旧节目固定阿司匹林服法",
+        "detail": "旧整理把12岁以上视作成人并给固定服法，这不足以支持公众自用。儿童咽痛资料提醒不要给儿童使用阿司匹林；具体用药请药师或医生核对。",
+        "why": "Medsafe的2015年说明区分产品标签、青少年发热限制与儿童处方集条件；不能只把一个年龄数字当通行许可。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Healthify／Health NZ · Sore throat in children",
+          "url": "https://healthify.nz/health-a-z/s/sore-throat-children",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Medsafe · Use of aspirin in children（2015）",
+          "url": "https://www.medsafe.govt.nz/profs/PUArticles/December2015/UseOfAspirinInChildren.htm",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "gp",
+      "path": [
+        1,
+        "items",
+        0
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "保健品：维生素 C 那套研究没人能重复出来；而且在新西兰，只要不注册成药，厂商想怎么宣传都行"
+      },
+      "changes": {
+        "claim": "保健品标签不等于疗效认证 但宣传也有监管限制",
+        "detail": "不逐个审批疗效，不等于厂商可任意宣传。Medsafe说明膳食补充剂等产品不得作治疗性声称；产品用途和分类也影响监管要求。",
+        "why": "旧整理把美容产品讨论外推为所有保健品的通用法律原则，现已收窄。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Medsafe · Supplying products which are not approved medicines",
+          "url": "https://www.medsafe.govt.nz/compliance/Marketing.asp",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "gp",
+      "path": [
+        1,
+        "items",
+        1
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "新西兰医生到 70 岁就不给你筛查了——这不是省钱也不是歧视老人，是数据说筛下去害处大于好处"
+      },
+      "changes": {
+        "claim": "筛查要分项目 不能说70岁就一律停止",
+        "detail": "肠癌国家筛查可至74岁；乳腺筛查扩龄按生日和地区分阶段实施。是否参加筛查、是否需要有症状后的检查，是不同问题。",
+        "why": "节目讨论某一项目或海外建议，不等于新西兰所有筛查都在70岁停止。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · National Bowel Screening Programme",
+          "url": "https://www.healthnz.govt.nz/about-us/what-we-do/programmes-and-initiatives/national-bowel-screening-programme",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Health NZ · Breast screening age extension",
+          "url": "https://www.healthnz.govt.nz/health-topics/keeping-healthy/cancer-screening/breast-screening/breast-screening-information-for-women-aged-70-and-over",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "gp",
+      "path": [
+        2,
+        "items",
+        0
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "带状疱疹疫苗 Shingrix：只有你满 65 岁的那一年公费，错过就是自费 600–700 纽币"
+      },
+      "changes": {
+        "claim": "Shingrix资助不仅看65岁 也要核对免疫条件与第二剂安排",
+        "detail": "65岁接种第一剂后，第二剂即使在66岁后仍可资助；某些免疫功能受损条件也有资助。通常两剂相隔2–6个月，个人安排向接种者确认。",
+        "why": "不沿用“64或66岁一律自费”“至少三个月”、固定价格或零病例与二十年保护的保证。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Shingles vaccine",
+          "url": "https://www.healthnz.govt.nz/health-topics/immunisations/vaccines-aotearoa/shingles-vaccine",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "gp",
+      "path": [
+        2,
+        "items",
+        1
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "肠癌筛查只把死亡率降 17%：83% 该死于肠癌的人，筛不筛都会死；而毛利/太平洋裔的起筛年龄要早 10 年"
+      },
+      "changes": {
+        "claim": "筛查收益不能变成个人命运 资格回到当前项目",
+        "detail": "旧节目提及的死亡率百分比，没有在这里复核其研究、基线及随访时间，不能推出一部分人的结局早已注定。当前肠癌起筛年龄分地区由58降至56，至74岁。",
+        "why": "不把嘉宾带犹豫的族群年龄估计写成全国邀请规则；有症状时另行评估。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · National Bowel Screening Programme",
+          "url": "https://www.healthnz.govt.nz/about-us/what-we-do/programmes-and-initiatives/national-bowel-screening-programme",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "gp",
+      "path": [
+        2,
+        "items",
+        2
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "流感疫苗公费线按族群分：毛利/太平洋裔 50 岁以下就有，其他人要等到 65"
+      },
+      "changes": {
+        "claim": "流感疫苗每年核对资助 不沿用旧族群年龄概括",
+        "detail": "2026年资助涉及65岁以上、孕期、特定健康条件及新增幼儿年龄组等。推荐接种与资助接种不同，向诊所或药房核对本人的当年资格。",
+        "why": "不沿用“毛利／太平洋裔50岁以下自动免费”；公众页面旧视频文字与当前手册／正文也有差别。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Influenza immunisation handbook",
+          "url": "https://www.healthnz.govt.nz/health-professionals/guidance-standards/topic/immunisation/immunisation-handbook/influenza",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "gp",
+      "path": [
+        2,
+        "items",
+        3
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "新西兰一个标准杯 = 10 克酒精；低风险线是一周 12–15 杯；而所有人平均少报 50%"
+      },
+      "changes": {
+        "claim": "标准杯是10g纯酒精 低风险建议不等于安全保证",
+        "detail": "按瓶身标准杯标识记录。官方低风险建议区分女性每周不超过10个、男性不超过15个标准杯，并有每日及不饮酒日等条件；不能只用节目12–15的口头估计。",
+        "why": "如实记录实际饮用量，不给每个人套“自报量乘二”的个人诊断公式；担心依赖时先问专业支持。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Standard drinks（2024）",
+          "url": "https://resources.alcohol.org.nz/assets/Uploads/8.0-AL-437-Guide-to-Standard-Drinks-May-2024.pdf",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Health NZ · Alcohol and you（2025）",
+          "url": "https://resources.alcohol.org.nz/assets/Uploads/6.1-AL002_Facts_effects_Brochure_Apr-2025.pdf",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Health NZ · Alcohol addiction",
+          "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-addiction",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "gp",
+      "path": [
+        2,
+        "items",
+        7
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "前列腺：70 岁就该停止筛查；而且全西方国家都没有政府前列腺筛查项目——你不会收到邀请信"
+      },
+      "changes": {
+        "claim": "前列腺检查要分筛查与症状 不能把单一年龄写成所有人的停止线",
+        "detail": "节目引用过海外筛查建议。个人是否适合检查，应按症状、风险及预期收益风险与医疗团队讨论。",
+        "why": "本页不提供统一停止年龄，也不据旧节目断言所有西方国家都没有某种项目。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "HDC · Information, choice and consent",
+          "url": "https://www.hdc.org.nz/your-rights/the-code-and-your-rights/your-rights-when-using-a-health-or-disability-service-what-to-do-if-you-have-any-concerns/",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "gp",
+      "path": [
+        2,
+        "items",
+        9
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "家庭药箱的四个硬参数：小孩退烧药买 120mg/5ml 那一版、喉咙痛用两片可溶阿司匹林、12 岁以下禁用阿司匹林、扑热息痛最多只拿掉 10–20% 的痛"
+      },
+      "changes": {
+        "claim": "家庭药箱先核对成分、适用年龄与剂量 不把广播数字当处方",
+        "detail": "儿童退烧药需核对体重、年龄、药品浓度、用量及间隔；低浓度也不保证不会过量。喉咙痛或疼痛处理向药师／医生确认，不沿用旧节目固定片数与间隔。",
+        "why": "不把“止痛只能减轻10–20%”当通用效果，也不凭同一服法安排不同药物。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Healthify／Health NZ · Sore throat in children",
+          "url": "https://healthify.nz/health-a-z/s/sore-throat-children",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Health NZ · Pharmacies",
+          "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/pharmacies",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "gp",
+      "path": [
+        4,
+        "items",
+        1
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "「不要接受,不要当成事实,去闹」——他八年在教病人怎么对付系统"
+      },
+      "changes": {
+        "claim": "主动说明症状变化并追踪结果 不以“去闹”争取排队优先",
+        "detail": "如实描述症状和生活影响，确认负责团队、复评与结果反馈安排；仍有疑问可索取书面信息并询问另一意见。",
+        "why": "积极沟通不等于夸大症状，也不保证插队或公费第二次评估。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "HDC · Information, choice and consent",
+          "url": "https://www.hdc.org.nz/your-rights/the-code-and-your-rights/your-rights-when-using-a-health-or-disability-service-what-to-do-if-you-have-any-concerns/",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Health NZ · Planned care",
+          "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/planned-care",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "gp",
+      "path": [
+        4,
+        "items",
+        2
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "15 分钟不是天定的:先打电话把血验了,再进诊室坐下来谈"
+      },
+      "changes": {
+        "claim": "预约前准备问题 检查是否需要提前做由团队判断",
+        "detail": "先说明要讨论的事项、语言和时间需要；若诊所建议先做检查，再确认项目、费用和结果安排。",
+        "why": "不把某间诊所提前验血的做法改写成所有人的预约前要求。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · General practices",
+          "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/general-practices",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "HDC · Information, choice and consent",
+          "url": "https://www.hdc.org.nz/your-rights/the-code-and-your-rights/your-rights-when-using-a-health-or-disability-service-what-to-do-if-you-have-any-concerns/",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "gp",
+      "path": [
+        4,
+        "items",
+        6
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "「把你的诊断留在门口」——99% 的诊断来自你讲的故事,Google 只能在诊断之后用"
+      },
+      "changes": {
+        "claim": "按时间线描述症状 把查到的信息作为问题带去",
+        "detail": "准备症状变化、用药和最担心的事；网上信息和自己想到的解释可以带去讨论，不先把它们当已确诊结论。",
+        "why": "不保留未经独立核验的“99%诊断”比例，也不把网络查询限制成只能在诊断后使用。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "HDC · Information, choice and consent",
+          "url": "https://www.hdc.org.nz/your-rights/the-code-and-your-rights/your-rights-when-using-a-health-or-disability-service-what-to-do-if-you-have-any-concerns/",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "gp",
+      "path": [
+        4,
+        "items",
+        7
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "默认是「这是你的身体,你来决定」——唯一不给你选的是疫苗"
+      },
+      "changes": {
+        "claim": "共同决策包括疫苗 医生强烈建议不取消同意权",
+        "detail": "HDC的选择与同意权包括知情决定、拒绝服务或撤回同意；法律规定的特殊情形另论。节目里强烈支持疫苗的态度，不是通用法律例外。",
+        "why": "风险、收益和选择可以继续向医疗团队询问。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "HDC · Information, choice and consent",
+          "url": "https://www.hdc.org.nz/your-rights/the-code-and-your-rights/your-rights-when-using-a-health-or-disability-service-what-to-do-if-you-have-any-concerns/",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "mental",
+      "path": [
+        0
+      ],
+      "guard": {
+        "field": "spine",
+        "expected": "在新西兰，一个标准杯是固定的 10 克纯酒精（4% 的 375ml 啤酒 / 30ml 烈酒 / 170ml 红酒），成年男性的低风险线大约是每周 12–15 杯——但先把你自己算出来的数乘二，因为人对自己喝了多少至少低估一半。"
+      },
+      "changes": {
+        "spine": "新西兰一个标准杯含10g纯酒精，容量还取决于酒精度。读瓶身标识并如实记录；低风险建议不是人人适用的安全线，依赖者减量或停酒先寻求专业支持。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "mental",
+      "path": [
+        0,
+        "items",
+        0
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "一个标准杯 = 10 克纯酒精：一瓶 4% 的 375ml 啤酒、30ml 烈酒、170ml 红酒"
+      },
+      "changes": {
+        "claim": "一个标准杯含10g纯酒精 容量必须结合酒精度",
+        "detail": "官方示例中约100ml、12.5%葡萄酒接近一个标准杯；170ml约1.7个。375ml、4%啤酒约1.2个，不是刚好一个；烈酒也须按酒精度换算。",
+        "why": "优先读瓶身standard drinks标识，不把普通一杯、一瓶或六瓶装直接当标准杯数。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Standard drinks（2024）",
+          "url": "https://resources.alcohol.org.nz/assets/Uploads/8.0-AL-437-Guide-to-Standard-Drinks-May-2024.pdf",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "mental",
+      "path": [
+        0,
+        "items",
+        1
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "🔴 上过奥克兰高等法院作专家证人的那位 GP：线不是给醉汉画的，而且你自报的量要先乘二"
+      },
+      "changes": {
+        "claim": "如实记录饮酒 不把所有人的自报量一律乘二",
+        "detail": "节目用过低估饮酒量的经验判断；它不是适用于每个人的统计修正或诊断公式。记录容量、酒精度、频率及对生活的影响，再与专业人员讨论。",
+        "why": "担心低估时核对瓶身标准杯数，比机械翻倍更能对应实际饮用。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Standard drinks（2024）",
+          "url": "https://resources.alcohol.org.nz/assets/Uploads/8.0-AL-437-Guide-to-Standard-Drinks-May-2024.pdf",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "mental",
+      "path": [
+        0,
+        "items",
+        2
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "每周的线：新西兰口径 12–15 个标准杯，而且这条线在这档节目的八年里一路往下移"
+      },
+      "changes": {
+        "claim": "低风险饮酒建议要看完整条件 不能只用每周12–15杯",
+        "detail": "官方建议区分女性每周不超过10个、男性不超过15个标准杯，还有每日限量及每周至少两个不饮酒日等条件；这些建议不保证没有风险。",
+        "why": "节目不同年份的口头数字保留为历史背景，不据此推导一条不断下降的政府资格或安全标准。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Alcohol and you（2025）",
+          "url": "https://resources.alcohol.org.nz/assets/Uploads/6.1-AL002_Facts_effects_Brochure_Apr-2025.pdf",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "mental",
+      "path": [
+        0,
+        "items",
+        6
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "「喝得多」和「有问题」的分水岭不是量，是宿醉那天早上你脑子里在想什么"
+      },
+      "changes": {
+        "claim": "量、控制感和生活影响都值得讨论 不是靠一个念头诊断",
+        "detail": "节目谈过宿醉时仍想继续喝的经历；这可以作为向专业人员说明的线索，不能用它作为唯一分界或忽略饮酒量。",
+        "why": "担心自己或家人时可先咨询服务，诊断和治疗由合适专业人员评估。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Alcohol addiction",
+          "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-addiction",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "mental",
+      "path": [
+        0,
+        "items",
+        7
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "30 天（或一周）不喝是一个诊断工具，不是道德考试——两种结果都有用"
+      },
+      "changes": {
+        "claim": "一周或一个月不喝不能诊断有没有问题 先考虑戒断风险",
+        "detail": "观察生活变化可以提供谈话线索，不能因能停或没感觉就排除问题。身体依赖者突然停酒或减量可能危险，应先请医疗团队评估安全计划。",
+        "why": "不把Dry July或自我挑战作为所有人的诊断测试或治疗。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Alcohol addiction",
+          "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-addiction",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "mental",
+      "path": [
+        3
+      ],
+      "guard": {
+        "field": "spine",
+        "expected": "你改不动他要不要戒，但今晚有三件事完全在你手里：别说「你喝太多了」，别让他明天就断（重度饮酒者突然停可能危险），然后自己先去打那个电话——新西兰的社区酒精药物服务不要求你先把人说服了才让你进门。"
+      },
+      "changes": {
+        "spine": "家属可以先为自己寻求支持。联系具体服务确认入口；选择能安全交谈的时候说明观察和担心，依赖或戒断问题交给医疗团队评估。",
+        "gaps": "旧节目未完整说明全国各地的资格、预约、价格和语言安排；当前家属支持入口见本页链接的新专题，其他地区仍向服务方确认。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "mental",
+      "path": [
+        3,
+        "items",
+        0
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "在新西兰，家属自己就能走进去：1737 和每个健康区都有的社区酒精药物服务"
+      },
+      "changes": {
+        "claim": "家属可以独立寻求支持 先确认本地入口",
+        "detail": "奥克兰CADS明确支持家属和朋友，被担心的人不必已经参加；全国咨询入口也可帮助了解选择。其他地区的预约、资格与费用向服务方确认。",
+        "why": "不保证全国每个服务都随时walk-in，也不把无须先说服当事人与无须预约混为一谈。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Help for whānau and friends",
+          "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-and-drug-services/help-for-whanau-and-friends",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Health NZ · CADS Auckland",
+          "url": "https://www.healthnz.govt.nz/hospitals-services/hospitals/auckland/community-alcohol-drug-services",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Alcohol Drug Helpline · 服务方说明",
+          "url": "https://alcoholdrughelp.org.nz/",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "mental",
+      "path": [
+        3,
+        "items",
+        3
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "开口的第一句话就决定成败：唯一被点名的禁句是「你喝太多了」"
+      },
+      "changes": {
+        "claim": "开口时说观察和担心 不把一句话当成成败开关",
+        "detail": "可以在能安全交谈、彼此较清醒的时候表达具体观察，询问愿不愿意谈或了解支持；尽量避免贴标签和责备。",
+        "why": "这是编辑沟通建议，不是保证有效的禁句／标准话术；一次谈话没有改变，也不妨碍家属自己求助。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Help for whānau and friends",
+          "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-and-drug-services/help-for-whanau-and-friends",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "mental",
+      "path": [
+        3,
+        "items",
+        4
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "今晚千万别做的一件事：把家里的酒全倒掉、让他明天就停"
+      },
+      "changes": {
+        "claim": "担心身体依赖时 不自行安排突然停酒",
+        "detail": "长期大量饮酒者减量或停酒可能发生危险戒断；先联系GP或酒精与药物服务评估，不替家人制定停酒、减量或用药方案。",
+        "why": "严重不适或紧急危险时及时求助；家属也可以独立咨询。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Alcohol addiction",
+          "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-addiction",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "mental",
+      "path": [
+        3,
+        "items",
+        8
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "复饮一定会发生——所以现在就要定好「他喝了那一杯，当天打给谁」"
+      },
+      "changes": {
+        "claim": "复饮可能发生 可以预先约定支持计划",
+        "detail": "与当事人及专业人员商定出现困难时联系谁、怎样重新获得支持。复饮不是所有人必然的命运，也不表示过去努力全部无效。",
+        "why": "把可能性与应对计划写清楚，不用“复饮一定发生”的绝对断言。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Alcohol addiction",
+          "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-addiction",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "public-private",
+        "groups",
+        1,
+        "items",
+        2
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "「筛查」和「检查」是两件事，别混在一起自己吓自己。一位 70 岁听众问：免费乳腺筛查过了年龄就停了，我要不要自己花钱做？GP 的回答是——超过年龄上限还想做常规筛查确实要自费；但如果医生摸到肿块、或者你有症状，那是检查不是筛查，公立照做，不用你付钱。"
+      },
+      "changes": {
+        "claim": "筛查与有症状后的检查不同；公费年龄也要按具体项目、生日和地区核对。",
+        "note": "不沿用70岁后乳腺筛查一律自费的旧概括；扩龄正在分阶段实施。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Breast screening age extension",
+          "url": "https://www.healthnz.govt.nz/health-topics/keeping-healthy/cancer-screening/breast-screening/breast-screening-information-for-women-aged-70-and-over",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Health NZ · National Bowel Screening Programme",
+          "url": "https://www.healthnz.govt.nz/about-us/what-we-do/programmes-and-initiatives/national-bowel-screening-programme",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "public-private",
+        "groups",
+        1,
+        "items",
+        3
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "同一种疫苗常常有「资助版」和「自费版」，年龄线还不一样。带状疱疹疫苗：65 岁起有公费的一针，50 岁以上想打就是自费。免费那支四五年后效力会减弱，想补打只能自己付；当年另有一支更有效的新疫苗不在资助名单，两针、每针 $300 上下。"
+      },
+      "changes": {
+        "claim": "当前Shingrix已有资助：核对65岁第一剂及特定免疫条件，而非沿用旧产品的自费／公费对比。",
+        "note": "原节目属于当年疫苗供应与资助背景；当前两剂通常相隔2–6个月，向接种者确认。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Shingles vaccine",
+          "url": "https://www.healthnz.govt.nz/health-topics/immunisations/vaccines-aotearoa/shingles-vaccine",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "claims",
+      "path": [
+        "public-private",
+        "groups",
+        2,
+        "items",
+        2
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "公立要等多久，很大程度取决于你住哪个地区；而且这个队是可以推的。一位听众的家人从十二月开始间歇便血，肠镜排到四月。John Cameron 说各地资源差很多，有的一周、有的三个月；如果有症状变化就回去找 GP 讲清楚——GP 越用力替你喊，你越可能被提前安排。"
+      },
+      "changes": {
+        "claim": "等待期间症状改变，及时联系医疗团队重新评估。",
+        "note": "地区和临床紧迫程度影响安排；不以谁催得更用力保证提前。"
+      },
+      "checked": "2026-10-25",
+      "sources": [
+        {
+          "label": "Health NZ · Planned care",
+          "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/planned-care",
+          "checked": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "collection": "mental",
+      "path": [
+        0,
+        "items",
+        3
+      ],
+      "guard": {
+        "field": "why",
+        "expected": "新移民默认的路径是「先约 GP，等两周」，不知道有免费的、不用预约、可以直接走进去的社区服务，也很少人知道 1737 可以发短信（对英文口语不自信的人这点很关键）。而「长期大量饮酒不能自己突然停」这条在中文语境几乎完全缺席——那边的默认叙事是「说戒就戒才是有决心」，而这恰恰是有风险的那条路。"
+      },
+      "changes": {
+        "why": "新西兰可以查询社区酒精与药物支持；能否预约、是否转介、费用和家属支持按本地服务确认。依赖者减量或停酒先寻求专业评估，不从泛化的walk-in说法安排当天就诊。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    },
+    {
+      "collection": "gp",
+      "path": [
+        2,
+        "items",
+        5
+      ],
+      "guard": {
+        "field": "claim",
+        "expected": "孩子还没上学，就要先登记进学校牙医服务——等换牙了，第一次机会已经错过了"
+      },
+      "changes": {
+        "claim": "孩子的牙科登记要单独确认 尚未登记也应继续询问安排",
+        "detail": "可以尽早向儿童牙科服务登记，确认就诊和提醒安排；如果已经上学但尚未登记，仍应联系服务，不把它说成一次错过就永远补不回的窗口。",
+        "why": "这与GP注册不同；接收、资格和后续预约向牙科服务确认。"
+      },
+      "checked": "2026-10-25",
+      "sources": []
+    }
+  ]
+}

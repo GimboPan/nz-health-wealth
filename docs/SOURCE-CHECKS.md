@@ -1,6 +1,6 @@
 # 公共资料查核记录（检索级）
 
-观察日期：2026-10-25。列出 123 个不同来源页面，范围以关联条目的公共资料摘要为准。部分官网直接抓取受限，使用工具返回的官方正文或检索摘录核对；未把“链接存在”当作整个条目已获专业验证。
+观察日期：2026-10-25。列出 129 个不同来源页面，范围以关联条目的公共资料摘要为准。部分官网直接抓取受限，使用工具返回的官方正文或检索摘录核对；未把“链接存在”当作整个条目已获专业验证。
 
 ## [Health NZ · Which health service should I use?](https://www.healthnz.govt.nz/hospitals-services/which-health-service-should-i-use)
 
@@ -92,11 +92,12 @@
 
 ## [Health NZ · General practices](https://www.healthnz.govt.nz/hospitals-services/services-support/general-practices)
 
-最近查核日期：2026-10-20；各条目实际查核日期见下。
+最近查核日期：2026-10-25；各条目实际查核日期见下。
 
 - **Enrol：先把自己注册进一家诊所**（2026-10-20）：符合公费医疗条件者可办理 enrol；诊所可能要求护照等证明及注册表。
 - **听到 closed books，继续问可选路径**（2026-10-20）：相关官网提供诊所查找和注册信息；具体名额需向诊所确认。
 - **慢性或复杂问题，尽量连续看同一位医生**（2026-10-20）：官方将长期健康问题管理列为全科团队的职责之一。
+- **用Healthpoint查服务 分开确认注册、临时就诊与当天预约**（2026-10-25）：目录能帮助查找服务；接诊状态、费用和语言安排仍要向提供者确认。
 
 ## [Health NZ · Publicly funded healthcare](https://www.healthnz.govt.nz/hospitals-services/eligibility-subsidies/publicly-funded-healthcare)
 
@@ -131,10 +132,17 @@
 
 ## [Health NZ · Planned care](https://www.healthnz.govt.nz/hospitals-services/services-support/planned-care)
 
-最近查核日期：2026-10-20；各条目实际查核日期见下。
+最近查核日期：2026-10-25；各条目实际查核日期见下。
 
 - **需要专科时，先问评估和转介路径**（2026-10-20）：官方 planned care 流程由医疗提供者评估是否需要转介。
-- **转介后，把回信和复评节点记下来**（2026-10-20）：官方说明转介后应获知下一步；情况恶化应回医疗提供者复评。
+- **检查或转介后 把结果、回复与复评节点记下来**（2026-10-25）：HDC的信息权利包括检查结果、有关服务的说明及按要求提供书面摘要；Health NZ planned care说明评估与复评路径。
+
+## [HDC · Information, choice and consent](https://www.hdc.org.nz/your-rights/the-code-and-your-rights/your-rights-when-using-a-health-or-disability-service-what-to-do-if-you-have-any-concerns/)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **检查或转介后 把结果、回复与复评节点记下来**（2026-10-25）：HDC的信息权利包括检查结果、有关服务的说明及按要求提供书面摘要；Health NZ planned care说明评估与复评路径。
+- **用Healthpoint查服务 分开确认注册、临时就诊与当天预约**（2026-10-25）：目录能帮助查找服务；接诊状态、费用和语言安排仍要向提供者确认。
 
 ## [Health NZ · Wellbeing support in general practice](https://www.healthnz.govt.nz/health-topics/mental-health/where-to-get-help/wellbeing-support/wellbeing-support-in-general-practice-gp)
 
@@ -491,9 +499,10 @@
 
 ## [Health NZ · Alcohol addiction](https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-addiction)
 
-最近查核日期：2026-10-20；各条目实际查核日期见下。
+最近查核日期：2026-10-25；各条目实际查核日期见下。
 
 - **想减少饮酒，先评估是否需要医疗支持**（2026-10-20）：Health NZ 说明重度依赖者减量或停用可能出现戒断，通常需要健康专业人员帮助；治疗渠道包括不同强度的专业服务。
+- **担心家人的饮酒 自己也可以先寻求支持**（2026-10-25）：全国咨询入口可先讨论选择；奥克兰CADS允许当事人尚未参与时家属独立求助。
 
 ## [Health NZ · Online hospital appointments](https://www.healthnz.govt.nz/online-phone-healthcare/online-hospital-appointments-telehealth)
 
@@ -760,3 +769,33 @@
 最近查核日期：2026-10-21；各条目实际查核日期见下。
 
 - **免费试用也记进账单日历，取消后留凭据**（2026-10-21）：Consumer Protection 建议核对取消条件并保留书面通知。Commerce Commission 的自动续期指引说明不清楚或不合理地捆绑消费者的条款可能不公平；不是任何续期都自动无效。
+
+## [Healthpoint · 机构资料维护说明](https://www.healthpoint.co.nz/assets/video/training/editing/story_content/external_files/Getting_Started.pdf)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **用Healthpoint查服务 分开确认注册、临时就诊与当天预约**（2026-10-25）：目录能帮助查找服务；接诊状态、费用和语言安排仍要向提供者确认。
+
+## [Health NZ · Emergency departments](https://www.healthnz.govt.nz/hospitals-services/services-support/emergency-departments)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **用Healthpoint查服务 分开确认注册、临时就诊与当天预约**（2026-10-25）：目录能帮助查找服务；接诊状态、费用和语言安排仍要向提供者确认。
+
+## [Alcohol Drug Helpline · 服务方说明](https://alcoholdrughelp.org.nz/)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **担心家人的饮酒 自己也可以先寻求支持**（2026-10-25）：全国咨询入口可先讨论选择；奥克兰CADS允许当事人尚未参与时家属独立求助。
+
+## [Health NZ · Help for whānau and friends](https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-and-drug-services/help-for-whanau-and-friends)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **担心家人的饮酒 自己也可以先寻求支持**（2026-10-25）：全国咨询入口可先讨论选择；奥克兰CADS允许当事人尚未参与时家属独立求助。
+
+## [Health NZ · CADS Auckland](https://www.healthnz.govt.nz/hospitals-services/hospitals/auckland/community-alcohol-drug-services)
+
+最近查核日期：2026-10-25；各条目实际查核日期见下。
+
+- **担心家人的饮酒 自己也可以先寻求支持**（2026-10-25）：全国咨询入口可先讨论选择；奥克兰CADS允许当事人尚未参与时家属独立求助。
