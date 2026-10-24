@@ -16,7 +16,7 @@
 
 以下文章及原网址保留；本次只对已标注项目作重点校正，历史资料日期另列。
 
-- [新西兰就医指南 九章](https://gimbo.co.nz/fitness/health-hub)：按筛查、费用、转介、药房、ACC与注册GP等主题理解医疗体系。 Fitness原文 · 2026-10-25重点校正，历史素材日期保留。
+- [新西兰就医指南 九章](https://gimbo.co.nz/fitness/health-hub)：按九章目录或关键词查找筛查、费用、转介、药房、ACC与注册GP等主题，支持快速查阅和完整阅读。 Fitness原文 · 2026-10-25重点校正与阅读更新，历史素材日期保留。
 
 - [Healthpoint中文使用说明](https://gimbo.co.nz/fitness/healthpoint)：查找接收新患者的诊所、语言服务、收费和营业时间。 Fitness原文 · 2026-10-25重点校正，历史素材日期保留。
 
