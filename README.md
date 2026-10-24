@@ -2,7 +2,7 @@
 
 **给在新西兰生活的中文读者，一份按场景查阅、来源透明、可以共同维护的健康与财富指南。**
 
-[打开交互指南](https://gimbo.co.nz/ideas/nz-health-wealth-guide.html) · [项目缘起](https://gimbo.co.nz/ideas/nz-health-wealth) · [Health 专题](docs/HEALTH.md) · [Wealth 专题](docs/WEALTH.md)
+[项目统一入口](https://gimbo.co.nz/ideas/nz-health-wealth/) · [打开交互指南](https://gimbo.co.nz/ideas/nz-health-wealth-guide.html) · [专题文章目录](docs/ARTICLES.md) · [Health 专题](docs/HEALTH.md) · [Wealth 专题](docs/WEALTH.md)
 
 看病之前该问谁？续方、转介和资助怎么确认？KiwiSaver、房贷和保险应该先问哪些问题？本项目从 **The Health Hub** 与 **Smart Money** 的本地 Apple 自动字幕出发，把本地长对话整理成中文行动条目，再用主管机构与公共教育资料核对流程、资格及费用。
 
@@ -100,4 +100,4 @@ python3 scripts/validate_evidence.py --inventory private-reference/health/invent
 - 自行撰写的摘要、说明和界面文字：**CC BY 4.0**，见 [CONTENT-LICENSE.md](CONTENT-LICENSE.md)。
 - 原始节目、音频、字幕、第三方标题、商标与链接资料归各自权利人；上述许可不覆盖它们。
 
-[更新记录](CHANGELOG.md) · [当前版本范围与后续路线](docs/RELEASE.md) · [测试记录](docs/QA.md)
+[更新记录](CHANGELOG.md) · [当前版本范围与后续路线](docs/RELEASE.md) · [测试记录](docs/QA.md) · [GitHub与网站同步发布](docs/PUBLISHING.md)

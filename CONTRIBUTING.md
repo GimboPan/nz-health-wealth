@@ -7,3 +7,5 @@
 新增条目使用 `content/entries.json` 的现有格式。稳定 ID 不随标题改动；保留节目与官方资料的区别；尚未核实的数字不能靠补上链接就视为已核实。
 
 提交前运行 `python3 scripts/build.py`，在桌面和手机宽度检查，确认搜索和对应分类仍能找到条目。内容影响医疗或财务决定时，说明核验范围及剩余疑问。
+
+正式内容变更需按[同步发布流程](docs/PUBLISHING.md)同时更新GitHub与个人网站。个人网站的[Ideas项目文章](https://gimbo.co.nz/ideas/nz-health-wealth/)是统一公开入口，应包含交互指南及[全部专题文章](docs/ARTICLES.md)的链接。仅研究或草稿工作按用户指定范围保留，不自动发布。
